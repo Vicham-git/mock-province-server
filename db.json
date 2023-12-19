@@ -136,6 +136,1170 @@
           }
         ]
       }
+    },
+    {
+      "English": {
+        "id": 2,
+        "city": "Siem Reap",
+        "restaurant": "https://www.tripadvisor.com/Restaurants-g297390-Siem_Reap_Siem_Reap_Province.html",
+        "accomadation": "https://www.booking.com/city/kh/siemreab.en.html?aid=373420;label=city-siemreab-NrZxhIT2hBVJrhcJbSGxQAS388464219742:pl:ta:p1:p2:ac:ap:neg:fi:tiaud-146342137030:kwd-12398762768:lp1009829:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9Ydj4ck6nIj5YRjPru0SpaEk;ws=&gad_source=1&gclid=Cj0KCQiAsvWrBhC0ARIsAO4E6f-P-MxozjfuF_XcyP6ZPQclAjUVwdQyPUt1jNvGImB2-H-B54H4GSYaAkM5EALw_wcB",
+        "intro": "Krong Siem Reap",
+        "description": "Siem Reap is the second-largest city of Cambodia, as well as the capital and largest city of Siem Reap Province in northwestern Cambodia. Siem Reap.",
+        "cityPicture": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRNrAF0S1TAPdztzyeoJI8MZCCWkaawTaLOh_W6oEXUCSTCmxJZ6T5UIUDi6_tW6HCG-WcSXsvgBvBg7OZnolSWNG2H5JMP1lAJq1nqHQ",
+        "siemReap": [
+          {
+            "id": 1,
+            "attractionPlace": "Angkor Wat Temple",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1549962209-892-angkor_wat_october_2006_001.jpg",
+            "tag": "Ancient Ruins",
+            "description": "Angkor Wat is a temple complex in Cambodia, located on a site measuring 162.6 hectares. The Guinness World Records considers it as the largest religious structure in the world."
+          },
+          {
+            "id": 2,
+            "attractionPlace": "Bayon Temple",
+            "imgSrc": "https://cdn.britannica.com/55/122155-050-56389FCC/Bayon-temple-Angkor-Thom-Cambodia.jpg",
+            "tag": "Ancient Ruins",
+            "description": "The Bayon was the state temple of King Jayavarman VII, built at the end of the 12th century. It is a mountain temple built to represent Mount Meru, the center of the universe in Hindu and Buddhist cosmology. However, unlike most Khmer temples, the Bayon is not surrounded by a moat and walls with gopura entrances."
+          },
+          {
+            "id": 3,
+            "attractionPlace": "Bakong Temple",
+            "imgSrc": "https://media.istockphoto.com/id/1294346397/photo/thommanon-temple.jpg?s=612x612&w=0&k=20&c=wwcKUz3RVV2BKnQGG1cJDiuU5Qpt1igDmKy3PrtE4EY=",
+            "tag": "Ancient Ruins",
+            "description": "Bakong is the first Khmer temple mountain of sandstone constructed by rulers of the Khmer Empire at Angkor near modern Siem Reap in Cambodia."
+          },
+          {
+            "id": 4,
+            "attractionPlace": "Neak Pean Temple",
+            "imgSrc": "https://live.staticflickr.com/4902/30968989147_e0cbcf673b_b.jpg",
+            "tag": "Ancient Ruins",
+            "description": "Neak Pean at Angkor, Cambodia is an artificial island with a Hindu temple on a circular island in Jayatataka Baray, which was associated with Preah Khan temple, built during the reign of King Jayavarman VII. It is the 'MEBON' of the Preah Khan baray."
+          },
+          {
+            "id": 5,
+            "attractionPlace": "Baray Teuk Thla (West Baray)",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WestBaray.jpg/396px-WestBaray.jpg",
+            "tag": "Water Reservoir ",
+            "description": "The West Baray or Baray Teuk Thla is a baray, or reservoir, at Angkor, Cambodia, oriented east–west and located just west of the walled city Angkor Thom."
+          },
+          {
+            "id": 6,
+            "attractionPlace": "Angkor Thom Temple",
+            "imgSrc": "https://a.cdn-hotels.com/gdcs/production48/d239/d6db5fa2-4295-4a44-93db-61a250044dc4.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+            "tag": "Ancient Ruins",
+            "description": "Angkor Thom alternatively Nokor Thom located in present-day Cambodia, was the last and most enduring capital city of the Khmer Empire. It was established in the late twelfth century by King Jayavarman VII."
+          },
+          {
+            "id": 7,
+            "attractionPlace": "Kulen Mountain National Park",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/ministry-of-tourism-cambodia-2019-02-22-04-01-47am1550808108-1377.jpg",
+            "tag": "National Park",
+            "description": "Phnom Kulen is a mountain range and a part of Phnom Kulen National Park in Siem Reap Province, Cambodia."
+          },
+          {
+            "id": 8,
+            "attractionPlace": "Angkor Balloon",
+            "imgSrc": "https://avytravel.com/wp-content/uploads/2023/04/42-P1050654-scaled.jpg",
+            "tag": "Balloon Rides",
+            "description": "Angkor Balloon is a tethered helium balloon located 800m from Angkor Wat. The helium balloon is attached to a mechanical cable to the ground and ascends to approximately 120m (394 feet) for a 10 minutes ride and can carry up to 20 passengers. From sunrise to sunset, enjoy the amazing aerial views of Angkor Wat, Phnom Bakheng and West Baray. You may even observe the Tonle Sap Lake and Phnom Krom. Take amazing pictures and bring home memories that last a lifetime."
+          }
+        ]
+      },
+
+      "Khmer": {
+        "id": 2,
+        "city": "សៀមរាប",
+        "restaurant": "https://www.tripadvisor.com/Restaurants-g297390-Siem_Reap_Siem_Reap_Province.html",
+        "accomadation": "https://www.booking.com/city/kh/siemreab.en.html?aid=373420;label=city-siemreab-NrZxhIT2hBVJrhcJbSGxQAS388464219742:pl:ta:p1:p2:ac:ap:neg:fi:tiaud-146342137030:kwd-12398762768:lp1009829:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9Ydj4ck6nIj5YRjPru0SpaEk;ws=&gad_source=1&gclid=Cj0KCQiAsvWrBhC0ARIsAO4E6f-P-MxozjfuF_XcyP6ZPQclAjUVwdQyPUt1jNvGImB2-H-B54H4GSYaAkM5EALw_wcB",
+        "intro": "ក្រុងសៀមរាប",
+        "description": "សៀមរាប គឺជាទីក្រុងធំទីពីររបស់ប្រទេសកម្ពុជា ក៏ដូចជារាជធានី និងជាទីក្រុងធំជាងគេរបស់ខេត្តសៀមរាប នៅភាគពាយ័ព្យនៃប្រទេសកម្ពុជា។ សៀមរាប។",
+        "cityPicture": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRNrAF0S1TAPdztzyeoJI8MZCCWkaawTaLOh_W6oEXUCSTCmxJZ6T5UIUDi6_tW6HCG-WcSXsvgBvBg7OZnolSWNG2H5JMP1lAJq1nqHQ",
+        "siemReap": [
+          {
+            "id": 1,
+            "attractionPlace": "ប្រាសាទ អង្គរវត្ត",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1549962209-892-angkor_wat_october_2006_001.jpg",
+            "tag": "ប្រាសាទបុរាណ",
+            "description": "ប្រាសាទអង្គរវត្តជាប្រាសាទមួយក្នុងប្រទេសកម្ពុជា ដែលមានទីតាំងនៅលើផ្ទៃដី ១៦២.៦ ហិកតា។ កំណត់ត្រាពិភពលោក Guinness ចាត់ទុកវាជារចនាសម្ព័ន្ធសាសនាដ៏ធំបំផុតនៅក្នុងពិភពលោក។"
+          },
+          {
+            "id": 2,
+            "attractionPlace": "ប្រាសាទ បាយ័ន",
+            "imgSrc": "https://cdn.britannica.com/55/122155-050-56389FCC/Bayon-temple-Angkor-Thom-Cambodia.jpg",
+            "tag": "ប្រាសាទបុរាណ",
+            "description": "ប្រាសាទបាយ័ន គឺជាប្រាសាទរដ្ឋរបស់ព្រះបាទជ័យវរ្ម័នទី៧ ដែលសាងសង់ឡើងនៅចុងសតវត្សទី១២។ វាគឺជាប្រាសាទភ្នំមួយដែលត្រូវបានសាងសង់ឡើងដើម្បីតំណាងឱ្យភ្នំព្រះសុមេរុ ដែលជាមជ្ឈមណ្ឌលនៃចក្រវាឡក្នុងព្រហ្មញ្ញសាសនា និងពុទ្ធសាសនា។ ទោះយ៉ាងណាក៏ដោយ មិនដូចប្រាសាទខ្មែរភាគច្រើនទេ ប្រាសាទបាយ័នមិនត្រូវបានហ៊ុំព័ទ្ធដោយកសិណ និងជញ្ជាំងដែលមានច្រកចូលគោបុរៈទេ។"
+          },
+          {
+            "id": 3,
+            "attractionPlace": "ប្រាសាទ បាគង",
+            "imgSrc": "https://media.istockphoto.com/id/1294346397/photo/thommanon-temple.jpg?s=612x612&w=0&k=20&c=wwcKUz3RVV2BKnQGG1cJDiuU5Qpt1igDmKy3PrtE4EY=",
+            "tag": "ប្រាសាទបុរាណ",
+            "description": "បាគង គឺជាប្រាសាទខ្មែរដំបូងបង្អស់ដែលសាងសង់ដោយថ្មភក់ ដែលត្រូវបានសាងសង់ឡើងដោយអ្នកគ្រប់គ្រងនៃអាណាចក្រខ្មែរនៅអង្គរនៅជិតខេត្តសៀមរាបទំនើបក្នុងប្រទេសកម្ពុជា។"
+          },
+          {
+            "id": 4,
+            "attractionPlace": "ប្រាសាទ នាគព័ន្ធ",
+            "imgSrc": "https://live.staticflickr.com/4902/30968989147_e0cbcf673b_b.jpg",
+            "tag": "ប្រាសាទបុរាណ",
+            "description": "នាគព័ន្ធនៅអង្គរ ប្រទេសកម្ពុជា គឺជាកោះសិប្បនិមិត្តមួយ ដែលមានប្រាសាទហិណ្ឌូនៅលើកោះរាងជារង្វង់នៅ ជយតាតក បារាយណ៍ ដែលមានទំនាក់ទំនងជាមួយប្រាសាទព្រះខ័ន ដែលសាងសង់ក្នុងរជ្ជកាលព្រះបាទជ័យវរ្ម័នទី៧។ វាជា 'មេបុណ្យ' នៃបារាយណ៍ព្រះខ័ន។"
+          },
+          {
+            "id": 5,
+            "attractionPlace": "បារាយណ៏ ទឹកថ្លា (បារាយណ៏ ខាងលិច)",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WestBaray.jpg/396px-WestBaray.jpg",
+            "tag": "អាងស្តុកទឹក",
+            "description": "បារាយណ៍ខាងលិច ឬបារាយណ៍ទឹកថ្លា គឺជាបារាយណ៍ ឬអាងស្តុកទឹកនៅអង្គរ ប្រទេសកម្ពុជា ទិសខាងកើត-លិច និងស្ថិតនៅខាងលិចនៃកំពែងក្រុងអង្គរធំ។"
+          },
+          {
+            "id": 6,
+            "attractionPlace": "ប្រាសាទ អង្គរធំ",
+            "imgSrc": "https://a.cdn-hotels.com/gdcs/production48/d239/d6db5fa2-4295-4a44-93db-61a250044dc4.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+            "tag": "ប្រាសាទបុរាណ",
+            "description": "អង្គរធំ ម្យ៉ាងវិញទៀត នគរធំ ដែលមានទីតាំងនៅក្នុងប្រទេសកម្ពុជាបច្ចុប្បន្ន គឺជារាជធានីចុងក្រោយ និងយូរអង្វែងបំផុតនៃអាណាចក្រខ្មែរ។ វាត្រូវបានបង្កើតឡើងនៅចុងសតវត្សរ៍ទី១២ ដោយព្រះបាទជ័យវរ្ម័នទី៧។"
+          },
+          {
+            "id": 7,
+            "attractionPlace": "ភ្នំគូលេន (ឧទ្យានជាតិ ភ្នំគូលែន)",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/ministry-of-tourism-cambodia-2019-02-22-04-01-47am1550808108-1377.jpg",
+            "tag": "ឧទ្យានជាតិ",
+            "description": "ភ្នំគូលែន ជាជួរភ្នំ និងជាផ្នែកមួយនៃឧទ្យានជាតិភ្នំគូលែន ក្នុងខេត្តសៀមរាប ប្រទេសកម្ពុជា។"
+          },
+          {
+            "id": 8,
+            "attractionPlace": "ប៉េងប៉ោង អង្គរ",
+            "imgSrc": "https://avytravel.com/wp-content/uploads/2023/04/42-P1050654-scaled.jpg",
+            "tag": "ជិះប៉េងប៉ោង",
+            "description": "ប៉េងប៉ោង​អង្គរ​ជា​ប៉េងប៉ោង​អេលីយ៉ូម​ដែល​មាន​ភ្ជាប់​នៅ​ចម្ងាយ ៨០០ ម៉ែត្រ​ពី​ប្រាសាទ​អង្គរវត្ត។ ប៉េងប៉ោងអេលីយ៉ូមត្រូវបានភ្ជាប់ជាមួយនឹងខ្សែមេកានិចទៅនឹងដី ហើយឡើងដល់កម្ពស់ប្រហែល 120 ម៉ែត្រ (394 ហ្វីត) សម្រាប់ការជិះរយៈពេល 10 នាទី ហើយអាចផ្ទុកអ្នកដំណើរបានរហូតដល់ 20 នាក់។ ចាប់ពីថ្ងៃរះរហូតដល់ថ្ងៃលិច រីករាយនឹងទិដ្ឋភាពពីលើអាកាសដ៏អស្ចារ្យនៃប្រាសាទអង្គរវត្ត ភ្នំបាខែង និងបារាយណ៍ខាងលិច។ អ្នកក៏អាចមើលបឹងទន្លេសាប និងភ្នំក្រោមផងដែរ។ ថតរូបដ៏អស្ចារ្យ និងនាំមកនូវការចងចាំដល់ផ្ទះដែលស្ថិតស្ថេរអស់មួយជីវិត។"
+          }
+        ]
+      }
+    },
+    {
+      "English": {
+        "id": 3,
+        "city": "Kandal",
+        "restaurant": "https://www.tripadvisor.com/Restaurants-g2366665-Kandal_Province.html",
+        "accomadation": "https://www.booking.com/searchresults.en-gb.html?ss=Kandal+Province%2C+Cambodia&ssne=Sigiriya&ssne_untouched=Sigiriya&label=gen173nr-1FCAMoeEIKcGhub20tcGVuaEgzWARoeIgBAZgBCbgBF8gBDNgBAegBAfgBC4gCAagCA7gC09D3qwbAAgHSAiQ4NmE2ODQ3Yy0zM2UzLTQ4NTItYTVhZS01NjRiYTQ4NDJiN2XYAgbgAgE&sid=fa1ecddef872dea60251d634fd1a7085&aid=304142&lang=en-gb&sb=1&src_elem=sb&src=searchresults&dest_id=6294&dest_type=region&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=e1027fef5b960005&ac_meta=GhBlMTAyN2ZlZjViOTYwMDA1IAAoATICZW46CWthbmRhbCBwckAASgBQAA%3D%3D&group_adults=2&no_rooms=1&group_children=0",
+        "intro": "Svay Rieng Province",
+        "description": "Kandal province completely surrounds the capital Phnom Penh. The province is also a part of the greater Phnom Penh Metropolitan Area with more than a million people living in and around the province. While traveling out of Phnom Penh, the boundary between the two provinces is nearly unrecognizable.",
+        "cityPicture": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/76/63/06/caption.jpg?w=500&h=400&s=1",
+        "kandal": [
+          {
+            "id": 1,
+            "attractionPlace": "Phreah Reach Traop Mountain (Phnom Oudong - Phnom Edtharaes)",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550128420-1066-jmutzzmi.jpg",
+            "tag": "Historic Sites · Mountain",
+            "description": "Located around 40 km north of Phnom Penh in Kandal Province, Oudong became the capital of Cambodia after it shifted from nearby Longvek in 1618 and was the seat of power for over two centuries until around 1863 when it shifted to what is now Phnom Penh. The ancient capital once radiated out around the base of this mountain in all directions with major development around the busy port at Kampong Loung on the edge of the Tonle Sap River."
+          },
+          {
+            "id": 2,
+            "attractionPlace": "Prasith Mountain (Phnom Prasith)",
+            "imgSrc": "https://www.greeneratravel.com/userfiles/850phnomprasith.jpg",
+            "tag": "Pagoda · Historic Sites",
+            "description": "It located at the communes of Ma Kak, Phnom Penh District and Chhving, Ponhea Leu District. To get there by the document of Khmer Table Part 6; explains that tourists should travel along the National Road N0 5 (Phnom Penh-Battambang) until they reach the Kilometer 38 closed to Udong market, turn left about 16 Kilometers by the National Road N0 26 until they reach the turning road, turn left as long as they reach the Prasith Mountain."
+          },
+          {
+            "id": 3,
+            "attractionPlace": "Slick Island (Koh dach - Koh Roof)",
+            "imgSrc": "https://www.experiencetravelgroup.com/reposit/y495_20140306024317.jpg",
+            "tag": "Island",
+            "description": "Koh Dach located 20 km northeast of Phnom Penh and has an area of 30 square kilometers. It can be reached by National Road No6A and by boat along the Mekong River. Koh Dach features a traditional silk-weaving village in which local craftsmen are skilled at spinning and weaving for their livelihood. It also has fishing villages on the bank of the river."
+          },
+          {
+            "id": 4,
+            "attractionPlace": "Angkor Chey Pagoda",
+            "imgSrc": "https://www.cambotours.com/userfiles/thumbs/angkor-chey-pagoda-kandal.jpg",
+            "tag": "Pagoda",
+            "description": "Ang Kor Chey Pagoda is located at Ban Tey Dek commune, Kean Svay District in total distance of 29km from Phnom Penh or 32.6 km from Ta Khmao by the National Road N0 1 (Phnom Penh-Svay Rieng province). "
+          },
+          {
+            "id": 5,
+            "attractionPlace": "Preah Sakyamoni Chedi",
+            "imgSrc": "https://i0.wp.com/helloangkor.com/wp-content/uploads/2021/01/IMG_20220201_155741-e1646371820527.jpg?fit=1224%2C709&ssl=1",
+            "tag": "Pagoda · Religious Sites",
+            "description": "The Preah Sakyamoni Chedi is one of the best and most intact chedi structures in the Udong Mountain temple complex."
+          },
+          {
+            "id": 6,
+            "attractionPlace": "Kean Svay Krau",
+            "imgSrc": "https://3.bp.blogspot.com/-Qm34KLlvbng/Vj8JCEjneiI/AAAAAAAABt0/J-9MqAKj8AE/s1600/p.txt.jpg",
+            "tag": "Resort",
+            "description": "Kean Svay Krau is located at Phum Thum commune, Kean Svay District in total distance of 19 km from Phnom Penh or 20 km from Ta Khmao."
+          },
+          {
+            "id": 7,
+            "attractionPlace": "Tum Pek Pagoda",
+            "imgSrc": "https://www.tourismcambodia.com/img/travelguides/tum-pek-pagoda.gif",
+            "tag": "Pagoda",
+            "description": "Located at Krang Yau Commune, Sa ang District, Kandal province. Kandal province has 8,000-hectar landarea and 12,700 people. Krang Yau is the developed region of Samdach Hun Sen having projects on development and agricultural product processing; in this region, there are vast rice fields, canal network and good red soil roads connecting from village to village."
+          },
+          {
+            "id": 8,
+            "attractionPlace": "Handicdraft Centre (Mekong Island)",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550127469-1064-0q62qk1p.jpg",
+            "tag": "Island · Village",
+            "description": "Handicraft center is located at Koh Dach Commune, Mok Kampoul District at the middle of Mekong River. The commune of Koh Dach has 12-kilometer length and width from 100m to 2,500 Meters, borders Prek Luong commune at the East and Uk Nha Tey commune, Koh Dach district at the west, and faces with the communes of Prek Leap and Bak Kheng, Mok Kampoul District."
+          }
+        ]
+      },
+
+      "Khmer": {
+        "id": 3,
+        "city": "កណ្តាល",
+        "restaurant": "https://www.tripadvisor.com/Restaurants-g2366665-Kandal_Province.html",
+        "accomadation": "https://www.booking.com/searchresults.en-gb.html?ss=Kandal+Province%2C+Cambodia&ssne=Sigiriya&ssne_untouched=Sigiriya&label=gen173nr-1FCAMoeEIKcGhub20tcGVuaEgzWARoeIgBAZgBCbgBF8gBDNgBAegBAfgBC4gCAagCA7gC09D3qwbAAgHSAiQ4NmE2ODQ3Yy0zM2UzLTQ4NTItYTVhZS01NjRiYTQ4NDJiN2XYAgbgAgE&sid=fa1ecddef872dea60251d634fd1a7085&aid=304142&lang=en-gb&sb=1&src_elem=sb&src=searchresults&dest_id=6294&dest_type=region&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=e1027fef5b960005&ac_meta=GhBlMTAyN2ZlZjViOTYwMDA1IAAoATICZW46CWthbmRhbCBwckAASgBQAA%3D%3D&group_adults=2&no_rooms=1&group_children=0",
+        "intro": "ខេត្តកណ្តាល",
+        "description": "ខេត្តកណ្តាលព័ទ្ធជុំវិញរាជធានីភ្នំពេញទាំងស្រុង។ ខេត្ត​នេះ​ក៏​ជា​ផ្នែក​មួយ​នៃ​ទីក្រុង​ភ្នំពេញ​ដ៏​ធំ​មួយ​ដែល​មាន​ប្រជាជន​ជាង​មួយ​លាន​នាក់​រស់នៅ​ក្នុង​និង​ជុំវិញ​ខេត្ត។ ក្នុង​ពេល​ធ្វើ​ដំណើរ​ចេញ​ពី​រាជធានី​ភ្នំពេញ ព្រំប្រទល់​រវាង​ខេត្ត​ទាំង​ពីរ​គឺ​ស្ទើរតែ​មិន​អាច​ស្គាល់​បាន។",
+        "cityPicture": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/76/63/06/caption.jpg?w=500&h=400&s=1",
+        "kandal": [
+          {
+            "id": 1,
+            "attractionPlace": "ភ្នំព្រះរាជទ្រព្យ (ភ្នំឧត្តុង្គ - ភ្នំ Edtharaes)",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550128420-1066-jmutzzmi.jpg",
+            "tag": "ភ្នំ · ទីតាំងប្រវត្តិសាស្ត",
+            "description": "ស្ថិតនៅចម្ងាយប្រហែល 40 គីឡូម៉ែត្រភាគខាងជើងនៃរាជធានីភ្នំពេញក្នុងខេត្តកណ្តាល ឧដុង្គបានក្លាយជារាជធានីនៃប្រទេសកម្ពុជាបន្ទាប់ពីវាបានផ្លាស់ប្តូរពីក្បែរនោះ លុងវែកក្នុងឆ្នាំ 1618 និងជាកន្លែងកាន់អំណាចអស់រយៈពេលជាងពីរសតវត្សរហូតដល់ប្រហែលឆ្នាំ 1863 នៅពេលដែលវាបានផ្លាស់ប្តូរមកទីក្រុងភ្នំពេញឥឡូវនេះ។ រាជធានីបុរាណធ្លាប់បញ្ចេញពន្លឺជុំវិញជើងភ្នំនេះគ្រប់ទិសទី ជាមួយនឹងការអភិវឌ្ឍន៍ធំៗជុំវិញកំពង់ផែដ៏មមាញឹកនៅកំពង់លួងនៅមាត់ទន្លេសាប។"
+          },
+          {
+            "id": 2,
+            "attractionPlace": "ភ្នំប្រសិទ្ធ",
+            "imgSrc": "https://www.greeneratravel.com/userfiles/850phnomprasith.jpg",
+            "tag": "វត្ត · ទីតាំងប្រវត្តិសាស្ត្រ",
+            "description": "មានទីតាំងនៅសង្កាត់ម៉ាកាក់ ខណ្ឌភ្នំពេញ និងឃុំឈ្វាំង ស្រុកពញាឮ។ ទៅ​ដល់​ទីនោះ​តាម​ឯកសារ​តារាង​ខ្មែរ ភាគ​៦; ពន្យល់ថា អ្នកទេសចរគួរធ្វើដំណើរតាមផ្លូវជាតិលេខ ៥ (ភ្នំពេញ-បាត់ដំបង) រហូតមកដល់គីឡូម៉ែត្រលេខ ៣៨ បិទផ្សារឧដុង្គ បត់ឆ្វេងប្រហែល ១៦ គីឡូម៉ែត្រ តាមផ្លូវជាតិលេខ ២៦ រហូតទៅដល់ផ្លូវបត់ បត់ឆ្វេងឱ្យវែង។ ពេលទៅដល់ភ្នំប្រសិទ្ធ។"
+          },
+          {
+            "id": 3,
+            "attractionPlace": "កោះដាច់",
+            "imgSrc": "https://www.experiencetravelgroup.com/reposit/y495_20140306024317.jpg",
+            "tag": "កោះ",
+            "description": "កោះដាច់​ស្ថិត​នៅ​ចម្ងាយ ២០ គីឡូម៉ែត្រ​ភាគ​ឦសាន​រាជធានី​ភ្នំពេញ និង​មាន​ផ្ទៃដី ៣០ គីឡូម៉ែត្រ​ក្រឡា។ អាចធ្វើដំណើរតាមផ្លូវជាតិលេខ៦អា និងតាមទូកតាមដងទន្លេមេគង្គ។ កោះដាច់​មាន​ភូមិ​តម្បាញ​សូត្រ​បែប​ប្រពៃណី ដែល​សិប្បករ​ក្នុង​ស្រុក​មាន​ជំនាញ​ត្បាញ និង​ត្បាញ​សម្រាប់​ចិញ្ចឹម​ជីវិត។ វាក៏មានភូមិនេសាទនៅមាត់ទន្លេផងដែរ។"
+          },
+          {
+            "id": 4,
+            "attractionPlace": "វត្តអង្គរជ័យ",
+            "imgSrc": "https://www.cambotours.com/userfiles/thumbs/angkor-chey-pagoda-kandal.jpg",
+            "tag": "វត្ត",
+            "description": "វត្តអង្គគរជ័យ មានទីតាំងនៅឃុំបន្ទាយដែក ស្រុកកៀនស្វាយ ចម្ងាយសរុប 29km ពីរាជធានីភ្នំពេញ ឬ 32.6km ពីតាខ្មៅ តាមផ្លូវជាតិលេខ 1 (ភ្នំពេញ-ខេត្តស្វាយរៀង)។"
+          },
+          {
+            "id": 5,
+            "attractionPlace": "ព្រះសក្យមុនីចេតិយ",
+            "imgSrc": "https://i0.wp.com/helloangkor.com/wp-content/uploads/2021/01/IMG_20220201_155741-e1646371820527.jpg?fit=1224%2C709&ssl=1",
+            "tag": "ទីកន្លែងសាសនា · ទីតាំងប្រវត្តិសាស្ត្រ",
+            "description": "ចេតិយ​ព្រះ​សក្យមុនី គឺ​ជា​សំណង់​ចេតិយ​ដ៏​ល្អ​បំផុត នៅ​ក្នុង​បរិវេណ​ប្រាសាទ​ភ្នំ​ឧដុង្គ។"
+          },
+          {
+            "id": 6,
+            "attractionPlace": "កៀនស្វាយក្រៅ",
+            "imgSrc": "https://3.bp.blogspot.com/-Qm34KLlvbng/Vj8JCEjneiI/AAAAAAAABt0/J-9MqAKj8AE/s1600/p.txt.jpg",
+            "tag": "រមណីដ្ឋាន",
+            "description": "កៀនស្វាយក្រោម មានទីតាំងនៅឃុំភូមិធំ ស្រុកកៀនស្វាយ ចម្ងាយសរុប ១៩គីឡូម៉ែត្រពីរាជធានីភ្នំពេញ ឬ២០គីឡូម៉ែត្រពីក្រុងតាខ្មៅ។"
+          },
+          {
+            "id": 7,
+            "attractionPlace": "វត្តទុំពែក",
+            "imgSrc": "https://www.tourismcambodia.com/img/travelguides/tum-pek-pagoda.gif",
+            "tag": "Pagoda",
+            "description": "ស្ថិតនៅឃុំក្រាំងយ៉ូវ ស្រុកស្អាង ខេត្តកណ្តាល។ ខេត្តកណ្តាលមានផ្ទៃដី ៨.០០០ ហិកតា និងប្រជាជន ១២.៧០០ នាក់។ ក្រាំងយ៉ូវ ជាតំបន់អភិវឌ្ឍន៍របស់សម្តេច ហ៊ុន សែន ដែលមានគម្រោងអភិវឌ្ឍន៍ និងកែច្នៃផលិតផលកសិកម្ម។ នៅតំបន់នេះមានវាលស្រែធំទូលាយ បណ្តាញប្រឡាយ និងផ្លូវដីក្រហមល្អ តភ្ជាប់ពីភូមិមួយទៅភូមិមួយ។"
+          },
+          {
+            "id": 8,
+            "attractionPlace": "មជ្ឈមណ្ឌលសិប្បកម្ម",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550127469-1064-0q62qk1p.jpg",
+            "tag": "កោះ · ភូមិ",
+            "description": "មជ្ឈមណ្ឌលសិប្បកម្ម មានទីតាំងនៅឃុំកោះដាច់ ស្រុកមុខកំពូល កណ្តាលទន្លេមេគង្គ។ ឃុំកោះដាច់ មានប្រវែង១២គីឡូម៉ែត្រ និងទទឹងចាប់ពី១០០ម៉ែត្រ ដល់២៥០០ម៉ែត្រ មានព្រំប្រទល់ជាប់ឃុំព្រែកលួងខាងកើត និងឃុំឧញ៉ាតី ស្រុកកោះដាច់ ខាងលិចទល់មុខឃុំព្រែកលៀប និងឃុំបាក់ខែង ស្រុកមុខកំពូល។"
+          }
+        ]
+      }
+    },
+
+    {
+      "English": {
+        "id": 4,
+        "city": "Takeo",
+        "restaurant": "https://www.tripadvisor.com/Restaurants-g1393484-Takeo_Takeo_Province.html",
+        "accomadation": "https://www.booking.com/searchresults.en-gb.html?ss=Takeo+Province%2C+Cambodia&ssne=Siem+Reap&ssne_untouched=Siem+Reap&label=city-siemreab-NrZxhIT2hBVJrhcJbSGxQAS388464219742%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-146342137030%3Akwd-12398762768%3Alp1009829%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9Ydj4ck6nIj5YRjPru0SpaEk&sid=fa1ecddef872dea60251d634fd1a7085&aid=373420&lang=en-gb&sb=1&src_elem=sb&src=searchresults&dest_id=6762&dest_type=region&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=147a3b5ea03f0133&ac_meta=GhAxNDdhM2I1ZWEwM2YwMTMzIAAoATICZW46B1Rha2VvIHBAAEoAUAA%3D&group_adults=2&no_rooms=1&group_children=0",
+        "intro": "Takeo Province",
+        "description": "Takéo is a province of Cambodia. Located in the south of Cambodia to the west of Bassac River, Takéo borders the provinces of Kampot to the west, Kampong Speu to the northwest and Kandal to the north and east. Its southern boundary is the international border with Vietnam.",
+        "cityPicture": "https://lh5.googleusercontent.com/p/AF1QipMh4F5HWLGFYTu3Kwrz5_EmHVH5BDTVdLxW_rEY=w675-h390-n-k-no",
+        "takeo": [
+          {
+            "id": 1,
+            "attractionPlace": "Phnom Bayong Koa Temple",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550128420-1066-jmutzzmi.jpg",
+            "tag": "Ancient Ruins · Mountain",
+            "description": "Some 40 km away from the central city of Takeo province, are two groups of ruins dating back to the Pre-Angkorian period. At these sites, there is the bigger group, belonging to the Bayong Koa and a smaller at the Ta Nhean temple. Surrounding the temples is green a lush forest exuding a heavy scent of a dense jungle, obviously left undisturbed for a very long while.  It requires a good pair of shoes to explore these areas since the 390 steps that rise more than 300 meters to the foot of the Bayong Koa temple is no easy climb for some."
+          },
+          {
+            "id": 2,
+            "attractionPlace": "Chiso Mountain (Phnom Chiso)",
+            "imgSrc": "https://www.greeneratravel.com/userfiles/850phnomchiso.jpg",
+            "tag": "Ancient Ruins · Historic Sites",
+            "description": "High on a mountain, this beautiful temple with spectacular views lies at the end of a 412 step walk from the southern side, and on its eastern side for a drive to the top. Also located in Rovieng Commune, Samrong District, two kilometres past Neang Khmao Temple then turn down left, the oldest sections of the atmospheric ruins date back to the early 11th century. Built by Suryavarman I (of Angkor Wat fame), the temple is a small but impressive lateritic and sandstone structure."
+          },
+          {
+            "id": 3,
+            "attractionPlace": "Neang Khmao Temple (Prasat Neang Khmao)",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/ministry-of-tourism-cambodia-2019-03-04-10-29-42am1551695383-1668.png",
+            "tag": "Ancient Ruins",
+            "description": "A brick and sandstone temple in poor condition about 10 km from Ta Mao Zoo further along National Route 2. Built in the nine century and located in Rovieng Commune, Samrong district, this is the temple mentioned in the legend of Takeo's naming. About 58 km Phnom Penh."
+          },
+          {
+            "id": 4,
+            "attractionPlace": "Ta Mao Zoo (Phnom Ta Mao)",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/ministry-of-tourism-cambodia-2019-03-04-10-40-37am1551696038-1673.jpg",
+            "tag": "Zoo",
+            "description": "About 10 kilometers further down the same road No 2 from Ta Prom temple, Ta Mao Zoo enjoys a picturesque location. The involvement of several wildlife NGOs has helped ensure that most of the zoo is of a fairly humane standard, although work to improve the conditions is ongoing. There are several outstanding enclosures, one of which houses the tigers, bears and elephants etc. A good place to experience Cambodia's wildlife at chose quarters. Small entry fee."
+          },
+          {
+            "id": 5,
+            "attractionPlace": "Ta Nhean temple",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550131793-1078-new-Angkor-Borie.jpg",
+            "tag": "Ancient Ruins",
+            "description": "Some 3 km away from the Bayong Koa temple is Ta Nhean (which means 'grandfather Nhean' in Khmer language) temples group were erected in the early 7th century by King Bhavarman I in homage to the Hindu god Shiva. Built of brick, lateritic and sandstone, the temple is stylistically different from many of Cambodia's better-known ancient structures between Prey Khmeng and Sambo Prey Kuk stylist. Further down the dirt road, there are villages of Preah Bat Chann Chum commune ready to welcome visitors and tourists with locally homegrown organic fruits for cheap price. At the farmer's market, one can purchase hiking shoes and hats to climbing the temples. Local tour guide are available to lead the climbing tour and explain the temple history."
+          },
+          {
+            "id": 6,
+            "attractionPlace": "Phnom Kleng Mountain",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550130712-1076-far-east-vacation-wat-phnom-khliang.jpg",
+            "tag": "Ancient Ruins · Pagoda",
+            "description": "Wat Phnom Kleng is one of the monasteries since 18th century, and built in the 1950s by a famous local monk. Thanks to the generous support from the people, the monastery has become a popular place in Takeo province. On the weekends, locals and non locals go there to pray for lucky and happiness. What makes Phnom Kleng special scenery is that pagoda were surrounded by rice-fields. Thus, the pagoda offers natural beauty, fresh air and tranquility. If one is bold enough to climb to the peak of the mountain, the summit provides panoramic view of the countryside. Phnom Kleng is located in the Prey Slek commune of Traing district, Takeo province, at a distance 100 km from Phnom Penh. Travel along Road No. 2 until you arrive at Takeo Town, straight along away about 15 km."
+          },
+          {
+            "id": 7,
+            "attractionPlace": "Angkor Borei and Phnom Da",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wat_asram_moha_russei.jpg/375px-Wat_asram_moha_russei.jpg",
+            "tag": "Ancient Ruins · Mountain",
+            "description": "They are both in the southern part of Cambodia, about 10 kilometres (6.2 mi) from the western split of Mekong river delta, 150 kilometres (93 mi) from the seacoast, near the Vietnam border and the Óc Eo site. The Angkor Borei site was likely an early capital and a region where southeast Asian culture and arts fused in the ancient times."
+          },
+          {
+            "id": 8,
+            "attractionPlace": "Visiting a silk and Kroma manufacturing village",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/ministry-of-tourism-cambodia-2019-03-04-10-11-35am1551694296-1666.jpg",
+            "tag": "Village",
+            "description": "Cambodian farmers make traditional silk all throughout the kingdom but for day tripping, it may convenient to visit several interesting places such as Pea-ream and Thnoat communes in Bati district, and Tang Yab and Say-va commune in the Samrong district of Takeo province. At Tang Yab villages, well know as a 'weaving handicraft village,' is on one of the largest village located nearby Chiso temple, it's about 4 kilometres from the leg of mountain, and is about 65 kilometres from Phnom Penh."
+          }
+        ]
+      },
+
+      "Khmer": {
+        "id": 4,
+        "city": "តាកែវ",
+        "restaurant": "https://www.tripadvisor.com/Restaurants-g1393484-Takeo_Takeo_Province.html",
+        "accomadation": "https://www.booking.com/searchresults.en-gb.html?ss=Takeo+Province%2C+Cambodia&ssne=Siem+Reap&ssne_untouched=Siem+Reap&label=city-siemreab-NrZxhIT2hBVJrhcJbSGxQAS388464219742%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-146342137030%3Akwd-12398762768%3Alp1009829%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9Ydj4ck6nIj5YRjPru0SpaEk&sid=fa1ecddef872dea60251d634fd1a7085&aid=373420&lang=en-gb&sb=1&src_elem=sb&src=searchresults&dest_id=6762&dest_type=region&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=147a3b5ea03f0133&ac_meta=GhAxNDdhM2I1ZWEwM2YwMTMzIAAoATICZW46B1Rha2VvIHBAAEoAUAA%3D&group_adults=2&no_rooms=1&group_children=0",
+        "intro": "ខេត្តតាកែវ",
+        "description": "តាកែវជាខេត្តមួយរបស់កម្ពុជា។ ស្ថិតនៅភាគខាងត្បូងប្រទេសកម្ពុជា ខាងលិចទន្លេបាសាក់ ខេត្តតាកែវ មានព្រំប្រទល់ជាប់នឹងខេត្តកំពត ខាងលិចជាប់ខេត្តកំពង់ស្ពឺ ខាងជើងឆៀងខាងលិច និងកណ្តាលនៅខាងជើង និងខាងកើត។ ព្រំប្រទល់ភាគខាងត្បូងរបស់វាគឺព្រំដែនអន្តរជាតិជាមួយវៀតណាម។",
+        "cityPicture": "https://lh5.googleusercontent.com/p/AF1QipMh4F5HWLGFYTu3Kwrz5_EmHVH5BDTVdLxW_rEY=w675-h390-n-k-no",
+        "takeo": [
+          {
+            "id": 1,
+            "attractionPlace": "ប្រាសាទភ្នំបាយ៉ង់ (ប្រាសាទភ្នំបាយ៉ង់កោរ)",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550128420-1066-jmutzzmi.jpg",
+            "tag": "ប្រាសាទបុរាណ · ភ្នំ",
+            "description": "ប្រាសាទភ្នំបាយ៉ង់ស្ថិតនៅភូមិពោធិ៍រោង ឃុំព្រះបាទជាន់ជុំ ស្រុកគិរីវង់ ខេត្តតាកែវ មានចម្ងាយ ១២១ គីឡូម៉ែត្រ ពីភ្នំពេញ ដោយធ្វើដំណើរតាមផ្លូវជាតិលេខ ២ កាត់ស្រុកបាទី ស្រុកសំរោង កាត់ទីរួមខេត្តតាកែវ និង កាត់ស្រុកទ្រាំង ។ បើយើងធ្វើដំណើរពីទីរួមខេត្តតាកែវមានចម្ងាយតែ ៤៣ គីឡូម៉ែត្រប៉ុណ្ណោះ ។ ប្រាសាទបាយ៉ង់ស្ថាបនាឡើងនៅលើកំពូលភ្នំបាយ៉ង់ មានកម្ពស់ ៣១៣ ម៉ែត្រ និង មានជណ្តើរឡើងចំនួន ៣ ដែលជណ្តើរនីមួយៗមាន ៩០ កាំ ។ ប្រាសាទនេះកសាងឡើងនៅក្នុងសតវត្សរ៍ទី ៧ ពីឆ្នាំ ៦១៥ ដល់ ៦៣៥ ដោយ ព្រះបាទភវវរ្ម័នទី២ ធ្វើពីថ្មបាយក្រៀម ឥដ្ឋ និង ថ្មស៊ីស្ត (ថ្មស្រទាប់) ដែលមានបណ្តោយ ១៣ ម៉ែត្រ ទទឹង ៩ ម៉ែត្រ និង កម្ពស់ ១២ ម៉ែត្រ ក្រៅពីប្រាសាទបាយ៉ង់ មានប្រាសាទចំនួន ៤ ទៀត ដែលស្ថិតនៅក្បែរនោះដែរ គឺប្រាសាទព្រះគោ ប្រាសាទខាងលិច ប្រាសាទខាងកើត និង ប្រាសាទកាណុង ដែលឧទ្ទិសដល់ព្រហ្មញសាសនា ពីព្រោះនៅចំកណ្តាល ប្រាសាទមានតម្កល់នូវលិង្គ ព្រះឥសូរសម័យបុរាណ។"
+          },
+          {
+            "id": 2,
+            "attractionPlace": "ភ្នំជីសូ",
+            "imgSrc": "https://www.greeneratravel.com/userfiles/850phnomchiso.jpg",
+            "tag": "ប្រាសាទបុរាណ · ទីតាំងប្រវត្តិសាស្ត្រ",
+            "description": "ភ្នំជីសូរ ស្ថិតនៅភូមិស្លា ឃុំរៀង ស្រុកសំរោង ខេត្តតាកែវ។ បើធ្វើដំណើរតាមរថយន្ត ពីភ្នំពេញទៅច្រកភ្នំឌិន (ច្រកព្រុំដែនអន្ដរជាតិកម្ពុជានិងវៀតណាម) តាមផ្លូវជាតិលេខ២ កាត់តាមក្រុងតាខ្មៅ ស្រុកកណ្ដាលស្ទឹង ស្រុកបាទី និង ប្រាសាទនាងខ្មៅ មានចំងាយ  ៦២ គីឡូម៉ែត្រ ដោយប្រើរយៈពេលប្រហែលមួយម៉ោង រួចបត់ឆ្វេងចូលតាមផ្លូវលំមួយមានចំងាយ៥ គីឡូម៉ែត្រ ពីផ្លូវជាតិ។ បើធ្វើដំណើរពីទីរួមខេត្តមានចំងាយ ២៧ គីឡូម៉ែត្រ។ ភ្នំជីសូរមាន កំពស់ ១៣០ ម៉ែត្រ។"
+          },
+          {
+            "id": 3,
+            "attractionPlace": "ប្រាសាទ នាងខ្មៅ",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/ministry-of-tourism-cambodia-2019-03-04-10-29-42am1551695383-1668.png",
+            "tag": "ប្រាសាទបុរាណ",
+            "description": "ប្រាសាទធ្វើពីឥដ្ឋ និងថ្មភក់ស្ថិតក្នុងស្ថានភាពក្រីក្រ ចំងាយប្រហែល 10 គីឡូម៉ែត្រពីសួនសត្វតាម៉ូវបន្ថែមទៀតតាមផ្លូវជាតិលេខ 2។ ប្រាសាទនេះសាងសង់ក្នុងសតវត្សទីប្រាំបួន និងស្ថិតនៅក្នុងឃុំរវៀង ស្រុកសំរោង នេះគឺជាប្រាសាទដែលរៀបរាប់នៅក្នុងរឿងព្រេងរបស់ខេត្តតាកែវប្រហែល 58 គីឡូម៉ែត្រ ភ្នំពេញ។"
+          },
+          {
+            "id": 4,
+            "attractionPlace": "សួនសត្វ តាម៉ៅ (ភ្នំតាម៉ៅ)",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/ministry-of-tourism-cambodia-2019-03-04-10-40-37am1551696038-1673.jpg",
+            "tag": "សួនសត្វ",
+            "description": "ភ្នំតាម៉ៅមានទីតាំងស្ថិតនៅភូមិត្រពាំងសាប ឃុំត្រពាំងសាប ស្រុកបាទី ខេត្តតាកែវ មានចំងាយ ៤០គ.ម តាមផ្លូវជាតិលេខ ២ពីរាជធានីភ្នំពេញ បត់ស្តាំ ៥គ.ម តាមផ្លូវលំ ដោយប្រើរយៈពេលធ្វើដំណើរតាមរថយន្តអស់ ៤៥នាទី។ ភ្នំនេះជារម្មណីយដ្ឋានចំរុះមានប្រាង្គប្រាសាទ ព្រៃភ្នំ ធម្មជាតិ និងជា​សួនសត្វដ៏ធំក្នុងប្រទេសកម្ពុជា។ តំបន់នេះមានផ្ទៃដី ១២០០ ហិចតា ដែលគេអោយឈ្មោះថា តំបន់ផ្ទៃដីការពារព្រៃឈើ។ ក្នុងចំនោមផ្ទៃដី ១២០០ហិចតានេះ ផ្ទៃដីចំនួន ១២០០ហិចតា ត្រូវបាននាយកដ្ឋានរុក្ខាប្រមាញ់ រៀបចំដាំដើមឈើ និងរៀបចំសួនសត្វ ដែលមានផ្ទៃដី ៧០ហិចតា។ ផ្ទៃដី ៧០ហិចតានេះ រួមមាន ភ្នំចំនួន៥ គឺ ភ្នំតាម៉ៅ ភ្នំថ្មដុះ ភ្នំផ្តៅពន្ធ ភ្នំឆយ និងភ្នំបាំង។ ក្នុងចំណោមភ្នំទាំង ៥ នេះមានភ្នំពីរ មានប្រាសាទបុរាណ គឺប្រាសាទតាម៉ៅ (ភ្នំតាម៉ៅ) ប្រាសាទថ្មដុះ (ភ្នំថ្មដុះ) ។ភ្ញៀវជាតិនិងអន្តរជាតិដែលមកលេងឧទ្យាន​សួនសត្វ​ និង​មជ្ឈមណ្ឌល​សង្គ្រោះ​សត្វព្រៃ​ភ្នំ​តា​ម៉ៅ មិន​​ដែល​រំលង​ទស្សនា​សត្វ​កម្រ ៦​ ប្រភេទ​មាន​ដូច​ជា ពោះ​ថ្លាន់ ក្រពើ ខ្លា តោ ដំរី និង ខ្លា​ឃ្មុំ​។ សត្វ​ទាំង​នេះ​មាន​ប្រជាប្រិយភាព​ខ្លាំង និង​ស្ថិត​នៅ​ក្នុង​បញ្ជី​លើ​គេ ដែល​ទាក់ទាញ​ភ្ញៀវ​ទេសចរ​ច្រើន​បំផុត​ទស្សនា ពេល​មក​កម្សាន្ត​នៅ​សួន​ឧទ្យាន​ភ្នំ​តាម៉ៅ។"
+          },
+          {
+            "id": 5,
+            "attractionPlace": "ប្រាសាទ តាញាន",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550131793-1078-new-Angkor-Borie.jpg",
+            "tag": "ប្រាសាទបុរាណ",
+            "description": "ចម្ងាយប្រហែល 3 គីឡូម៉ែត្រពីប្រាសាទបាយុងគោ គឺប្រាសាទតាញាន ប្រាសាទត្រូវបានសាងសង់ឡើងនៅដើមសតវត្សទី 7 ដោយព្រះបាទភវវរ្ម័នទី 1 ដើម្បីគោរពបូជាដល់ព្រះសិវៈហិណ្ឌូ។ ប្រាសាទនេះសាងសង់ពីឥដ្ឋ ថ្មបាយក្រៀម និងថ្មភក់ មានលក្ខណៈខុសប្លែកពីសំណង់បុរាណល្បីៗជាច្រើនរបស់ប្រទេសកម្ពុជា រវាងអ្នករចនាម៉ូដព្រៃខ្មែរ និងប្រាសាទសំបូរព្រៃគុក។ បន្ថែមពីលើផ្លូវដីហុយ មានភូមិនៃឃុំព្រះបាទជាន់ជុំ ត្រៀមស្វាគមន៍ភ្ញៀវទេសចរណ៍ ជាមួយនឹងផ្លែឈើសរីរាង្គក្នុងស្រុក ក្នុងតម្លៃថោក។ នៅ​ផ្សារ​កសិករ គេ​អាច​ទិញ​ស្បែកជើង​ឡើង​ភ្នំ និង​មួក​ដើម្បី​ឡើង​ប្រាសាទ។ មគ្គុទ្ទេសក៍ទេសចរណ៍ក្នុងស្រុកអាចរកបានដើម្បីដឹកនាំដំណើរទេសចរណ៍ឡើងភ្នំ និងពន្យល់ពីប្រវត្តិប្រាសាទ។"
+          },
+          {
+            "id": 6,
+            "attractionPlace": "ភ្នំ ក្លង",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550130712-1076-far-east-vacation-wat-phnom-khliang.jpg",
+            "tag": "ប្រាសាទបុរាណ · ភ្នំ",
+            "description": "វត្តភ្នំខ្លង គឺជាវត្តមួយក្នុងចំនោមវត្តអារាមតាំងពីសតវត្សទី១៨ ហើយត្រូវបានកសាងឡើងក្នុងទស្សវត្សរ៍ឆ្នាំ ១៩៥០ ដោយព្រះសង្ឃក្នុងស្រុកដ៏ល្បីល្បាញមួយ។ ដោយសារ​មាន​ការ​គាំទ្រ​ដោយ​សប្បុរស​ពី​ប្រជាពលរដ្ឋ ទើប​វត្ត​នេះ​ក្លាយ​ជា​កន្លែង​ដ៏​ពេញ​និយម​ក្នុង​ខេត្ត​តាកែវ។ នៅ​ថ្ងៃ​ចុង​សប្តាហ៍ អ្នក​ស្រុក និង​ក្រៅ​ស្រុក​ទៅ​ទី​នោះ​ដើម្បី​បួងសួង​សុំ​សំណាង និង​សុភមង្គល។ អ្វី​ដែល​ធ្វើ​ឱ្យ​ទេសភាព​ភ្នំ​ក្លង​ពិសេស​នោះ​គឺ​វត្ត​ត្រូវ​បាន​ហ៊ុំ​ព័ទ្ធ​ដោយ​វាល​ស្រែ។ ដូចនេះ វត្តផ្តល់នូវសម្រស់ធម្មជាតិ ខ្យល់អាកាសបរិសុទ្ធ និងភាពស្ងប់ស្ងាត់។ ប្រសិន​បើ​អ្នក​ណា​ហ៊ាន​ឡើង​ដល់​កំពូល​ភ្នំ​នោះ កំពូល​ភ្នំ​ផ្តល់​នូវ​ទេសភាព​បែប​ជនបទ។ ភ្នំ​ក្លង​ស្ថិត​ក្នុង​ឃុំ​ព្រៃ​ស្លឹក ស្រុក​ទ្រាំង ខេត្តតាកែវ មាន​ចំងាយ​១០០​គីឡូម៉ែត្រ​ពី​រាជធានី​ភ្នំពេញ។ ធ្វើ​ដំណើរ​តាម​បណ្តោយ​ផ្លូវ​លេខ​២ រហូត​ដល់​ទី​រួម​ខេត្ត​តាកែវ ត្រង់​តាម​បណ្តោយ​ផ្លូវ​ប្រហែល ១៥ គ.ម។"
+          },
+          {
+            "id": 7,
+            "attractionPlace": "ប្រាសាទ អង្គរបុរី និង ប្រាសាទ ភ្នំដា",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wat_asram_moha_russei.jpg/375px-Wat_asram_moha_russei.jpg",
+            "tag": "ប្រាសាទបុរាណ · ភ្នំ",
+            "description": "ប្រាសាទ​ទាំងពីរស្ថិតនៅភាគខាងត្បូងនៃប្រទេសកម្ពុជា ចម្ងាយប្រហែល 10 គីឡូម៉ែត្រ (6.2 ម៉ាយ) ពីភាគខាងលិចនៃដីសណ្ដទន្លេមេគង្គ ចម្ងាយ 150 គីឡូម៉ែត្រ (93 ម៉ាយ) ពីឆ្នេរសមុទ្រ ជិតព្រំដែនប្រទេសវៀតណាម និងតំបន់អូរកែវ។ រមណីយដ្ឋានអង្គរបូរីទំនងជារាជធានីដំបូង និងជាតំបន់មួយដែលវប្បធម៌ និងសិល្បៈអាស៊ីអាគ្នេយ៍បានបញ្ចូលគ្នានៅសម័យបុរាណ។"
+          },
+          {
+            "id": 8,
+            "attractionPlace": "ទស្សនាភូមិផលិតសូត្រ និងក្រមា",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/ministry-of-tourism-cambodia-2019-03-04-10-11-35am1551694296-1666.jpg",
+            "tag": "ភូមិ",
+            "description": "កសិករខ្មែរធ្វើសូត្របែបប្រពៃណីនៅទូទាំងព្រះរាជាណាចក្រ ប៉ុន្តែសម្រាប់ការធ្វើដំណើរពេលថ្ងៃ វាអាចមានភាពងាយស្រួលក្នុងការទៅលេងកន្លែងគួរឱ្យចាប់អារម្មណ៍មួយចំនួនដូចជា ឃុំពារាំង និងឃុំត្នោត ស្រុកបាទី និងឃុំតាំងយ៉ាប និងឃុំសាយវ៉ា ស្រុកសំរោង ខេត្តតាកែវ។ នៅភូមិតាំងយ៉ាប គេស្គាល់ថាជាភូមិសិប្បកម្មតម្បាញ' ស្ថិតនៅលើភូមិដ៏ធំបំផុតមួយ ដែលមានទីតាំងនៅជិតប្រាសាទជីសូ ដែលមានចំងាយប្រហែល ៤គីឡូម៉ែត្រពីជើងភ្នំ និងមានចម្ងាយប្រហែល ៦៥គីឡូម៉ែត្រពីរាជធានីភ្នំពេញ។"
+          }
+        ]
+      }
+    },
+    {
+      "English": {
+        "id": 5,
+        "city": "Prey Veng",
+        "restaurant": "https://www.tripadvisor.com/Restaurants-g2366675-Prey_Veng_Province.html",
+        "accomadation": "https://www.booking.com/region/kh/prey-veng-province.en.html?aid=324798;label=prey-veng-province-iV*UUgjDNjZ*asC6oou2LQS247096402683:pl:ta:p1:p2:ac:ap:neg:fi:tiaud-146342137030:kwd-93394548767:lp1009829:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcWHiCDB7igB8XpJKYgu4TM;ws=&gad_source=1&gclid=CjwKCAiA1fqrBhA1EiwAMU5m_70usq8Ou31qPWmMvoGE5w3RNrCscrXdKbB9cc2ufKpDC0YbDjikIBoCqGwQAvD_BwE",
+        "intro": "Prey Veng Province",
+        "description": "Prey Veng is a province of Cambodia. The capital is Prey Veng. With a population of 1.1 million people, it is the third most populous province. This densely populated agricultural region is located on the east bank of the Mekong.",
+        "cityPicture": "https://www.gdtp.gov.kh/wp-content/uploads/2021/01/Prey-Veng-Bridge-1024x781.jpg",
+        "preyVeng": [
+          {
+            "id": 1,
+            "attractionPlace": "Nokor Phnom",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550222387-1201-new-Nokor%20Phnom.jpg",
+            "tag": "Nature · Wildlife",
+            "description": "Nokor Phnom is located in Roung Dam Rei Village, Cheung Phnom Commune, Bar Phnom District, about 45 km (1h:30mn) from Provincial Town. It is a Nature & Wildlife Preserves."
+          },
+          {
+            "id": 2,
+            "attractionPlace": "Lots of brag - Viel Brang (Veal Brang)",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550222536-1203-new-Baray%20An%20Det%20Resort.jpg",
+            "tag": "Ancient Ruins · Historic Sites",
+            "description": "Viel Brang (Veal Brang) In the City, Prey Veng is one of the natural Prey Veng Tourist Attractions. The country of Cambodia has a number of attractions ranging from natural ones to cultural ones. The Prey Veng province is located in the south of Cambodia.The Viel Brang (Veal Brang ) In the City, Prey Veng is an excellent place to experience pristine nature. The Viel Brang (Veal Brang ) In the City, Prey Veng is a nature and wildlife preserve. It is situated in the Kampong Leav Commune. The site is excellent for adventure and hiking. You can see various species of wildlife and plants here. Apart from the Viel Brang (Veal Brang ) In the City in Prey Veng you can also see other Attractions of Prey Veng. Some of these attractions are Ba Phnom Resort, Prey Veng, Ba Ray An Det Resort, Prey Veng, Fish Growing Center, Prey Veng, Kampong Sne Damp, Prey Veng, Nokor Phnom, Prey Veng, Prey Chong Srok Temple, Prey Veng, Vihear Chan Temple, Prey Veng and Weaving Handicraft Center, Prey Veng. Viel Brang (Veal Brang ) In the City, Prey Veng is actually situated in the city center. So you can visit this beautiful place easily."
+          },
+          {
+            "id": 3,
+            "attractionPlace": "Vihear Chan Temple",
+            "imgSrc": "https://www.vivutravel.com/images/des-cambodia2/cambodia-travel-to-Vihear-Chan-Temple.jpg",
+            "tag": "Ancient Ruins",
+            "description": "Vihear Chan Temple is located in Rong Dam Rey Village Cheung Phnom Commune, Bar Phnom District, about 30 km (1h) From Provincial Town. It is a Historical Sites & Buildings.Vihear Chan Temple, Prey Veng is one of best religious sites of Prey Veng. It is classified as one of the best Tourist attractions of Prey Veng. It is located in the Rong Dam Rey Village Cheung Phnom Commune in the Bar Phnom District which is in close proximity to the Prey Veng province. The Vihear Chan Temple, Prey Veng is an often visited site in Prey Veng."
+          },
+          {
+            "id": 4,
+            "attractionPlace": "Ba Phnom",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550221788-1197-cambodia-travel-to-Ba-Phnom.jpg",
+            "tag": "Resort",
+            "description": "Former old Capital named Nor Kor Phnom. Nowadays, it remains some evident like an ancient temple called Pra Sat Chan located in front of Kuk pagoda closed so Sam Pov Mountain in Cheung Phnom Commune, halls and palace are completely damaged by war at that time. Ba Phnom has beautiful scenery when viewing front the above peak and big rocky caves, the hideout of wild life. At the mountain’s Valley, there is a pagoda named “Ba Phnom” surrounded mountain rank and a big pond at the East of the pagoda. Around the mountain, there are residences of the local people. The resort of Ba Phnom has been planned to develop as a big tourist attraction at the eastern part of Mekong River because this area can be attracting most visitors during the Cambodian festivals and holidays."
+          },
+          {
+            "id": 5,
+            "attractionPlace": "Baray Andet",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550220084-1190-23bprey-veng-province-10-07-2014--10-26-49.jpg",
+            "tag": "Resort",
+            "description": "Located at Baray village, Baray commune, Prey Veng District in three-Kilometer distance west of theprovincial town of Prey Veng.This resort has a plain hill and big tree surrounded the people believe that Baray Andet is the powerful andsacred place for swearing and wishing. The music of Pin Piet is usually concerted for offering to Neak Ta onevery Buddhist holiday, festival day or Sunday for asking for happiness and rain."
+          },
+          {
+            "id": 6,
+            "attractionPlace": "Prey Chong Srok Temple",
+            "imgSrc": "https://www.tourismcambodia.com/img/travelguides/prey_chong_srok_temple.jpg",
+            "tag": "Ancient Ruins",
+            "description": "Chong Srok temple is located in Chong Srok village, Chong Srok commune, Srei Sithar Kandal district, about 38 kilometers north of Prey Veng provincial town. Chong Srok temple was built of brick and sandstone in the 7th century. It was built on a high ground in a field of palm trees near a koki tree. Although much of the temple has been destroyed, there remains a sandstone statue of a bull, once revered as a powerful Bodhisattva, or a Buddhist deity."
+          },
+          {
+            "id": 7,
+            "attractionPlace": "Weaving Handicraf Center",
+            "imgSrc": "https://angkorfocus.com/new/userfiles/thumbs/new-Weaving-Handicraft-Center.jpg",
+            "tag": "Village",
+            "description": "Weaving Handicraf Center is located in Prk Chorngkran Village, Prk Chorngkran Commune, Sithorkandal District, about 55 km (2h:30mn) from Provincial Town."
+          },
+          {
+            "id": 8,
+            "attractionPlace": "Visiting a silk and Kroma manufacturing village",
+            "imgSrc": "https://www.greeneratravel.com/userfiles/thumbs/620waterfallpailin.jpg",
+            "tag": "Tourist Attractions",
+            "description": "Kampong Sne Damp, Prey Veng is one of the best Prey Veng Tourist Attractions. The travelers visiting Prey Veng are all praise for the wonderful site of Kampong Sne Damp, Prey Veng. It is an amazing Wildlife preserve located at about 16 kilometers from the provincial town. Located at the Sne Village in the Thea Commune of Baphnom district, this wildlife preserve provide relief from the humdrum of city life. The lush greenery of the Kampong Sne Damp in Prey Veng is sure to win your hearts. It is advisable to book an accommodation in the nearby provincial town in order to visit this wildlife reserve. The travelers will get to know about the wildlife of Prey Veng and what measures are taken to preserve them in the area. The visit to this Kampong Sne Damp in Prey Veng will be very exciting if the trip is planned properly."
+          }
+        ]
+      },
+
+      "Khmer": {
+        "id": 5,
+        "city": "ព្រៃវែង",
+        "restaurant": "https://www.tripadvisor.com/Restaurants-g2366675-Prey_Veng_Province.html",
+        "accomadation": "https://www.booking.com/region/kh/prey-veng-province.en.html?aid=324798;label=prey-veng-province-iV*UUgjDNjZ*asC6oou2LQS247096402683:pl:ta:p1:p2:ac:ap:neg:fi:tiaud-146342137030:kwd-93394548767:lp1009829:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcWHiCDB7igB8XpJKYgu4TM;ws=&gad_source=1&gclid=CjwKCAiA1fqrBhA1EiwAMU5m_70usq8Ou31qPWmMvoGE5w3RNrCscrXdKbB9cc2ufKpDC0YbDjikIBoCqGwQAvD_BwE",
+        "intro": "ខេត្តព្រៃវែង",
+        "description": "ព្រៃវែងជាខេត្តមួយរបស់កម្ពុជា។ រាជធានីគឺខេត្តព្រៃវែង។ ជាមួយនឹងចំនួនប្រជាជន 1.1 លាននាក់ វាជាខេត្តដែលមានប្រជាជនច្រើនជាងគេទីបី។ តំបន់​កសិកម្ម​ដែល​មាន​ប្រជាជន​រស់​នៅ​យ៉ាង​ក្រាស់​នេះ​ស្ថិត​នៅ​ត្រើយ​ខាង​កើត​នៃ​ទន្លេ​មេគង្គ។",
+        "cityPicture": "https://www.gdtp.gov.kh/wp-content/uploads/2021/01/Prey-Veng-Bridge-1024x781.jpg",
+        "preyVeng": [
+          {
+            "id": 1,
+            "attractionPlace": "នគរភ្នំ",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550222387-1201-new-Nokor%20Phnom.jpg",
+            "tag": "ប្រាសាទបុរាណ · ភ្នំ",
+            "description": "នគរភ្នំ ស្ថិតនៅភូមិរូងដំរី ឃុំជើងភ្នំ ស្រុកបាភ្នំ ចម្ងាយប្រហែល ៤៥ គីឡូម៉ែត្រ (១ ម៉ោង និង ៣០ នាទី) ពីទីរួមខេត្ត។ វាជាឧទ្យានធម្មជាតិ & អភិរក្សសត្វព្រៃ។"
+          },
+          {
+            "id": 2,
+            "attractionPlace": "វីល ប្រាង (Veal Brang)",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550222536-1203-new-Baray%20An%20Det%20Resort.jpg",
+            "tag": "ប្រាសាទបុរាណ · ទីតាំងប្រវត្តិសាស្ត្រ",
+            "description": "វៀលប្រាង (វាលរេញ) នៅទីក្រុងព្រៃវែង ជាតំបន់ទេសចរណ៍ធម្មជាតិមួយក្នុងខេត្តព្រៃវែង។ ប្រទេស​កម្ពុជា​មាន​តំបន់​ទេសចរណ៍​ជាច្រើន​រាប់​ចាប់​ពី​ធម្មជាតិ​រហូត​ដល់​វប្បធម៌។ ខេត្តព្រៃវែង ស្ថិតនៅភាគខាងត្បូងនៃប្រទេសកម្ពុជា។ វៀលប្រាង (វាលរេញ) នៅក្នុងក្រុង ព្រៃវែង គឺជាកន្លែងដ៏ល្អមួយដើម្បីទទួលយកបទពិសោធន៍ធម្មជាតិដ៏បរិសុទ្ធ។ វៀលប្រាង (វាលរេញ) នៅទីក្រុងព្រៃវែង ជាតំបន់អភិរក្សធម្មជាតិ និងសត្វព្រៃ។ ស្ថិតនៅក្នុងឃុំកំពង់លាវ។ គេហទំព័រនេះគឺល្អសម្រាប់ការផ្សងព្រេង និងការឡើងភ្នំ។ អ្នកអាចមើលឃើញប្រភេទសត្វព្រៃ និងរុក្ខជាតិផ្សេងៗនៅទីនេះ។ ក្រៅពីវល្លិ៍ប្រាង្គ (វាលរេញ) នៅក្នុងក្រុងក្នុងខេត្តព្រៃវែង អ្នកក៏អាចឃើញកន្លែងទាក់ទាញផ្សេងទៀតនៃខេត្តព្រៃវែងផងដែរ។ រមណីយដ្ឋាន​បាភ្នំ ព្រៃវែង រមណីយដ្ឋាន​បារ៉ាយ​អាន​ដេត ព្រៃវែង មជ្ឈមណ្ឌល​ចិញ្ចឹម​ត្រី ព្រៃវែង កំពង់​ស្នា​សើម ព្រៃវែង នគរភ្នំ ព្រៃវែង ប្រាសាទ​ព្រៃ​ចុង​ស្រុក ព្រៃវែង វិហារ។ ប្រាសាទច័ន្ទ ព្រៃវែង និងមជ្ឈមណ្ឌលសិប្បកម្មតម្បាញ ព្រៃវែង។ Viel Brang (វាលរេញ) នៅក្នុងទីក្រុង ព្រៃវែងពិតជាស្ថិតនៅកណ្តាលទីក្រុង។ ដូច្នេះអ្នកអាចទស្សនាកន្លែងដ៏ស្រស់ស្អាតនេះបានយ៉ាងងាយស្រួល។"
+          },
+          {
+            "id": 3,
+            "attractionPlace": "ប្រាសាទ ព្រះវិហារច័ន្ទ",
+            "imgSrc": "https://www.vivutravel.com/images/des-cambodia2/cambodia-travel-to-Vihear-Chan-Temple.jpg",
+            "tag": "ប្រាសាទបុរាណ",
+            "description": "ប្រាសាទ​វិហារ​ច័ន្ទ​ស្ថិត​នៅ​ភូមិ​រោង​ដំរី ឃុំ​ជើងភ្នំ ស្រុក​បាភ្នំ មាន​ចម្ងាយ​ប្រហែល​៣០​គ.ម (១​ម៉ោង) ពី​ទីរួម​ខេត្ត។ វា​ជា​រមណីយដ្ឋាន​ប្រវត្តិសាស្ត្រ និង​សំណង់។​ ប្រាសាទ​វិហារ​ច័ន្ទ ព្រៃវែង​ជា​កន្លែង​សាសនា​ដ៏​ល្អ​បំផុត​មួយ​របស់​ខេត្ត​ព្រៃវែង។ វា​ត្រូវ​បាន​គេ​ចាត់​ទុក​ថា​ជា​តំបន់​ទេសចរណ៍​ល្អ​បំផុត​មួយ​របស់​ខេត្ត​ព្រៃវែង។ មានទីតាំងនៅភូមិរោងដំរី ឃុំជើងភ្នំ ស្រុកបាភ្នំ ជិតខេត្តព្រៃវែង។ ប្រាសាទវិហារច័ន្ទ ព្រៃវែង ជាកន្លែងទៅលេងញឹកញាប់ក្នុងខេត្តព្រៃវែង។"
+          },
+          {
+            "id": 4,
+            "attractionPlace": "បាភ្នំ",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550221788-1197-cambodia-travel-to-Ba-Phnom.jpg",
+            "tag": "រមណីដ្ឋាន",
+            "description": "អតីតជា រាជធានីចាស់ឈ្មោះនគរភ្នំ។ សព្វថ្ងៃនេះ វានៅតែជាភស្តុតាងមួយចំនួន ដូចជាប្រាសាទបុរាណមួយឈ្មោះថា ប្រាសាទច័ន្ទ ដែលស្ថិតនៅមុខវត្តគុកបិទ ទើបភ្នំសំពៅក្នុងឃុំជើងភ្នំ សាលប្រជុំ និងវាំងត្រូវបានខូចខាតទាំងស្រុងដោយសារសង្រ្គាមនៅពេលនោះ។ បាភ្នំមានទេសភាពដ៏ស្រស់ស្អាតនៅពេលមើលពីមុខកំពូលភ្នំខាងលើ និងល្អាងថ្មធំៗ ដែលជាជម្រករបស់សត្វព្រៃ។ នៅ​ជ្រលង​ភ្នំ​មាន​វត្ត​មួយ​ឈ្មោះ “បាភ្នំ” ព័ទ្ធ​ជុំវិញ​ជួរ​ភ្នំ និង​ស្រះ​ធំ​មួយ​នៅ​ខាង​កើត​វត្ត។ នៅ​ជុំវិញ​ភ្នំ​មាន​លំនៅឋាន​របស់​អ្នក​ស្រុក។ រមណីយដ្ឋានបាភ្នំ ត្រូវបានគេគ្រោងនឹងអភិវឌ្ឍជាកន្លែងទាក់ទាញទេសចរណ៍ដ៏ធំមួយនៅភាគខាងកើតនៃទន្លេមេគង្គ ព្រោះតំបន់នេះអាចទាក់ទាញភ្ញៀវទេសចរបានច្រើនបំផុតក្នុងពិធីបុណ្យ និងបុណ្យជាតិខ្មែរ។"
+          },
+          {
+            "id": 5,
+            "attractionPlace": "បារាយណ៏ អណ្តែត",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550220084-1190-23bprey-veng-province-10-07-2014--10-26-49.jpg",
+            "tag": "រមណីដ្ឋាន",
+            "description": "ស្ថិតនៅភូមិបារាយណ៍ ឃុំបារាយណ៍ ស្រុកព្រៃវែង មានចម្ងាយ 3 គីឡូម៉ែត្រ ខាងលិចទីរួមខេត្តព្រៃវែង។រមណីយដ្ឋាននេះមានភ្នំធម្មតា និងដើមឈើធំព័ទ្ធជុំវិញ ប្រជាជនជឿថាបារាយណ៍អណ្តែតជាកន្លែងដ៏ស័ក្តិសិទ្ធិ និងស័ក្តិសិទ្ធិសម្រាប់ធ្វើសច្ចាប្រណិធាន។ ភ្លេងពិណពាទ្យ ជាធម្មតាគេប្រគុំប្រគុំតម្កល់អ្នកតារៀងរាល់ថ្ងៃបុណ្យពុទ្ធាភិសេក ថ្ងៃបុណ្យ ឬថ្ងៃអាទិត្យ ដើម្បីសុំសេចក្តីសុខ និងទឹកភ្លៀង។"
+          },
+          {
+            "id": 6,
+            "attractionPlace": "ប្រាសាទ ព្រៃចុងស្រុក",
+            "imgSrc": "https://www.tourismcambodia.com/img/travelguides/prey_chong_srok_temple.jpg",
+            "tag": "ប្រាសាទបុរាណ",
+            "description": "ប្រាសាទ​ចុង​ស្រុក ស្ថិត​នៅ​ភូមិ​ចុង​ស្រុក ឃុំ​ចុង​ស្រុក ស្រុក​ស្រី​ស៊ីធរ​កណ្តាល ចម្ងាយ​ប្រមាណ​៣៨​គីឡូម៉ែត្រ​ពី​ទីរួម​ខេត្ត​ព្រៃវែង។ ប្រាសាទចុងស្រុក សាងសង់ពីឥដ្ឋ និងថ្មភក់ ក្នុងសតវត្សទី៧។ សង់​នៅ​លើ​ដី​ខ្ពស់​ក្នុង​វាល​ដើម​ត្នោត​ក្បែរ​ដើម​គគីរ។ ទោះបីជាប្រាសាទជាច្រើនត្រូវបានបំផ្លាញក៏ដោយ ក៏នៅមានរូបសំណាកថ្មភក់ ដែលធ្លាប់ត្រូវបានគោរពបូជាថាជាព្រះពោធិសត្វដ៏មានឥទ្ធិពល ឬជាអាទិទេពក្នុងព្រះពុទ្ធសាសនា។"
+          },
+          {
+            "id": 7,
+            "attractionPlace": "មជ្ឈមណ្ឌលសិប្បកម្មតម្បាញ",
+            "imgSrc": "https://angkorfocus.com/new/userfiles/thumbs/new-Weaving-Handicraft-Center.jpg",
+            "tag": "ភូមិ",
+            "description": "មជ្ឈមណ្ឌលសិប្បកម្មតម្បាញ មានទីតាំងនៅភូមិព្រែកចង្រ្កាន ឃុំព្រែកចង្រ្កាន ស្រុកស៊ីធរកណ្តាល ចម្ងាយប្រហែល 55 គីឡូម៉ែត្រ (2h:30mn) ពីទីរួមខេត្ត។"
+          },
+          {
+            "id": 8,
+            "attractionPlace": "កំពុងស្នេហ៍",
+            "imgSrc": "https://www.greeneratravel.com/userfiles/thumbs/620waterfallpailin.jpg",
+            "tag": "តំបន់ទេសចរណ៍",
+            "description": "កំពង់ស្នេហ៏ ព្រៃវែង ជាតំបន់ទេសចរណ៍ដ៏ល្អមួយក្នុងខេត្តព្រៃវែង។ អ្នក​ធ្វើ​ដំណើរ​ទៅ​លេង​ខេត្ត​ព្រៃវែង​សុទ្ធ​តែ​សរសើរ​ពី​រមណីយដ្ឋាន​កំពង់​ស្នា​ទំនប់​ព្រៃ​វែង​ដ៏​អស្ចារ្យ។ វា​ជា​កន្លែង​អភិរក្ស​សត្វ​ព្រៃ​ដ៏​អស្ចារ្យ​មួយ​ដែល​មាន​ចម្ងាយ​ប្រហែល ១៦ គីឡូម៉ែត្រ​ពី​ទីរួមខេត្ត។ ទីតាំង​នៅ​ភូមិ​ស្នែ​ក្នុង​ឃុំ​ធា ស្រុក​បាភ្នំ កន្លែង​អភិរក្ស​សត្វព្រៃ​នេះ​ផ្តល់​នូវ​ការ​សង្គ្រោះ​ពី​ការ​រស់នៅ​ក្នុង​ទីក្រុង។ ព្រៃវែង កំពង់ស្នា ព្រៃវែង ធានាថាឈ្នះចិត្ត គួរតែកក់កន្លែងស្នាក់នៅក្នុងទីរួមខេត្តក្បែរនោះ ដើម្បីទៅទស្សនាតំបន់អភិរក្សសត្វព្រៃនេះ។ អ្នក​ធ្វើ​ដំណើរ​នឹង​បាន​ដឹង​ពី​សត្វ​ព្រៃ​នៃ​ខេត្ត​ព្រៃវែង និង​មាន​វិធានការ​អ្វី​ខ្លះ​ក្នុង​ការ​អភិរក្ស​វា​នៅ​តំបន់​នោះ។ ដំណើរ​ទៅ​លេង​ទំនប់​កំពង់ស្នា​ក្នុង​ខេត្ត​ព្រៃវែង​នេះ​នឹង​មាន​ភាព​រំភើប​រីករាយ​ណាស់​ប្រសិន​បើ​ដំណើរ​កម្សាន្ត​ត្រូវ​បាន​គ្រោង​ទុក​ត្រឹម​ត្រូវ។"
+          }
+        ]
+      }
+    },
+    {
+      "English": {
+        "id": 6,
+        "city": "Svay Rieng",
+        "restaurant": "https://www.tripadvisor.com/Restaurants-g2366678-Svay_Rieng_Province.html",
+        "accomadation": "https://www.booking.com/region/kh/prey-veng-province.en.html?aid=324798;label=prey-veng-province-iV*UUgjDNjZ*asC6oou2LQS247096402683:pl:ta:p1:p2:ac:ap:neg:fi:tiaud-146342137030:kwd-93394548767:lp1009829:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcWHiCDB7igB8XpJKYgu4TM;ws=&gad_source=1&gclid=CjwKCAiA1fqrBhA1EiwAMU5m_70usq8Ou31qPWmMvoGE5w3RNrCscrXdKbB9cc2ufKpDC0YbDjikIBoCqGwQAvD_BwE",
+        "intro": "Svay Rieng Province",
+        "description": "Svay Rieng is a province in Cambodia. Located in the southeast, the province juts into Vietnam, which surrounds it to the north, east and south. The only other Cambodian province to border Svay Rieng is Prey Veng. ",
+        "cityPicture": "https://dnf06fpg9xipc.cloudfront.net/geocambodia/province-landmark/20.jpg",
+        "svayRieng": [
+          {
+            "id": 1,
+            "attractionPlace": "Bavet International Border",
+            "imgSrc": "https://angkorfocus.com/new/userfiles/thumbs/new-Bavet-International-Border.jpg",
+            "tag": "international border",
+            "description": "Located 48 kilometers from Svay Rieng provincial town is the international border with Vietname. The Bavet checkpoint is the main international border crossing for people traveling between Phnom Penh and Ho Chi Minh City.Bavet's main attractions are two casinos that are within short walking distance of the border. This casinos are very popular with foreigners crossing the border. There is also a market, Psar Nat, where goods are transferred between Cambodia and Vietnam."
+          },
+          {
+            "id": 2,
+            "attractionPlace": "Brasoth Center",
+            "imgSrc": "https://www.tourismcambodia.com/img/travelguides/brasoth-center.jpg",
+            "tag": "Landmarks · Architectural Buildings",
+            "description": "Brasoth Center is located in Prasout Commune, Svay Teab district, about 1.5 km (10mn) from Provincial Town. Operation of Sporting Facilities."
+          },
+          {
+            "id": 3,
+            "attractionPlace": "Prey Basak",
+            "imgSrc": "https://www.greeneratravel.com/userfiles/850preybasak.jpg",
+            "tag": "Landmarks · Architectural Buildings",
+            "description": "Prey Ba Sake Located in Svay Rieng District at the Southeast of the provincial town in the distance of 8.5 kilometres from the provincial town. The area of Prey Ba Sak has 84 square meters and borders river of Vag Ko at the North and the East, village of local people at the west and the South. The resort of Prey Ba Sak can provide income to the state and attracts local visitors to spend their visit and pleasure there. So, the resort is trending to develop for local visitors in Svay Rieng province due to their tradition, and for international tourists due to the real Cambodian culture and civilization. Prey Ba Sak located on the hill, the former place of ancient temple, which was completely damaged by war. Nowadays, in order to change this place to be the attractive site for local and international tourists, the provincial tourist office should initially rearrange the place and statues for local visitors to worship during festival days or their travel. Prey Ba Sak is the place, which has the most complex forest among others in Svay Rieng province."
+          }
+        ]
+      },
+
+      "Khmer": {
+        "id": 6,
+        "city": "ស្វាយរៀង",
+        "restaurant": "https://www.tripadvisor.com/Restaurants-g2366678-Svay_Rieng_Province.html",
+        "accomadation": "https://www.booking.com/region/kh/prey-veng-province.en.html?aid=324798;label=prey-veng-province-iV*UUgjDNjZ*asC6oou2LQS247096402683:pl:ta:p1:p2:ac:ap:neg:fi:tiaud-146342137030:kwd-93394548767:lp1009829:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YcWHiCDB7igB8XpJKYgu4TM;ws=&gad_source=1&gclid=CjwKCAiA1fqrBhA1EiwAMU5m_70usq8Ou31qPWmMvoGE5w3RNrCscrXdKbB9cc2ufKpDC0YbDjikIBoCqGwQAvD_BwE",
+        "intro": "ខេត្តស្វាយរៀង",
+        "description": "ស្វាយរៀង ជា​ខេត្ត​មួយ​ក្នុង​ប្រទេស​កម្ពុជា។ មានទីតាំងនៅភាគអាគ្នេយ៍ ខេត្តនេះចូលទៅក្នុងប្រទេសវៀតណាម ដែលព័ទ្ធជុំវិញវានៅខាងជើង ខាងកើត និងខាងត្បូង។ ខេត្ត​មួយ​ទៀត​របស់​កម្ពុជា​ដែល​ជាប់​ព្រំដែន​ខេត្ត​ស្វាយរៀង គឺ​ខេត្ត​ព្រៃវែង។",
+        "cityPicture": "https://dnf06fpg9xipc.cloudfront.net/geocambodia/province-landmark/20.jpg",
+        "svayRieng": [
+          {
+            "id": 1,
+            "attractionPlace": "ច្រកទ្វារអន្តរជាតិ បាវិត",
+            "imgSrc": "https://angkorfocus.com/new/userfiles/thumbs/new-Bavet-International-Border.jpg",
+            "tag": "ច្រកទ្វារអន្តរជាតិ",
+            "description": "ស្ថិតនៅចម្ងាយ ៤៨ គីឡូម៉ែត្រពីទីរួមខេត្តស្វាយរៀង ជាច្រកអន្តរជាតិជាមួយប្រទេសវៀតណាម។ ប៉ុស្តិ៍ត្រួតពិនិត្យក្រុងបាវិត គឺជាច្រកទ្វារអន្តរជាតិដ៏សំខាន់សម្រាប់ប្រជាជនដែលធ្វើដំណើររវាងទីក្រុងភ្នំពេញ និងទីក្រុងហូជីមិញ។ កន្លែងទាក់ទាញសំខាន់ៗរបស់បាវិតគឺកាស៊ីណូពីរដែលស្ថិតនៅចម្ងាយផ្លូវដើរពីព្រំដែន។ កាស៊ីណូ​នេះ​មាន​ការ​ពេញ​និយម​យ៉ាង​ខ្លាំង​ចំពោះ​ជន​បរទេស​ឆ្លង​ដែន។ ក៏មានផ្សារមួយដែរគឺផ្សារណាត់ ដែលជាកន្លែងផ្ទេរទំនិញរវាងកម្ពុជា និងវៀតណាម។"
+          },
+          {
+            "id": 2,
+            "attractionPlace": "មជ្ឈមណ្ឌលប្រាសុទ្ធ",
+            "imgSrc": "https://www.tourismcambodia.com/img/travelguides/brasoth-center.jpg",
+            "tag": "កន្លែងសម្គាល់ · អគារស្ថាបត្យកម្ម",
+            "description": "មជ្ឈមណ្ឌល ប្រាសុទ្ធ មានទីតាំងនៅឃុំប្រាសាទ ស្រុកស្វាយទាប ចម្ងាយប្រហែល 1.5 គីឡូម៉ែត្រ (10mn) ពីទីរួមខេត្ត។ ប្រតិបត្តិការនៃសម្ភារៈកីឡា។"
+          },
+          {
+            "id": 3,
+            "attractionPlace": "Prey Basak",
+            "imgSrc": "https://www.greeneratravel.com/userfiles/850preybasak.jpg",
+            "tag": "កន្លែងសម្គាល់ · អគារស្ថាបត្យកម្ម",
+            "description": "Prey Ba Sake Located in Svay Rieng District at the Southeast of the provincial town in the distance of 8.5 kilometres from the provincial town. The area of Prey Ba Sak has 84 square meters and borders river of Vag Ko at the North and the East, village of local people at the west and the South. The resort of Prey Ba Sak can provide income to the state and attracts local visitors to spend their visit and pleasure there. So, the resort is trending to develop for local visitors in Svay Rieng province due to their tradition, and for international tourists due to the real Cambodian culture and civilization. Prey Ba Sak located on the hill, the former place of ancient temple, which was completely damaged by war. Nowadays, in order to change this place to be the attractive site for local and international tourists, the provincial tourist office should initially rearrange the place and statues for local visitors to worship during festival days or their travel. Prey Ba Sak is the place, which has the most complex forest among others in Svay Rieng province."
+          }
+        ]
+      }
+    },
+    {
+      "English": {
+        "id": 7,
+        "city": "Kompot",
+        "restaurant": "https://www.tripadvisor.com/Restaurants-g608455-Kampot_Kampot_Province.html",
+        "accomadation": "https://www.booking.com/city/kh/kampot.en.html?aid=1610687;label=kampot-yhVI*pVNQMipQV3qNuosAgS553381712141:pl:ta:p1:p2:ac:ap:neg:fi:tiaud-146342137030:kwd-298556244375:lp1009829:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YfpWGnRw6lOGgfEoJVv7zYo;ws=&gad_source=1&gclid=CjwKCAiA1fqrBhA1EiwAMU5m_6bIwUgNGGypG3I6ZME33a5OjZ-FTm7b71KoeBo748ImDKSfVVBQcRoCc5UQAvD_BwE",
+        "intro": "Kompot Province",
+        "description": "Kampot is a province in southwest Cambodia, edging onto the Gulf of Thailand. In the west, the jungle of Preah Monivong (aka Bokor) National Park in the misty Elephant Mountains is home to Bokor Hill Station, a 1920s French ghost town. On the banks of the Teuk Chhou River, the province's sleepy capital, Kampot, is known for its French colonial architecture. ",
+        "cityPicture": "https://lh3.googleusercontent.com/p/AF1QipPb_VBAYy_WusnWTaD0IA-Zg3XWiA8EvHODIxz5=s1360-w1360-h1020",
+        "kompot": [
+          {
+            "id": 1,
+            "attractionPlace": "Preah Monivong National Park (Bokor National Park)",
+            "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipPffNJRBOE1aH9oMtAnqH59JHPMhF8eGY7KdsL3=s1360-w1360-h1020",
+            "tag": "National Park",
+            "description": "Preah Monivong Bokor National Park is a national park in southern Cambodia's Kampot Province that was established in 1993 and covers 1,544.58 km². In 2003, it was designated as an ASEAN Heritage Park. It is located in the Dâmrei Mountains, forming the southeastern parts of the Cardamom Mountains."
+          },
+          {
+            "id": 2,
+            "attractionPlace": "Popokvil Waterfall",
+            "imgSrc": "https://kampottourism.gov.kh/wp-content/uploads/2019/01/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2019-01-28-15.04.14.jpg",
+            "tag": "Waterfall",
+            "description": "The best period to visit here is during rainy season(May to October) where the waterfall is at its most beautiful. You can take a scenic walk to embrace Mother Nature and discover wild beautiful and unique plants."
+          },
+          {
+            "id": 3,
+            "attractionPlace": "Turk Chhou",
+            "imgSrc": "https://lh5.googleusercontent.com/p/AF1QipN6UoI2tUWGR7SZQqx9PsKxfmA8cIuTovpcsshE=w675-h390-n-k-no",
+            "tag": "Waterfall",
+            "description": "Tuek Chhou is a district located in Kampot province, in southern Cambodia. It surrounds Krong Kampot, which contains the urban area of Kampot City."
+          },
+          {
+            "id": 4,
+            "attractionPlace": "Phnom Chhngok Cave",
+            "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipNkLEs6EiuomYGXIj1Y-4Io0fhZ2ygLvEOJEkeq=s1360-w1360-h1020",
+            "tag": "Mountain · Cave",
+            "description": "Phnom Chhnork is a Hindu cave temple in Kampot Province, southern Cambodia, located about 5 miles north-east of Kampot. The temple was built in the 7th century from Funan brick, dedicated to Shiva. It is accessed via stone steps."
+          },
+          {
+            "id": 5,
+            "attractionPlace": "Wat Sampov Pram",
+            "imgSrc": "https://lh5.googleusercontent.com/p/AF1QipOXernIHcLjELPFkmuzYje2v3nvYciSZCWpiuJa=w675-h390-n-k-no",
+            "tag": "Pagoda · Historic Sites",
+            "description": "Wat Sampov Pram is widely known as a monastery that is situated on the top of the Bokor Mountain, a very iconic mountain range in Cambodia. The temple was previously established by the Majesty King of Cambodia that ruled out the country in the 1920s. Every year, both domestic and international tourists visit here to pray for luck and blessings because they consider Wat Sampov Pram as one of the most sacred spiritual Buddhism places in Cambodia. Another striking feature of the temple that grasps tourists’ attention is Wat Sampov Pram is the highest Buddha pagodas in Cambodia."
+          },
+          {
+            "id": 6,
+            "attractionPlace": "Kampot Provincial Museum",
+            "imgSrc": "https://www.kampotmuseum.org/media/cache/alternate_list/images/article/8/579c6570d82b2.JPG",
+            "tag": "History Museums",
+            "description": "Small gallery covering the region's past, including ancient archaeological artifacts. The museum currently includes three elements: - A series of 6 large panels depicting the milestones in the history of the province of Kampot. Preferred periods, due to the existence of sources, are pre-Angkorian period, from eighteenth and nineteenth centuries, the colonial period under the protectorat regime and the contemporary period. - The presentation of 38 photos about the history of Kampot. - A dozen archaeological pieces found in the Kampot region. Most of the pre-Angkorian period. Archaeological items made available by the Regional Directorate of Fine Arts."
+          },
+          {
+            "id": 7,
+            "attractionPlace": "Phnom Sorsia",
+            "imgSrc": "https://smartsinntravel.com/userfiles/phnom-sorsia-smart-sinn-travel2.jpg",
+            "tag": "Mountain · Cave",
+            "description": "Phnom Sorsia is a Buddhist hill complex in Kampot Province, southern Cambodia. It contains Buddhist cultural features approached by a staircase and a complex of karst caves. One cave Rung Damrey Saa has a stalagmite resembling the head of an elephant; another has a bat colony."
+          },
+          {
+            "id": 8,
+            "attractionPlace": "Entanou Slide River Park",
+            "imgSrc": "https://www.travona.net/_next/image?url=https%3A%2F%2Fapi.travona.net%2Fv1%2Ffiles%2F5fed579ac060bd6ed2b16000&w=3840&q=75",
+            "tag": "Resort · River Park",
+            "description": "Cambodia's 1st Rainbow Slide is located in an idyllic setting at Kampot River Park, in front of Bokor Mountain. In pairs or alone, take a tube then slide for more than 50m to end up in the river and slide up to 20m more."
+          }
+        ]
+      },
+
+      "Khmer": {
+        "city": "កំពត",
+        "id": 7,
+        "restaurant": "https://www.tripadvisor.com/Restaurants-g608455-Kampot_Kampot_Province.html",
+        "accomadation": "https://www.booking.com/city/kh/kampot.en.html?aid=1610687;label=kampot-yhVI*pVNQMipQV3qNuosAgS553381712141:pl:ta:p1:p2:ac:ap:neg:fi:tiaud-146342137030:kwd-298556244375:lp1009829:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YfpWGnRw6lOGgfEoJVv7zYo;ws=&gad_source=1&gclid=CjwKCAiA1fqrBhA1EiwAMU5m_6bIwUgNGGypG3I6ZME33a5OjZ-FTm7b71KoeBo748ImDKSfVVBQcRoCc5UQAvD_BwE",
+        "intro": "ខេត្តកំពត",
+        "description": "កំពត ជាខេត្តមួយនៅភាគនិរតីនៃប្រទេសកម្ពុជា ជាប់ឈូងសមុទ្រថៃ។ នៅភាគខាងលិច ព្រៃនៃឧទ្យានជាតិព្រះមុនីវង្ស (អាកាបូកគោ) នៅតំបន់ភ្នំដំរីអ័ព្ទ គឺជាទីតាំងរបស់ស្ថានីយ៍ភ្នំបូកគោ ដែលជាទីក្រុងខ្មោចបារាំងឆ្នាំ 1920។ នៅលើច្រាំងទន្លេទឹកឈូ ដែលជារាជធានីដ៏ងងុយដេករបស់ខេត្ត កំពត ត្រូវបានគេស្គាល់ដោយសារស្ថាបត្យកម្មអាណានិគមបារាំង។",
+        "cityPicture": "https://lh3.googleusercontent.com/p/AF1QipPb_VBAYy_WusnWTaD0IA-Zg3XWiA8EvHODIxz5=s1360-w1360-h1020",
+        "kompot": [
+          {
+            "id": 1,
+            "attractionPlace": "ឧទ្យានជាតិ មុនីវង្យបូកគោ",
+            "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipPffNJRBOE1aH9oMtAnqH59JHPMhF8eGY7KdsL3=s1360-w1360-h1020",
+            "tag": "ឧទ្យានជាតិ",
+            "description": "ឧទ្យានជាតិព្រះមុនីវង្សបូកគោ គឺជាឧទ្យានជាតិមួយនៅភាគខាងត្បូងនៃខេត្តកំពត ដែលត្រូវបានបង្កើតឡើងក្នុងឆ្នាំ 1993 និងមានផ្ទៃក្រឡា 1,544.58 គីឡូម៉ែត្រការ៉េ។ នៅឆ្នាំ ២០០៣ វាត្រូវបានចាត់តាំងជាឧទ្យានបេតិកភណ្ឌអាស៊ាន។ វា​ស្ថិត​នៅ​ជួរ​ភ្នំ​ដំរី បង្កើត​បាន​ភាគ​អាគ្នេយ៍​នៃ​ជួរ​ភ្នំក្រវាញ។"
+          },
+          {
+            "id": 2,
+            "attractionPlace": "ទឹកធ្លាក់ ពពកវិល",
+            "imgSrc": "https://kampottourism.gov.kh/wp-content/uploads/2019/01/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2019-01-28-15.04.14.jpg",
+            "tag": "ទឹកធ្លាក់",
+            "description": "ពេលវេលាដ៏ល្អបំផុតដើម្បីមកលេងនៅទីនេះគឺក្នុងរដូវវស្សា (ឧសភា ដល់ខែតុលា) ដែលទឹកធ្លាក់មានភាពស្រស់ស្អាតបំផុត។ អ្នក​អាច​ដើរ​លេង​ទេសភាព​ដើម្បី​ឱប​ក្រសោប​មាតា​ធម្មជាតិ និង​រក​ឃើញ​រុក្ខជាតិ​ដ៏​ស្រស់​ស្អាត និង​ប្លែក​ពី​ធម្មជាតិ។"
+          },
+          {
+            "id": 3,
+            "attractionPlace": "រមណីយដ្ឋាន ទឹកឈូ",
+            "imgSrc": "https://lh5.googleusercontent.com/p/AF1QipN6UoI2tUWGR7SZQqx9PsKxfmA8cIuTovpcsshE=w675-h390-n-k-no",
+            "tag": "ទឹកធ្លាក់",
+            "description": "ទឹកឈូ ជាស្រុកមួយស្ថិតនៅក្នុងខេត្តកំពត ភាគខាងត្បូងប្រទេសកម្ពុជា។ វាព័ទ្ធជុំវិញក្រុងកំពត ដែលមានទីប្រជុំជននៃក្រុងកំពត។"
+          },
+          {
+            "id": 4,
+            "attractionPlace": "ល្អាងភ្នំ ឈ្ងោក",
+            "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipNkLEs6EiuomYGXIj1Y-4Io0fhZ2ygLvEOJEkeq=s1360-w1360-h1020",
+            "tag": "ភ្នំ · ល្អាងភ្នំ",
+            "description": "ភ្នំឆ្នុក គឺជាប្រាសាទល្អាងហិណ្ឌូមួយនៅក្នុងខេត្តកំពត ភាគខាងត្បូងនៃប្រទេសកម្ពុជា ដែលមានចំងាយប្រហែល ៨ គីឡូម៉ែត ខាងជើងឈៀងខាងកើតនៃខេត្តកំពត។ ប្រាសាទ​នេះ​ត្រូវ​បាន​សាង​សង់​ឡើង​នៅ​សតវត្ស​ទី​៧​ពី​ឥដ្ឋ​នគរភ្នំ​ឧទ្ទិស​ដល់​ព្រះ​សិវៈ។ វាត្រូវបានចូលតាមរយៈជំហានថ្ម។"
+          },
+          {
+            "id": 5,
+            "attractionPlace": "វត្ត សំពៅប្រាំ",
+            "imgSrc": "https://lh5.googleusercontent.com/p/AF1QipOXernIHcLjELPFkmuzYje2v3nvYciSZCWpiuJa=w675-h390-n-k-no",
+            "tag": "វត្ត · ទីតាំងប្រវត្តិសាស្ត្រ",
+            "description": "វត្តសំពៅព្រហ្ម ត្រូវបានគេស្គាល់ជាទូទៅថាជាវត្តមួយ ដែលស្ថិតនៅលើកំពូលភ្នំបូកគោ ដែលជាជួរភ្នំដ៏ល្បីមួយក្នុងប្រទេសកម្ពុជា។ ប្រាសាទ​នេះ​ត្រូវ​បាន​បង្កើត​ឡើង​ដោយ​ព្រះករុណា​ព្រះមហាក្សត្រ​នៃ​ព្រះរាជាណាចក្រ​កម្ពុជា​ដែល​បាន​គ្រប់គ្រង​ប្រទេស​ក្នុង​ទសវត្សរ៍​ឆ្នាំ 1920 ។ ជារៀងរាល់ឆ្នាំ ភ្ញៀវទេសចរណ៍ជាតិ និងអន្តរជាតិមកលេងទីនេះ ដើម្បីបួងសួងសុំលាភសំណាង ព្រោះគេចាត់ទុកវត្តសំពៅប្រម៉ោយ ជាកន្លែងព្រះពុទ្ធសាសនាដ៏ពិសិដ្ឋបំផុតមួយក្នុងប្រទេសកម្ពុជា។ ចំណុច​ពិសេស​មួយ​ទៀត​នៃ​ប្រាសាទ​ដែល​ទាក់ទាញ​ភ្ញៀវ​ទេសចរ​គឺ​វត្ត​សំពៅ​ព្រហ្ម ជា​វត្ត​ព្រះពុទ្ធ​ខ្ពស់​បំផុត​ក្នុង​ប្រទេស​កម្ពុជា។"
+          },
+          {
+            "id": 6,
+            "attractionPlace": "សារមន្ទីរខេត្តកំពត",
+            "imgSrc": "https://www.kampotmuseum.org/media/cache/alternate_list/images/article/8/579c6570d82b2.JPG",
+            "tag": "សារមន្ទីរប្រវត្តិសាស្ត្រ",
+            "description": "សារមន្ទីរបច្ចុប្បន្ន ពិពណ៌នាអំពីព្រឹត្តិការណ៍សំខាន់ៗក្នុងប្រវត្តិសាស្ត្រនៃខេត្តកំពត។ ចាប់ពីសតវត្សទីដប់ប្រាំបី និងសតវត្សទីដប់ប្រាំបួន ជាសម័យអាណានិគមក្រោមរបបអាណាព្យាបាល និងសម័យសហសម័យ។ - ការបង្ហាញរូបថតចំនួន ៣៨ សន្លឹកអំពីប្រវត្តិសាស្ត្រកំពត។ - បំណែកបុរាណវិទ្យារាប់សិបត្រូវបានរកឃើញនៅតំបន់កំពត។ ភាគច្រើននៃសម័យមុនអង្គរ។ វត្ថុបុរាណវត្ថុដែលអាចរកបានដោយនាយកតំបន់នៃវិចិត្រសិល្បៈ។"
+          },
+          {
+            "id": 7,
+            "attractionPlace": "ភ្នំ ​សរសៀ",
+            "imgSrc": "https://smartsinntravel.com/userfiles/phnom-sorsia-smart-sinn-travel2.jpg",
+            "tag": "ភ្នំ · ល្អាងភ្នំ",
+            "description": "ភ្នំសុសៀ ជាភ្នំពុទ្ធសាសនា ក្នុងខេត្តកំពត ភាគខាងត្បូងប្រទេសកម្ពុជា។ វា​មាន​លក្ខណៈ​វប្បធម៌​ពុទ្ធសាសនា​ដែល​ចូល​ទៅ​ជិត​ដោយ​ជណ្តើរ​មួយ និង​រូងភ្នំ​ថ្ម​ដ៏​ស្មុគស្មាញ។ ល្អាង​ភ្នំ​ដំរី​ស​មួយ​មាន​ថ្ម​ដុះ​ស្រដៀង​នឹង​ក្បាល​ដំរី; មួយទៀតមានអាណានិគមសត្វប្រចៀវ។"
+          },
+          {
+            "id": 8,
+            "attractionPlace": "ឧទ្យាន ដងព្រែក",
+            "imgSrc": "https://www.travona.net/_next/image?url=https%3A%2F%2Fapi.travona.net%2Fv1%2Ffiles%2F5fed579ac060bd6ed2b16000&w=3840&q=75",
+            "tag": "រមណីដ្ឋាន · ឧទ្យាន ដងទន្លេ",
+            "description": "ស្លាយឥន្ទធនូទី 1 របស់ប្រទេសកម្ពុជា មានទីតាំងនៅសួនច្បារមាត់ទន្លេកំពត ទល់មុខភ្នំបូកគោ។ ជាគូ ឬតែម្នាក់ឯង យកបំពង់មួយ រួចរំកិលជាង 50m ទៅបញ្ចប់ក្នុងទន្លេ ហើយរំកិលរហូតដល់ 20m ទៀត។"
+          }
+        ]
+      }
+    },
+    {
+      "English": {
+        "id": 8,
+        "city": "Kep",
+        "restaurant": "https://www.petitfute.co.uk/v55768-kep/c1165-restaurants/?pfpart=SEM-UK&utm_source=SEM-Google-UK&utm_medium=CPC&utm_campaign=hebergement_uk&gclid=CjwKCAiA1fqrBhA1EiwAMU5m_62I-X7obVzT5dHygtGeOX7cZh9U1k0d2U9dPc6oEwqba2cLftD38xoCngYQAvD_BwE#SEC-247",
+        "accomadation": "https://www.booking.com/searchresults.en-gb.html?aid=383259&label=kep%2Fkepbeach-42PUVNTowqHlqECjiPOZ2gS394406762581%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-316239652488%3Alp1009829%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YRlijhKLEMjJLyONwTyX95c&sid=fa1ecddef872dea60251d634fd1a7085&dest_id=15969&dest_type=district&from_district=1&keep_landing=1&redirected=1&source=district&gclid=CjwKCAiA1fqrBhA1EiwAMU5m_69f6tce9Q-EBEa2XNklzm63hwNaWastKg_ghSDcRXImDshf1urqaBoC-hUQAvD_BwE&",
+        "intro": "Kep Province",
+        "description": "Kep is a coastal province in southern Cambodia, known for its seafood and tropical islands. The relaxed provincial capital of Kep, or Krong Kaeb, has wide streets with crumbling villas that recall its former glory as a French colonial resort town. Kep Beach has calm waters and a promenade with large statues, while vendors line the waterfront at the nearby crab market.",
+        "cityPicture": "https://www.indochinavoyages.com/wp-content/uploads/2019/11/kep_cambodia.jpg",
+        "kep": [
+          {
+            "id": 1,
+            "attractionPlace": "Kep Beach",
+            "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipPffNJRBOE1aH9oMtAnqH59JHPMhF8eGY7KdsL3=s1360-w1360-h1020",
+            "tag": "Beach",
+            "description": "A small white-sand beach with local seafood restaurants & traveler accommodations nearby. "
+          },
+          {
+            "id": 2,
+            "attractionPlace": "Kep National Park",
+            "imgSrc": "https://www.cambotours.com/uploads/kep_national_park.jpg",
+            "tag": "National Park",
+            "description": "Kep National Park is a national park in Cambodia's Kep Province that was established in 1993 and covers an area of 11.52 km². The nearest town lies at Kep. The park includes a small mountain range and a number of hiking trails."
+          },
+          {
+            "id": 3,
+            "attractionPlace": "Rabbit Island (Kaoh Tonsay)",
+            "imgSrc": "https://lh5.googleusercontent.com/p/AF1QipN6UoI2tUWGR7SZQqx9PsKxfmA8cIuTovpcsshE=w675-h390-n-k-no",
+            "tag": "Island",
+            "description": "Koh Tonsay is a Cambodian island located off the country's southern coast in the Gulf of Thailand. 'Koh Tonsay' translates to Rabbit Island, it is being administered by Kep Province. Koh Tonsay is located just 4 km south of Kep town, has an area of around 2 km² and can be reached by ferry boat from the local port. "
+          },
+          {
+            "id": 4,
+            "attractionPlace": "Koh Po",
+            "imgSrc": "https://www.guidetrip.info/asset/img/gallery_resort/60a07af1e5b4a.jpeg",
+            "tag": "Island",
+            "description": "Koh Po or it's often called Koh Svay Prey, National Forest of Koh Po Island, Koh Pau, Koh Po Island or Svay Prey Island, is located in Kep village, Sangkhat Kep, Kep municipality, Kep province, Cambodia and far about ~8km away from Bus station."
+          },
+          {
+            "id": 5,
+            "attractionPlace": "Kep Crab Market",
+            "imgSrc": "https://www.cambodiaproperty.info/wp-content/uploads/2021/10/kep1-1.png",
+            "tag": "Seafood Market",
+            "description": "Kep Crab Market is located in a small peaceful seaside village in the Town of Kep, which is just an easy bus ride from Phnom Penh. The market has a long-standing history as the locals have been doing business here for decades."
+          },
+          {
+            "id": 6,
+            "attractionPlace": "Sothy's Pepper Farm",
+            "imgSrc": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/66/54/a9/sothy-s-pepper-farm.jpg?w=1200&h=-1&s=1",
+            "tag": "Farm · Organic Farm",
+            "description": "Kampot Pepper - Green, Black, Red, and White - is produced, without chemical fertilizers or insecticides, taking a tour in Cambodian, English, French, German, Japanese, or Spanish. We use solar and wind energy. We have one simple bungalow - inquire for prior arrangements. We can be reached from Kep (or Kampot) by tuk-tuk or taxi; many visitors come with locally rented motorscooters."
+          },
+          {
+            "id": 7,
+            "attractionPlace": "Kep Butterfly Farm",
+            "imgSrc": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a2/38/ac/butterfly.jpg?w=1200&h=-1&s=1",
+            "tag": "Garden",
+            "description": "This small and beautifully kept flower-filled garden is home to myriad butterflies. You can cycle or motorbike here – drive about 300m past the Rabbit Island pier, turn left at the Total station and keep going straight. There's also a hard-to-find connection path that links to the main trail in Kep National Park."
+          },
+          {
+            "id": 8,
+            "attractionPlace": "Crab Statue",
+            "imgSrc": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/c7/b0/d8/caption.jpg?w=1200&h=-1&s=1",
+            "tag": "Statue · Beach",
+            "description": "The Crab Statue is situated in the sea at Kep beach along the main road. We passed it on the way to the crab market."
+          }
+        ]
+      },
+
+      "Khmer": {
+        "id": 8,
+        "city": "កែប",
+        "restaurant": "https://www.petitfute.co.uk/v55768-kep/c1165-restaurants/?pfpart=SEM-UK&utm_source=SEM-Google-UK&utm_medium=CPC&utm_campaign=hebergement_uk&gclid=CjwKCAiA1fqrBhA1EiwAMU5m_62I-X7obVzT5dHygtGeOX7cZh9U1k0d2U9dPc6oEwqba2cLftD38xoCngYQAvD_BwE#SEC-247",
+        "accomadation": "https://www.booking.com/searchresults.en-gb.html?aid=383259&label=kep%2Fkepbeach-42PUVNTowqHlqECjiPOZ2gS394406762581%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-316239652488%3Alp1009829%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YRlijhKLEMjJLyONwTyX95c&sid=fa1ecddef872dea60251d634fd1a7085&dest_id=15969&dest_type=district&from_district=1&keep_landing=1&redirected=1&source=district&gclid=CjwKCAiA1fqrBhA1EiwAMU5m_69f6tce9Q-EBEa2XNklzm63hwNaWastKg_ghSDcRXImDshf1urqaBoC-hUQAvD_BwE&",
+        "intro": "ខេត្តកែប",
+        "description": "កែប ជាខេត្តជាប់មាត់សមុទ្រមួយនៅភាគខាងត្បូងនៃប្រទេសកម្ពុជា ដែលល្បីល្បាញខាងអាហារសមុទ្រ និងកោះត្រូពិច។ ទីរួមខេត្តកែប ឬក្រុងកែប មានផ្លូវធំទូលាយជាមួយនឹងផ្ទះវីឡាដួលរលំ ដែលរំលឹកពីភាពរុងរឿងរបស់អតីតជាទីក្រុងរមណីយដ្ឋានអាណានិគមបារាំង។ ឆ្នេរកែបមានទឹកស្ងប់ស្ងាត់ និងផ្លូវដើរជាមួយរូបសំណាកធំៗ ខណៈដែលអ្នកលក់តម្រង់ជួរមាត់ទឹកនៅផ្សារក្តាមក្បែរនោះ។",
+        "cityPicture": "https://www.indochinavoyages.com/wp-content/uploads/2019/11/kep_cambodia.jpg",
+        "kep": [
+          {
+            "id": 1,
+            "attractionPlace": "ឆ្នេរកែប",
+            "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipPffNJRBOE1aH9oMtAnqH59JHPMhF8eGY7KdsL3=s1360-w1360-h1020",
+            "tag": "ឆ្នេរខ្សាច់",
+            "description": "ឆ្នេរខ្សាច់ស មានភោជនីយដ្ឋានគ្រឿងសមុទ្រក្នុងស្រុក និងកន្លែងស្នាក់នៅសម្រាប់អ្នកដំណើរនៅក្បែរនោះ។"
+          },
+          {
+            "id": 2,
+            "attractionPlace": "ឧទ្យានជាតិ ខេត្តកែប",
+            "imgSrc": "https://www.cambotours.com/uploads/kep_national_park.jpg",
+            "tag": "ឧទ្យានជាតិ",
+            "description": "ឧទ្យានជាតិកែប ជាឧទ្យានជាតិមួយក្នុងខេត្តកែប របស់ប្រទេសកម្ពុជា ដែលត្រូវបានបង្កើតឡើងក្នុងឆ្នាំ ១៩៩៣ និងមានផ្ទៃដី ១១.៥២ គីឡូម៉ែត្រការ៉េ។ ទីក្រុងដែលនៅជិតបំផុតគឺនៅកែប។ ឧទ្យាននេះរួមមានជួរភ្នំតូចមួយ និងផ្លូវដើរមួយចំនួន។"
+          },
+          {
+            "id": 3,
+            "attractionPlace": "កោះទន្សាយ",
+            "imgSrc": "https://lh5.googleusercontent.com/p/AF1QipN6UoI2tUWGR7SZQqx9PsKxfmA8cIuTovpcsshE=w675-h390-n-k-no",
+            "tag": "កោះ",
+            "description": "កោះទន្សាយ ជា​កោះ​របស់​កម្ពុជា​ដែល​ស្ថិត​នៅ​ក្រៅ​ឆ្នេរ​ភាគ​ខាង​ត្បូង​ប្រទេស​ក្នុង​ឈូង​សមុទ្រ​ថៃ។ កោះទន្សាយ​មាន​ទីតាំង​ស្ថិត​នៅ​ចម្ងាយ​ប្រមាណ ៤ គីឡូម៉ែត្រ​ពី​ក្រុង​កែប ភាគ​ខាង​ត្បូង​ក្រុង​កែប មាន​ផ្ទៃ​ក្រឡា​ប្រហែល ២ គីឡូម៉ែត្រ​ការ៉េ ហើយ​អាច​ទៅ​ដល់​បាន​ដោយ​ទូក​កាណូត​ពី​កំពង់ផែ​ក្នុង​ស្រុក។ "
+          },
+          {
+            "id": 4,
+            "attractionPlace": "កោះពោធិ៍",
+            "imgSrc": "https://www.guidetrip.info/asset/img/gallery_resort/60a07af1e5b4a.jpeg",
+            "tag": "កោះ",
+            "description": "កោះពោធិ៏ ឬគេច្រើនហៅថា កោះស្វាយព្រៃ ជាឧទ្យានព្រៃជាតិមានទីតាំងនៅ ភូមិកែប សង្កាត់កែប ក្រុងកែប ខេត្តកែប ប្រទេសកម្ពុជា និងមានចម្ងាយប្រហែល 8km ឆ្ងាយ ពីស្ថានីយ៍ឡានក្រុង។"
+          },
+          {
+            "id": 5,
+            "attractionPlace": "ផ្សារក្ដាម កែប",
+            "imgSrc": "https://www.cambodiaproperty.info/wp-content/uploads/2021/10/kep1-1.png",
+            "tag": "ផ្សារគ្រឿងសមុទ្រ",
+            "description": "ផ្សារក្តាម កែប មានទីតាំងនៅភូមិមាត់សមុទ្រដ៏ស្ងប់ស្ងាត់តូចមួយក្នុងក្រុងកែប ដែលគ្រាន់តែជិះឡានក្រុងពីភ្នំពេញយ៉ាងងាយស្រួល។ ទីផ្សារនេះមានប្រវត្តិយូរអង្វែង ដោយសារអ្នកស្រុកបានធ្វើអាជីវកម្មនៅទីនេះអស់ជាច្រើនទសវត្សរ៍មកហើយ។"
+          },
+          {
+            "id": 6,
+            "attractionPlace": "សុធី ចម្ការម្រេច",
+            "imgSrc": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/66/54/a9/sothy-s-pepper-farm.jpg?w=1200&h=-1&s=1",
+            "tag": "កសិដ្ឋាន · កសិដ្ឋានសរីរាង្គ",
+            "description": "ម្រេចកំពត - បៃតង ខ្មៅ ក្រហម និងស - ត្រូវបានផលិតដោយគ្មានជីគីមី ឬថ្នាំសម្លាប់សត្វល្អិត ដោយធ្វើដំណើរកម្សាន្តជាភាសាខ្មែរ អង់គ្លេស បារាំង អាល្លឺម៉ង់ ជប៉ុន ឬអេស្ប៉ាញ។ យើងប្រើប្រាស់ថាមពលព្រះអាទិត្យ និងខ្យល់។ យើងមានបឹងហ្គាឡូសាមញ្ញមួយ - សាកសួរសម្រាប់ការរៀបចំជាមុន។ យើងអាចទៅដល់ពីកែប (ឬកំពត) តាមរ៉ឺម៉ក ឬតាក់ស៊ី។ ភ្ញៀវជាច្រើនមកជាមួយម៉ូតូជួលក្នុងស្រុក។"
+          },
+          {
+            "id": 7,
+            "attractionPlace": "កសិដ្ឋានមេអំបៅ កែប",
+            "imgSrc": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a2/38/ac/butterfly.jpg?w=1200&h=-1&s=1",
+            "tag": "សួន",
+            "description": "សួនផ្កាដ៏តូច និងស្រស់ស្អាតនេះ ជាទីជម្រករបស់មេអំបៅជាច្រើនក្បាល។ អ្នកអាចជិះកង់ ឬម៉ូតូនៅទីនេះ - បើកបរប្រហែល 300m កាត់ពីកំពង់ផែ Rabbit Island បត់ឆ្វេងនៅស្ថានីយ៍ Total ហើយបន្តទៅត្រង់។ វាក៏មានផ្លូវតភ្ជាប់ពិបាករកផងដែរ ដែលភ្ជាប់ទៅនឹងផ្លូវលំនៅក្នុងឧទ្យានជាតិកែប។"
+          },
+          {
+            "id": 8,
+            "attractionPlace": "រូបសំណាក ក្តាម",
+            "imgSrc": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/c7/b0/d8/caption.jpg?w=1200&h=-1&s=1",
+            "tag": "រូបសំណាក · ឆ្នេរ",
+            "description": "រូបសំណាកក្តាម មានទីតាំងនៅមាត់សមុទ្រ ឆ្នេរកែប តាមបណ្តោយផ្លូវធំ។ យើងបានឆ្លងកាត់វានៅតាមផ្លូវទៅផ្សារក្តាម។"
+          }
+        ]
+      }
+    },
+    {
+      "English": {
+        "id": 9,
+        "city": "Preah Sihanouk (Sihanoukville)",
+        "restaurant": "https://www.tripadvisor.com/Restaurants-g325573-Sihanoukville_Sihanoukville_Province.html",
+        "accomadation": "https://www.booking.com/city/kh/kampong-saom.en.html?aid=306395;label=kampong-saom-8eb5XCMmBbF2ck9SGiahfwS504771281976:pl:ta:p1:p2:ac:ap:neg:fi:tiaud-146342136550:kwd-308465172601:lp1009829:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;ws=&gad_source=1&gclid=CjwKCAiA1fqrBhA1EiwAMU5m_4Zv6ZVdp9oEe0mT8qkZlyUrCbEiV9ab8YJtO5Gp4zRoaTp-lrU9ohoCwZQQAvD_BwE",
+        "intro": "Krong Preah Sihanouk (Sihanoukville)",
+        "description": "Preah Sihanouk province, named after King Norodom Sihanouk since its independence from France in 1953, is known locally as Kampong Som. Sihanoukville is a province in southwest Cambodia known for its beaches, tropical islands and the mangrove jungles of Ream National Park. Set around a deep-water port on a peninsula jutting into the Gulf of Thailand, the provincial capital of Sihanoukville has palm-fringed beaches, seafood restaurants and late-night bars. Overlooking the capital is the hilltop Buddhist temple of Wat Leu.",
+        "cityPicture": "https://tourismcambodia.org/storage/uploads/category_banner/ministry-of-tourism-cambodia-2020-05-02-08-59-13am.jpg",
+        "preahSihanouk": [
+          {
+            "id": 1,
+            "attractionPlace": "Ream National Park",
+            "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipPffNJRBOE1aH9oMtAnqH59JHPMhF8eGY7KdsL3=s1360-w1360-h1020",
+            "tag": "National Park",
+            "description": "The Ream National Park, officially the Preah Sihanouk Ream National Park, is a national park of Cambodia located 18 km from the city of Sihanoukville in the Sihanoukville Municipality of the Sihanoukville Province in southwestern Cambodia."
+          },
+          {
+            "id": 2,
+            "attractionPlace": "Koh Rong Sanloem",
+            "imgSrc": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQIMheKc8TX1CtrwZsUWirYNJKpFQrTRWYpwIRyHk_OmHeX38z0aI8IlztcStbeZ9W9mM7jGMbTMA2aCJf-H7sIypGcd1PfpkD7BsqSnw",
+            "tag": "Island",
+            "description": "Koh Rong Sanloem is an island off the coast of Sihanoukville, Cambodia, 4 km south of Koh Rong. It is around 9 km long, 4 km wide and 1 km wide at its narrowest point. Its distance from the local port of Sihanoukville is 25 km and 23 km from the Serendipity/Ochheuteal beach pier."
+          },
+          {
+            "id": 3,
+            "attractionPlace": "Koh Rong",
+            "imgSrc": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcS6JDJP4nq1izP_tHq5IB9STds3c4w2wK-uQmrGRXsfCE6Yhn4VTRTLJe3X-rZnHHcRmrG_meUM5ku5XkYj1CXrUAxrZCD-vmU8JG_l-RQ",
+            "tag": "Island",
+            "description": "Koh Rong is an island in the Sihanoukville Province of Cambodia. It’s known for its sandy coves and coral reefs, like those around Koh Rong Pier. Inland, the dense jungle terrain is dotted with coconut palms and waterfalls. In the south are Jewelorchids, a small zoo home to butterflies, snakes, and birds, and lively Police Beach, a party spot. High Point Rope Park has suspension bridges, rope walks and zip lines."
+          },
+          {
+            "id": 4,
+            "attractionPlace": "Serendipity Beach (Ochheuteal Beach)",
+            "imgSrc": "https://lp-cms-production.imgix.net/2019-06/98c4f520773fb839bc719b7b3c742582-occheuteal-beach.jpg?auto=format&w=1920&h=640&fit=crop&crop=faces,edges&q=75",
+            "tag": "Beach",
+            "description": "Ochheuteal Beach is a 3.5 km beach located to the south of Sihanoukville Town in Cambodia. The beach runs east until reaching a river mouth and headland which separates it from Otres beach which starts after the headland."
+          },
+          {
+            "id": 5,
+            "attractionPlace": "Otres Beach",
+            "imgSrc": "https://www.ourglobetrotters.com/wp-content/uploads/2021/01/Destinations-Cambodia-Otres-Beach-1024x683.jpg",
+            "tag": "Beach",
+            "description": "Midway between Independence and Serendipity Beaches lies Sihanoukville's prettiest stretch of sand, 1.5km-long Sokha Beach."
+          },
+          {
+            "id": 6,
+            "attractionPlace": "Independence Beach",
+            "imgSrc": "https://www.greeneratravel.com/userfiles/850beachinde.jpg",
+            "tag": "Beach",
+            "description": "The Independence Beach in Sihanoukville is a calm and quiet sea side destination in the city of numerous beaches. It is just the place for you to spend some quiet moments with your loved ones while taking pleasure in the untamed beauties of nature. With no interruption at all, you can spend time in this Sihanoukville sightseeing spot just the way you want to."
+          },
+          {
+            "id": 7,
+            "attractionPlace": "Sokha Beach Resort",
+            "imgSrc": "https://evivatour.com/wp-content/uploads/2021/09/Sokha-Beach-Resort-Sihanoukville-Cambodia.jpg",
+            "tag": "Resort · Beach",
+            "description": "Sokha Beach Resort is a beachfront resort located in Sihanoukville, Southern Cambodia. With easy access to the 1.5 km long white sand beach, the resort also features landscaped gardens, swimming pools, multiple choices of restaurants, spa facilities as well as poolside swim up bars. Complimentary WiFi is available in the public areas. Staff is able to converse in Chinese, Vietnamese, Russian, Khmer and English."
+          },
+          {
+            "id": 8,
+            "attractionPlace": "Bamboo Island (Koh Russei)",
+            "imgSrc": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcR4cFmnLAEG5QeLlMHatSwK6YIOJqtwmTYIQviu0HHtZuN65m2meBIVzGaxwEWJL0ABJxwZPVee9ff-x6qviCV5Pf6yxHg6J1Ic942-dg",
+            "tag": "Beach",
+            "description": "Koh Russei, Koh Russey or Bamboo Island is one of a group of small islands in the Gulf of Thailand, located about 4.5 km off the coast of Sihanoukville city in southern Cambodia. It is administered by Prey Nob District in Sihanoukville Province."
+          }
+        ]
+      },
+
+      "Khmer": {
+        "id": 9,
+        "city": "ព្រះសីហនុ (កំពុងសោម)",
+        "restaurant": "https://www.tripadvisor.com/Restaurants-g325573-Sihanoukville_Sihanoukville_Province.html",
+        "accomadation": "https://www.booking.com/city/kh/kampong-saom.en.html?aid=306395;label=kampong-saom-8eb5XCMmBbF2ck9SGiahfwS504771281976:pl:ta:p1:p2:ac:ap:neg:fi:tiaud-146342136550:kwd-308465172601:lp1009829:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YZVcNNsENnH02-pWD53qm9c;ws=&gad_source=1&gclid=CjwKCAiA1fqrBhA1EiwAMU5m_4Zv6ZVdp9oEe0mT8qkZlyUrCbEiV9ab8YJtO5Gp4zRoaTp-lrU9ohoCwZQQAvD_BwE",
+        "intro": "ក្រុងព្រះសីហនុ (ក្រុងកំពុងសោម)",
+        "description": "Preah Sihanouk province, named after King Norodom Sihanouk since its independence from France in 1953, is known locally as Kampong Som. Sihanoukville is a province in southwest Cambodia known for its beaches, tropical islands and the mangrove jungles of Ream National Park. Set around a deep-water port on a peninsula jutting into the Gulf of Thailand, the provincial capital of Sihanoukville has palm-fringed beaches, seafood restaurants and late-night bars. Overlooking the capital is the hilltop Buddhist temple of Wat Leu.",
+        "cityPicture": "https://tourismcambodia.org/storage/uploads/category_banner/ministry-of-tourism-cambodia-2020-05-02-08-59-13am.jpg",
+        "preahSihanouk": [
+          {
+            "id": 1,
+            "attractionPlace": "ឧទ្យានជាតិ រាម",
+            "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipPffNJRBOE1aH9oMtAnqH59JHPMhF8eGY7KdsL3=s1360-w1360-h1020",
+            "tag": "ឧទ្យានជាតិ",
+            "description": "ឧទ្យានជាតិរាម ហៅជាផ្លូវការថា ឧទ្យានជាតិព្រះសីហនុរាម គឺជាឧទ្យានជាតិរបស់ប្រទេសកម្ពុជា ស្ថិតនៅចម្ងាយ 18 គីឡូម៉ែត្រពីក្រុងព្រះសីហនុ ក្នុងក្រុងព្រះសីហនុ នៃខេត្តព្រះសីហនុ ភាគនិរតីនៃប្រទេសកម្ពុជា។"
+          },
+          {
+            "id": 2,
+            "attractionPlace": "កោះរ៉ុងសន្លឹម",
+            "imgSrc": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQIMheKc8TX1CtrwZsUWirYNJKpFQrTRWYpwIRyHk_OmHeX38z0aI8IlztcStbeZ9W9mM7jGMbTMA2aCJf-H7sIypGcd1PfpkD7BsqSnw",
+            "tag": "កោះ",
+            "description": "កោះរ៉ុងសន្លឹម ជាកោះមួយនៅជាប់ឆ្នេរសមុទ្រនៃខេត្តព្រះសីហនុ ប្រទេសកម្ពុជា ដែលមានចម្ងាយ ៤ គីឡូម៉ែត្រខាងត្បូងកោះរ៉ុង។ វាមានប្រវែងប្រហែល 9 គីឡូម៉ែត្រទទឹង 4 គីឡូម៉ែត្រនិងទទឹង 1 គីឡូម៉ែត្រនៅចំណុចចង្អៀតបំផុត។ ចម្ងាយពីកំពង់ផែក្នុងស្រុកនៃក្រុងព្រះសីហនុគឺ 25 គីឡូម៉ែត្រ និង 23 គីឡូម៉ែត្រពីកំពង់ផែឆ្នេរ ឆ្នេរអូរឈើទាល។"
+          },
+          {
+            "id": 3,
+            "attractionPlace": "កោះរ៉ុង",
+            "imgSrc": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcS6JDJP4nq1izP_tHq5IB9STds3c4w2wK-uQmrGRXsfCE6Yhn4VTRTLJe3X-rZnHHcRmrG_meUM5ku5XkYj1CXrUAxrZCD-vmU8JG_l-RQ",
+            "tag": "កោះ",
+            "description": "កោះរ៉ុង ជា​កោះ​មួយ​ក្នុង​ខេត្ត​ព្រះសីហនុ​នៃ​ប្រទេស​កម្ពុជា។ វា​ត្រូវ​បាន​គេ​ស្គាល់​ថា​សម្រាប់​គម្រប​ដី​ខ្សាច់ និង​ថ្ម​ប៉ប្រះ​ទឹក​ដូច​ជា​នៅ​ជុំវិញ​ផែ​កោះ​រ៉ុង​។ ដី​ក្នុង​ព្រៃ​ក្រាស់​មាន​ដើម​ដូង និង​ទឹកជ្រោះ។ នៅភាគខាងត្បូងមាន Jewelorchids ដែលជាសួនសត្វតូចមួយដែលជាជម្រករបស់មេអំបៅ ពស់ និងសត្វស្លាប និងឆ្នេរប៉ូលីសដ៏រស់រវើក ដែលជាកន្លែងជប់លៀង។ ឧទ្យាន High Point Rope Park មានស្ពានព្យួរ ការដើរខ្សែពួរ និងខ្សែហ្ស៊ីប។"
+          },
+          {
+            "id": 4,
+            "attractionPlace": "ឆ្នេរអូរឈើទាល",
+            "imgSrc": "https://lp-cms-production.imgix.net/2019-06/98c4f520773fb839bc719b7b3c742582-occheuteal-beach.jpg?auto=format&w=1920&h=640&fit=crop&crop=faces,edges&q=75",
+            "tag": "ឆ្នេរខ្សាច់",
+            "description": "ឆ្នេរអូរឈើទាល គឺជាឆ្នេរមួយដែលមានចម្ងាយ ៣.៥ គីឡូម៉ែត្រ ស្ថិតនៅភាគខាងត្បូងនៃក្រុងព្រះសីហនុ ក្នុងប្រទេសកម្ពុជា។ ឆ្នេរ​នេះ​រត់​ទៅ​ទិស​ខាង​កើត​រហូត​ដល់​មាត់​ទន្លេ និង​ក្បាល​ទឹក ដែល​បំបែក​វា​ពី​ឆ្នេរ​អូរត្រេះ ដែល​ចាប់​ផ្តើម​បន្ទាប់​ពី​ក្បាល​ដី។"
+          },
+          {
+            "id": 5,
+            "attractionPlace": "ឆ្នេរអូត្រេស",
+            "imgSrc": "https://www.ourglobetrotters.com/wp-content/uploads/2021/01/Destinations-Cambodia-Otres-Beach-1024x683.jpg",
+            "tag": "ឆ្នេរខ្សាច់",
+            "description": "ពាក់កណ្តាលផ្លូវរវាងឆ្នេរឯករាជ្យ និងឆ្នេរអូរឈើទាល គឺជាឆ្នេរខ្សាច់ដ៏ស្រស់ស្អាតបំផុតរបស់ក្រុងព្រះសីហនុ ឆ្នេរសុខាប្រវែង 1.5 គីឡូម៉ែត្រ។"
+          },
+          {
+            "id": 6,
+            "attractionPlace": "ឆ្នេរឯករាជ្យ",
+            "imgSrc": "https://www.greeneratravel.com/userfiles/850beachinde.jpg",
+            "tag": "ឆ្នេរខ្សាច់",
+            "description": "ឆ្នេរឯករាជ្យក្នុងក្រុងព្រះសីហនុ គឺជាគោលដៅឆ្នេរដ៏ស្ងប់ស្ងាត់ និងស្ងប់ស្ងាត់នៅក្នុងទីក្រុងដែលមានឆ្នេរជាច្រើន។ វាគ្រាន់តែជាកន្លែងសម្រាប់អ្នកដើម្បីចំណាយពេលដ៏ស្ងប់ស្ងាត់ខ្លះជាមួយមនុស្សជាទីស្រលាញ់របស់អ្នក ខណៈពេលដែលរីករាយជាមួយនឹងសម្រស់ធម្មជាតិដែលមិនអាចបំភ្លេចបាន។ ដោយ​គ្មាន​ការ​រំខាន​អ្វី​ទាំងអស់ អ្នក​អាច​ចំណាយ​ពេល​នៅ​កន្លែង​កម្សាន្ត​នៅ​ខេត្ត​ព្រះសីហនុ​តាម​របៀប​ដែល​អ្នក​ចង់​ទៅ។"
+          },
+          {
+            "id": 7,
+            "attractionPlace": "ឆ្នេរសុខា",
+            "imgSrc": "https://evivatour.com/wp-content/uploads/2021/09/Sokha-Beach-Resort-Sihanoukville-Cambodia.jpg",
+            "tag": "រមណីដ្ឋាន · ឆ្នេរខ្សាច់",
+            "description": "Sរមណីយដ្ឋានឆ្នេរអូខា ជារមណីយដ្ឋានមាត់សមុទ្រ ដែលមានទីតាំងនៅក្រុងព្រះសីហនុ ភាគខាងត្បូងប្រទេសកម្ពុជា។ ជាមួយនឹងភាពងាយស្រួលក្នុងការចូលទៅកាន់ឆ្នេរខ្សាច់សប្រវែង 1.5 គីឡូម៉ែត្រ រមណីយដ្ឋានក៏មានសួនច្បារទេសភាព អាងហែលទឹក ជម្រើសជាច្រើននៃភោជនីយដ្ឋាន កន្លែងស្ប៉ា ក៏ដូចជាអាងហែលទឹក បារ។ វ៉ាយហ្វាយឥតគិតថ្លៃមាននៅតំបន់សាធារណៈ។ បុគ្គលិកអាចនិយាយភាសាចិន វៀតណាម រុស្ស៊ី ខ្មែរ និងអង់គ្លេស។"
+          },
+          {
+            "id": 8,
+            "attractionPlace": "កោះឬស្សី",
+            "imgSrc": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcR4cFmnLAEG5QeLlMHatSwK6YIOJqtwmTYIQviu0HHtZuN65m2meBIVzGaxwEWJL0ABJxwZPVee9ff-x6qviCV5Pf6yxHg6J1Ic942-dg",
+            "tag": "ឆ្នេរខ្សាច់",
+            "description": "កោះឬស្សី គឺជាកោះមួយក្នុងចំនោមក្រុមកោះតូចៗនៅឈូងសមុទ្រថៃ ដែលមានចម្ងាយប្រហែល ៤.៥ គីឡូម៉ែត្រពីឆ្នេរសមុទ្រនៃក្រុងព្រះសីហនុ ភាគខាងត្បូងប្រទេសកម្ពុជា។ គ្រប់គ្រងដោយស្រុកព្រៃនប់ ខេត្តព្រះសីហនុ។"
+          }
+        ]
+      }
+    },
+    {
+      "English": {
+        "id": 10,
+        "city": "Koh Kong",
+        "restaurant": "https://www.tripadvisor.com/Restaurants-g1532269-Koh_Kong_Koh_Kong_Province.html",
+        "accomadation": "https://www.booking.com/searchresults.en-gb.html?aid=373420&label=krong-kaoh-kong-PRwOg9axnN9CdFuLPjgHXwS394373728536%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-146342137030%3Akwd-20263786186%3Alp1009829%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9Ydj4ck6nIj5YRjPru0SpaEk&gclid=CjwKCAiA-P-rBhBEEiwAQEXhHzGAWU2sD7c667U9CXh00fgYLY-b37NbJjpVHT6akVTC40RXCBtpARoCjpUQAvD_BwE&dest_type=city&redirected=1&dest_id=-1024475&source=city&redirected_from_city=1&keep_landing=1&sid=840d9e6a60cbe617bbcb89ad3afaceb8",
+        "intro": "Koh Kong Province",
+        "description": "Koh Kong is a province in southwest Cambodia with a vast undeveloped coastline and a rugged interior encompassing part of the Cardamom Mountains' rainforest. The forested, hilly Koh Kong Island is lined with tropical beaches, mangroves and small fishing villages. The Koh Kong Bridge runs over Kaoh Pao River, connecting Koh Kong with the Thai border. ",
+        "cityPicture": "https://lh5.googleusercontent.com/p/AF1QipNqyzKj9ExvWvF4HqgBxdap7uJjGJKTy3fGHyAN=w675-h390-n-k-no",
+        "kohKong": [
+          {
+            "id": 1,
+            "attractionPlace": "Tatay Waterfall",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550116176-1039-shutterstock-527980999.png",
+            "tag": "Waterfall",
+            "description": "Tatai Waterfall is a large rocky cascade located amidst a lush jungle setting in the Tatai river, Koh Kong province. Although the watefall flows all year, in the dry season it is possible to swim in the naturally formed pools at the bottom of the cascade and due to the low flow of water it is possible to walk accross the ledge. In the wet season the river flows in all its might and the watefall is more spectacular with the enraged white foamed waters running over a fall 4 meters long."
+          },
+          {
+            "id": 2,
+            "attractionPlace": "Koh Mool Resort (Kor Kong Krau)",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550115960-1037-185.jpg",
+            "tag": "Island",
+            "description": "Known as the “largest island in Cambodia”, Koh Mool is only a short trip from the charming town of Koh Kong. Apart from the lovely retreats one can find stunning cascading waterfalls. Travelers can also visit a number of small springs, and engage in dolphin watching. Young children will enjoy the dolphin show that is organized by the Koh Mool Resort (Kor Kong Krau). A walk on the beach in the moonlight is also an experience you will never forget."
+          },
+          {
+            "id": 3,
+            "attractionPlace": "Lam Da Beach",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550115378-1033-lam-da-beach-koh-kong.jpg",
+            "tag": "Beach",
+            "description": "At Lam Da Beach, you can spend some time amidst sea, sand and serenity. The long stretch of golden beach shining in the warm rays of the sun makes it a favorite tourist spot for young and old alike. It takes around one hour and forty-five minutes to get to Lam Da Beach, which is ideally situated about twenty kilometers away from the provincial town. Kids as well as all adults will enjoy the calm waters of the sea and the picturesque surroundings."
+          },
+          {
+            "id": 4,
+            "attractionPlace": "Kbal Chhay Prek Koh Waterfall",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550115061-1031-shutterstock-61481956.png",
+            "tag": "Island",
+            "description": "The Kbal Chhay Prek Koh Waterfalls offer spectacular views and an escape to serenity. The falls are situated in the Neng Kok Village of the Bakclong Commune in the Mundol Seyma District of the province of Koh Kong. The Kbal Chhay Prek Koh Waterfall is about 22 km from the heart of he province of Koh Kong. The Kbal Chhay Prek Koh Waterfall is home to nature and wildlife reserves where the travelers mightsee some of the rare species of flora and fauna. The spot is also perfect for family picnics."
+          },
+          {
+            "id": 5,
+            "attractionPlace": "Botum Sakor National Park",
+            "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipNqyzKj9ExvWvF4HqgBxdap7uJjGJKTy3fGHyAN=s1360-w1360-h1020",
+            "tag": "National Park",
+            "description": "Botum Sakor National Park is the largest national park of Cambodia. Situated on the coast of the Gulf of Thailand, Botum Sakor is a peninsula projecting southwest from the Cardamom Mountains."
+          },
+          {
+            "id": 6,
+            "attractionPlace": "Prek Kaoh Pao",
+            "imgSrc": "https://media.istockphoto.com/id/458556843/photo/fishing-boat-on-the-prek-kaoh-pao-in-cambodia.jpg?s=612x612&w=0&k=20&c=p0cZWrgmYX1VEJwRa-PD0uiAmXQ-iXnrXELQ_Va0LYk=",
+            "tag": "River",
+            "description": "Kaoh Pao River, also Prek Khao Pao or Preaek Khao Pao, is a river and estuary in Koh Kong Province, Cambodia. It is flowing past the provincial capital of Khemarak Phoumin, and empties in the Gulf of Thailand."
+          },
+          {
+            "id": 7,
+            "attractionPlace": "Peam Krasop Wildlife Sanctuary",
+            "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipMWkL5rmhWsnVsxo2ZLUvBEurU6_z-PJyPVaBVp=s1360-w1360-h1020",
+            "tag": "Wildlife Park",
+            "description": "Peam Krasop Wildlife Sanctuary is a protected area located in southwestern Cambodia, covering 245.91 km². It was established in 1993. The area is known for its mangroves and numerous islands separated by a maze of bays and channels."
+          },
+          {
+            "id": 8,
+            "attractionPlace": "Sner Beach",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550113896-1029-shutterstock-3139586.png",
+            "tag": "Beach",
+            "description": "Sner Beach is a frequently visited tourist attraction in Koh Kong. Visitors from different corners of the world prefer Sner Beach as it boasts a stunning coastline. You can either hire a car or drive down on your own to Sner Beach which is located approximately 17 kilometers from the heart Koh Kong. You will come across Sner Beach in the Dong Tung commune of the Smachmeanchery District. The natural beauty of the beach and its adjoining areas, which lie tucked away from the hustle and bustle of the cities, compels tourists to come back here time and again."
+          }
+        ]
+      },
+
+      "Khmer": {
+        "id": 10,
+        "city": "កោះកុង",
+        "restaurant": "https://www.tripadvisor.com/Restaurants-g1532269-Koh_Kong_Koh_Kong_Province.html",
+        "accomadation": "https://www.booking.com/searchresults.en-gb.html?aid=373420&label=krong-kaoh-kong-PRwOg9axnN9CdFuLPjgHXwS394373728536%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-146342137030%3Akwd-20263786186%3Alp1009829%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9Ydj4ck6nIj5YRjPru0SpaEk&gclid=CjwKCAiA-P-rBhBEEiwAQEXhHzGAWU2sD7c667U9CXh00fgYLY-b37NbJjpVHT6akVTC40RXCBtpARoCjpUQAvD_BwE&dest_type=city&redirected=1&dest_id=-1024475&source=city&redirected_from_city=1&keep_landing=1&sid=840d9e6a60cbe617bbcb89ad3afaceb8",
+        "intro": "ខេត្ត​កោះកុង",
+        "description": "កោះកុង ជាខេត្តមួយនៅភាគនិរតីនៃប្រទេសកម្ពុជា ដែលមានឆ្នេរសមុទ្រដ៏ធំល្វឹងល្វើយ និងជាផ្នែកខាងក្នុងដ៏រដុបព័ទ្ធជុំវិញផ្នែកនៃព្រៃទឹកភ្លៀងនៃជួរភ្នំក្រវាញ។ កោះ​កោះកុង​ដែល​សម្បូរ​ដោយ​ព្រៃ​ភ្នំ​មាន​ឆ្នេរ​ត្រូពិច ព្រៃកោងកាង និង​ភូមិ​នេសាទ​តូចៗ។ ស្ពាន​កោះកុង​កាត់​ទន្លេ​កៅ​ពៅ​តភ្ជាប់​ខេត្ត​កោះកុង​ជាមួយ​ព្រំដែន​ថៃ។",
+        "cityPicture": "https://lh5.googleusercontent.com/p/AF1QipNqyzKj9ExvWvF4HqgBxdap7uJjGJKTy3fGHyAN=w675-h390-n-k-no",
+        "kohKong": [
+          {
+            "id": 1,
+            "attractionPlace": "ទឹកធ្លាក់តាតៃ",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550116176-1039-shutterstock-527980999.png",
+            "tag": "ទឹកធ្លាក់",
+            "description": "ទឹកធ្លាក់តាតៃ គឺជាល្បាក់ថ្មដ៏ធំ ស្ថិតនៅចំកណ្តាលព្រៃខៀវស្រងាត់ ក្នុងទន្លេតាតៃ ខេត្តកោះកុង។ ទោះបីជាទឹកជ្រោះហូរពេញមួយឆ្នាំក៏ដោយ ប៉ុន្តែនៅរដូវប្រាំង គេអាចហែលទឹកនៅក្នុងអាងដែលបង្កើតដោយធម្មជាតិនៅខាងក្រោមនៃល្បាក់ ហើយដោយសារតែទឹកហូរតិច ទើបអាចដើរឆ្លងកាត់បាន។ នៅរដូវវស្សា ទឹកទន្លេហូរពេញកម្លាំង ហើយទឹកជ្រោះកាន់តែអស្ចារ្យ ជាមួយនឹងទឹកដែលពោរពេញដោយពពុះពណ៌ស ដែលហូរកាត់លើទឹកធ្លាក់ប្រវែង 4 ម៉ែត្រ។"
+          },
+          {
+            "id": 2,
+            "attractionPlace": "កោះកុងក្រៅ",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550115960-1037-185.jpg",
+            "tag": "កោះ",
+            "description": "កោះនេះត្រូវបានគេស្គាល់ថាជា “កោះធំជាងគេក្នុងប្រទេសកម្ពុជា” កោះម៉ុលគ្រាន់តែជាដំណើរកម្សាន្តខ្លីពីទីក្រុងដ៏ទាក់ទាញនៃខេត្តកោះកុង។ ក្រៅ​ពី​កន្លែង​សម្រាក​ដ៏​គួរ​ឱ្យ​ស្រឡាញ់ អ្នក​អាច​រក​ឃើញ​ទឹកធ្លាក់​ល្បាក់​គួរ​ឱ្យ​ភ្ញាក់​ផ្អើល។ អ្នកធ្វើដំណើរក៏អាចទៅទស្សនាប្រភពទឹកតូចៗមួយចំនួន និងចូលរួមទស្សនាសត្វផ្សោតផងដែរ។ ក្មេងៗនឹងរីករាយជាមួយការបង្ហាញសត្វផ្សោតដែលរៀបចំដោយរមណីយដ្ឋានកោះម្លូ (គងគរ)។ ការដើរលើឆ្នេរខ្សាច់ក្រោមពន្លឺព្រះចន្ទក៏ជាបទពិសោធន៍ដែលអ្នកនឹងមិនអាចបំភ្លេចបានដែរ។"
+          },
+          {
+            "id": 3,
+            "attractionPlace": "ឆ្នេរឡាំដា",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550115378-1033-lam-da-beach-koh-kong.jpg",
+            "tag": "ឆ្នេរខ្សាច់",
+            "description": "នៅឆ្នេរ ឡាំដា អ្នកអាចចំណាយពេលខ្លះនៅកណ្តាលសមុទ្រ ខ្សាច់ និងភាពស្ងប់ស្ងាត់។ ឆ្នេរមាសដ៏វែងអន្លាយ ចាំងពន្លឺថ្ងៃយ៉ាងកក់ក្តៅ ធ្វើឱ្យវាក្លាយជាកន្លែងទេសចរណ៍ពេញនិយមសម្រាប់ក្មេង និងចាស់ដូចគ្នា។ វា​ត្រូវ​ចំណាយ​ពេល​ប្រហែល​មួយ​ម៉ោង​សែសិប​ប្រាំនាទី​ដើម្បី​ទៅ​ដល់​ឆ្នេរ ឡាំដា ដែល​មាន​ទីតាំង​ល្អ​ប្រហែល​ម្ភៃ​គីឡូម៉ែត្រ​ពី​ទីរួមខេត្ត។ កុមារ ក៏ដូចជាមនុស្សធំទាំងអស់នឹងរីករាយជាមួយនឹងទឹកដ៏ស្ងប់ស្ងាត់នៃសមុទ្រ និងទេសភាពដ៏ស្រស់ស្អាតជុំវិញ។"
+          },
+          {
+            "id": 4,
+            "attractionPlace": "ទឹកធ្លាក់ក្បាលឆាយព្រែកកោះ",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550115061-1031-shutterstock-61481956.png",
+            "tag": "កោះ",
+            "description": "ទឹកធ្លាក់ក្បាលឆាយ ព្រែកកោះ ផ្តល់នូវទិដ្ឋភាពដ៏អស្ចារ្យ និងការគេចខ្លួនទៅកាន់ភាពស្ងប់ស្ងាត់។ ទឹក​ធ្លាក់​នេះ​ស្ថិត​នៅ​ភូមិ​ណង​កុក ឃុំ​បាក់​ខ្លង ស្រុក​មណ្ឌលសីមា ខេត្ត​កោះកុង។ ទឹកធ្លាក់ក្បាលឆាយព្រែកកោះ មានចម្ងាយប្រហែល ២២គីឡូម៉ែត្រពីបេះដូងនៃខេត្តកោះកុង។ ទឹកធ្លាក់ក្បាលឆាយព្រែកកោះ គឺជាជម្រកធម្មជាតិ និងសត្វព្រៃ ដែលអ្នកធ្វើដំណើរអាចឃើញប្រភេទសត្វកម្រ និងសត្វកម្រមួយចំនួន។ កន្លែង​នេះ​ក៏​ល្អ​ឥត​ខ្ចោះ​សម្រាប់​ការ​ញ៉ាំ​អាហារ​ជា​លក្ខណៈ​គ្រួសារ។"
+          },
+          {
+            "id": 5,
+            "attractionPlace": "ឧទ្យានជាតិ បុទុមសាគរ",
+            "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipNqyzKj9ExvWvF4HqgBxdap7uJjGJKTy3fGHyAN=s1360-w1360-h1020",
+            "tag": "ឧទ្យានជាតិ",
+            "description": "ឧទ្យានជាតិបុទុមសាគរ គឺជាឧទ្យានជាតិដ៏ធំបំផុតរបស់កម្ពុជា។ ប្រាសាទបុទុមសាគរ ស្ថិតនៅលើឆ្នេរសមុទ្រនៃឈូងសមុទ្រថៃ បុទុមសាគរ គឺជាឧបទ្វីបមួយ ដែលព្យាករណ៍ពីភាគនិរតីពីជួរភ្នំក្រវាញ។"
+          },
+          {
+            "id": 6,
+            "attractionPlace": "ព្រែកកោះប៉ោ",
+            "imgSrc": "https://media.istockphoto.com/id/458556843/photo/fishing-boat-on-the-prek-kaoh-pao-in-cambodia.jpg?s=612x612&w=0&k=20&c=p0cZWrgmYX1VEJwRa-PD0uiAmXQ-iXnrXELQ_Va0LYk=",
+            "tag": "ទន្លេ",
+            "description": "ព្រែកកោះប៉ោ ជាទន្លេ និងមាត់ទន្លេក្នុងខេត្តកោះកុង ប្រទេសកម្ពុជា។ វាហូរកាត់រាជធានីខេមរភូមិន្ទ ហើយហូរកាត់ឈូងសមុទ្រថៃ។"
+          },
+          {
+            "id": 7,
+            "attractionPlace": "ដែនជម្រកសត្វព្រៃពាមក្រសោប",
+            "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipMWkL5rmhWsnVsxo2ZLUvBEurU6_z-PJyPVaBVp=s1360-w1360-h1020",
+            "tag": "ជម្រកសត្វព្រៃ",
+            "description": "ដែនជម្រកសត្វព្រៃពាមក្រសោប ជាតំបន់ការពារដែលមានទីតាំងនៅភាគនិរតីនៃប្រទេសកម្ពុជា មានផ្ទៃដី ២៤៥.៩១ គីឡូម៉ែត្រការ៉េ។ វាត្រូវបានបង្កើតឡើងក្នុងឆ្នាំ 1993 ។ តំបន់នេះត្រូវបានគេស្គាល់ដោយសារព្រៃកោងកាង និងកោះជាច្រើនដែលបំបែកដោយបឹង និងច្រកនានា។"
+          },
+          {
+            "id": 8,
+            "attractionPlace": "ឆ្នេរស្នេហ៏",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550113896-1029-shutterstock-3139586.png",
+            "tag": "ឆ្នេរខ្សាច់",
+            "description": "ឆ្នេរ​ស្នេហ៏ គឺជា​តំបន់​ទេសចរណ៍​មួយ​ដែល​បាន​ទៅ​លេង​ញឹកញាប់​ក្នុង​ខេត្ត​កោះកុង។ អ្នកទេសចរមកពីជ្រុងផ្សេងៗគ្នានៃពិភពលោកចូលចិត្តឆ្នេរ ស្នេហ៏ ព្រោះវាមានឆ្នេរសមុទ្រដ៏គួរឱ្យភ្ញាក់ផ្អើល។ អ្នក​អាច​ជួល​រថយន្ត ឬ​បើក​បរ​ដោយ​ខ្លួន​អ្នក​ទៅ​ឆ្នេរ​ស្នែរ ដែល​មាន​ចម្ងាយ​ប្រហែល ១៧ គីឡូម៉ែត្រ​ពី​បេះដូង​ខេត្ត​កោះកុង។ អ្នកនឹងឆ្លងកាត់ឆ្នេរ Sner ក្នុងឃុំ Dong Tung នៃស្រុកស្មាច់មានជ័យ។ សម្រស់ធម្មជាតិនៃឆ្នេរ និងតំបន់ជាប់គ្នា ដែលស្ថិតនៅឆ្ងាយពីភាពអ៊ូអរនៃទីក្រុង បង្ខំអ្នកទេសចរឱ្យត្រលប់មកទីនេះម្តងហើយម្តងទៀត។"
+          }
+        ]
+      }
     }
   ]
 }
