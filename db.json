@@ -1,277 +1,275 @@
 {
   "data": [
     {
-      "PhnomPenh": {
-        "id": 1,
-        "restaurant": "https://www.tripadvisor.com/Restaurants-g293940-Phnom_Penh.html",
-        "accomadation": "https://www.booking.com/city/kh/phnom-penh.html",
-        "cityPicture": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e4/ce/b1/20171006-093816-01-largejpg.jpg?w=700&h=500&s=1",
-        "provinceMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d250151.42198261587!2d104.89018675!3d11.57936425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3109513dc76a6be3%3A0x9c010ee85ab525bb!2sPhnom%20Penh!5e0!3m2!1sen!2skh",
-        "en": {
-          "city": "Phnom Penh",
-          "province": "Phnom Penh",
-          "description": "Phnom Penh, Cambodia’s busy capital, sits at the junction of the Mekong and Tonlé Sap rivers. It was a hub for both the Khmer Empire and French colonialists.",
-          "intro": "Capital of Cambodia",
-          "attraction": [
-            {
-              "id": 1,
-              "attractionPlace": "Royal Palace",
-              "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Le_Palais_Royal_%28Phnom_Penh%29_%286997773481%29.jpg",
-              "tag": "Historic Sites",
-              "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
-            },
-            {
-              "id": 2,
-              "attractionPlace": "Wat Phnom",
-              "imgSrc": "https://image-tc.galaxy.tf/wijpeg-6lp8rr31vfvdy41ubtpqdgihd/wat-phnom-pagoda.jpg",
-              "tag": "Pagoda · Historic Sites",
-              "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
-            },
-            {
-              "id": 3,
-              "attractionPlace": "Central Market",
-              "imgSrc": "https://a.cdn-hotels.com/gdcs/production177/d321/27a9e4c5-6c41-4906-a59c-c4617a97385f.jpg",
-              "tag": "Landmarks · Architectural Buildings",
-              "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
-            },
-            {
-              "id": 4,
-              "attractionPlace": "National Museum",
-              "imgSrc": "https://a.cdn-hotels.com/gdcs/production32/d1605/a7794c8c-840f-480d-847c-da8dfb9d33f7.jpg",
-              "tag": "Specialty Museums",
-              "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
-            },
-            {
-              "id": 5,
-              "attractionPlace": "Tuol Sleng Genocide Museum",
-              "imgSrc": "https://i0.wp.com/www.actoftraveling.com/wp-content/uploads/2019/05/DSC04933.jpg?ssl=1",
-              "tag": "History Museums",
-              "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
-            },
-            {
-              "id": 6,
-              "attractionPlace": "Independence Monument",
-              "imgSrc": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/02-Independence_Monument_Phnom_Penh-nX-6.jpg/1920px-02-Independence_Monument_Phnom_Penh-nX-6.jpg",
-              "tag": "History Museums",
-              "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
-            },
-            {
-              "id": 7,
-              "attractionPlace": "Choeung Ek Genocidal Center",
-              "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Buddhist_Stupa_at_Choeung_Ek_killing_fields%2C_Cambodia.JPG/330px-Buddhist_Stupa_at_Choeung_Ek_killing_fields%2C_Cambodia.JPG",
-              "tag": "Historic Sites",
-              "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
-            },
-            {
-              "id": 8,
-              "attractionPlace": "Mekong River",
-              "imgSrc": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/77/8f/bd/img-20180904-193224-largejpg.jpg?w=1000&h=-1&s=1",
-              "tag": "Bodies of Water",
-              "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
-            }
-          ]
-        },
-        "km": {
-          "city": "ភ្នំពេញ",
-          "province": "ភ្នំពេញ",
-          "description": "ភ្នំពេញ ជារាជធានីដ៏មមាញឹករបស់ប្រទេសកម្ពុជា ស្ថិតនៅចំណុចប្រសព្វនៃទន្លេមេគង្គ និងទន្លេសាប។ វាជាមជ្ឈមណ្ឌលសម្រាប់ទាំងអាណាចក្រខ្មែរ និងអាណានិគមនិយមបារាំង។",
-          "intro": "រាជធានីនៃប្រទេសកម្ពុជា",
-          "attraction": [
-            {
-              "id": 1,
-              "attractionPlace": "ព្រះបរមរាជវាំង",
-              "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Le_Palais_Royal_%28Phnom_Penh%29_%286997773481%29.jpg",
-              "tag": "ទីតាំងប្រវត្តិសាស្ត្រ",
-              "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
-            },
-            {
-              "id": 2,
-              "attractionPlace": "វត្តភ្នំ",
-              "imgSrc": "https://image-tc.galaxy.tf/wijpeg-6lp8rr31vfvdy41ubtpqdgihd/wat-phnom-pagoda.jpg",
-              "tag": "វត្ត · ទីតាំងប្រវត្តិសាស្ត្រ",
-              "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
-            },
-            {
-              "id": 3,
-              "attractionPlace": "ផ្សារធំថ្មី",
-              "imgSrc": "https://a.cdn-hotels.com/gdcs/production177/d321/27a9e4c5-6c41-4906-a59c-c4617a97385f.jpg",
-              "tag": "កន្លែងសម្គាល់ · អគារស្ថាបត្យកម្ម",
-              "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
-            },
-            {
-              "id": 4,
-              "attractionPlace": "សារមន្ទីរជាតិ",
-              "imgSrc": "https://a.cdn-hotels.com/gdcs/production32/d1605/a7794c8c-840f-480d-847c-da8dfb9d33f7.jpg",
-              "tag": "សារមន្ទីរឯកទេស",
-              "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
-            },
-            {
-              "id": 5,
-              "attractionPlace": "សារមន្ទីរប្រល័យពូជសាសន៍ទួលស្លែង",
-              "imgSrc": "https://i0.wp.com/www.actoftraveling.com/wp-content/uploads/2019/05/DSC04933.jpg?ssl=1",
-              "tag": "សារមន្ទីរប្រវត្តិសាស្ត្រ",
-              "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
-            },
-            {
-              "id": 6,
-              "attractionPlace": "វិមានឯករាជ្យ",
-              "imgSrc": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/02-Independence_Monument_Phnom_Penh-nX-6.jpg/1920px-02-Independence_Monument_Phnom_Penh-nX-6.jpg",
-              "tag": "សារមន្ទីរប្រវត្តិសាស្ត្រ",
-              "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
-            },
-            {
-              "id": 7,
-              "attractionPlace": "មជ្ឈមណ្ឌលប្រល័យពូជសាសន៍ជើងឯក",
-              "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Buddhist_Stupa_at_Choeung_Ek_killing_fields%2C_Cambodia.JPG/330px-Buddhist_Stupa_at_Choeung_Ek_killing_fields%2C_Cambodia.JPG",
-              "tag": "ទីតាំងប្រវត្តិសាស្ត្រ",
-              "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
-            },
-            {
-              "id": 8,
-              "attractionPlace": "ទន្លេមេគង្គ",
-              "imgSrc": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/77/8f/bd/img-20180904-193224-largejpg.jpg?w=1000&h=-1&s=1",
-              "tag": "ផ្ទៃទឹក",
-              "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
-            }
-          ]
-        }
+      "id": 1,
+      "name": "Phnom Penh",
+      "restaurant": "https://www.tripadvisor.com/Restaurants-g293940-Phnom_Penh.html",
+      "accomadation": "https://www.booking.com/city/kh/phnom-penh.html",
+      "cityPicture": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e4/ce/b1/20171006-093816-01-largejpg.jpg?w=700&h=500&s=1",
+      "provinceMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d250151.42198261587!2d104.89018675!3d11.57936425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3109513dc76a6be3%3A0x9c010ee85ab525bb!2sPhnom%20Penh!5e0!3m2!1sen!2skh",
+      "en": {
+        "city": "Phnom Penh",
+        "province": "Phnom Penh",
+        "description": "Phnom Penh, Cambodia’s busy capital, sits at the junction of the Mekong and Tonlé Sap rivers. It was a hub for both the Khmer Empire and French colonialists.",
+        "intro": "Capital of Cambodia",
+        "attraction": [
+          {
+            "id": 1,
+            "attractionPlace": "Royal Palace",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Le_Palais_Royal_%28Phnom_Penh%29_%286997773481%29.jpg",
+            "tag": "Historic Sites",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
+          },
+          {
+            "id": 2,
+            "attractionPlace": "Wat Phnom",
+            "imgSrc": "https://image-tc.galaxy.tf/wijpeg-6lp8rr31vfvdy41ubtpqdgihd/wat-phnom-pagoda.jpg",
+            "tag": "Pagoda · Historic Sites",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
+          },
+          {
+            "id": 3,
+            "attractionPlace": "Central Market",
+            "imgSrc": "https://a.cdn-hotels.com/gdcs/production177/d321/27a9e4c5-6c41-4906-a59c-c4617a97385f.jpg",
+            "tag": "Landmarks · Architectural Buildings",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
+          },
+          {
+            "id": 4,
+            "attractionPlace": "National Museum",
+            "imgSrc": "https://a.cdn-hotels.com/gdcs/production32/d1605/a7794c8c-840f-480d-847c-da8dfb9d33f7.jpg",
+            "tag": "Specialty Museums",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
+          },
+          {
+            "id": 5,
+            "attractionPlace": "Tuol Sleng Genocide Museum",
+            "imgSrc": "https://i0.wp.com/www.actoftraveling.com/wp-content/uploads/2019/05/DSC04933.jpg?ssl=1",
+            "tag": "History Museums",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
+          },
+          {
+            "id": 6,
+            "attractionPlace": "Independence Monument",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/02-Independence_Monument_Phnom_Penh-nX-6.jpg/1920px-02-Independence_Monument_Phnom_Penh-nX-6.jpg",
+            "tag": "History Museums",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
+          },
+          {
+            "id": 7,
+            "attractionPlace": "Choeung Ek Genocidal Center",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Buddhist_Stupa_at_Choeung_Ek_killing_fields%2C_Cambodia.JPG/330px-Buddhist_Stupa_at_Choeung_Ek_killing_fields%2C_Cambodia.JPG",
+            "tag": "Historic Sites",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
+          },
+          {
+            "id": 8,
+            "attractionPlace": "Mekong River",
+            "imgSrc": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/77/8f/bd/img-20180904-193224-largejpg.jpg?w=1000&h=-1&s=1",
+            "tag": "Bodies of Water",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
+          }
+        ]
+      },
+      "km": {
+        "city": "ភ្នំពេញ",
+        "province": "ភ្នំពេញ",
+        "description": "ភ្នំពេញ ជារាជធានីដ៏មមាញឹករបស់ប្រទេសកម្ពុជា ស្ថិតនៅចំណុចប្រសព្វនៃទន្លេមេគង្គ និងទន្លេសាប។ វាជាមជ្ឈមណ្ឌលសម្រាប់ទាំងអាណាចក្រខ្មែរ និងអាណានិគមនិយមបារាំង។",
+        "intro": "រាជធានីនៃប្រទេសកម្ពុជា",
+        "attraction": [
+          {
+            "id": 1,
+            "attractionPlace": "ព្រះបរមរាជវាំង",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Le_Palais_Royal_%28Phnom_Penh%29_%286997773481%29.jpg",
+            "tag": "ទីតាំងប្រវត្តិសាស្ត្រ",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
+          },
+          {
+            "id": 2,
+            "attractionPlace": "វត្តភ្នំ",
+            "imgSrc": "https://image-tc.galaxy.tf/wijpeg-6lp8rr31vfvdy41ubtpqdgihd/wat-phnom-pagoda.jpg",
+            "tag": "វត្ត · ទីតាំងប្រវត្តិសាស្ត្រ",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
+          },
+          {
+            "id": 3,
+            "attractionPlace": "ផ្សារធំថ្មី",
+            "imgSrc": "https://a.cdn-hotels.com/gdcs/production177/d321/27a9e4c5-6c41-4906-a59c-c4617a97385f.jpg",
+            "tag": "កន្លែងសម្គាល់ · អគារស្ថាបត្យកម្ម",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
+          },
+          {
+            "id": 4,
+            "attractionPlace": "សារមន្ទីរជាតិ",
+            "imgSrc": "https://a.cdn-hotels.com/gdcs/production32/d1605/a7794c8c-840f-480d-847c-da8dfb9d33f7.jpg",
+            "tag": "សារមន្ទីរឯកទេស",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
+          },
+          {
+            "id": 5,
+            "attractionPlace": "សារមន្ទីរប្រល័យពូជសាសន៍ទួលស្លែង",
+            "imgSrc": "https://i0.wp.com/www.actoftraveling.com/wp-content/uploads/2019/05/DSC04933.jpg?ssl=1",
+            "tag": "សារមន្ទីរប្រវត្តិសាស្ត្រ",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
+          },
+          {
+            "id": 6,
+            "attractionPlace": "វិមានឯករាជ្យ",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/02-Independence_Monument_Phnom_Penh-nX-6.jpg/1920px-02-Independence_Monument_Phnom_Penh-nX-6.jpg",
+            "tag": "សារមន្ទីរប្រវត្តិសាស្ត្រ",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
+          },
+          {
+            "id": 7,
+            "attractionPlace": "មជ្ឈមណ្ឌលប្រល័យពូជសាសន៍ជើងឯក",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Buddhist_Stupa_at_Choeung_Ek_killing_fields%2C_Cambodia.JPG/330px-Buddhist_Stupa_at_Choeung_Ek_killing_fields%2C_Cambodia.JPG",
+            "tag": "ទីតាំងប្រវត្តិសាស្ត្រ",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
+          },
+          {
+            "id": 8,
+            "attractionPlace": "ទន្លេមេគង្គ",
+            "imgSrc": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/77/8f/bd/img-20180904-193224-largejpg.jpg?w=1000&h=-1&s=1",
+            "tag": "ផ្ទៃទឹក",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis, dicta consequatur animi dolor iure in!"
+          }
+        ]
       }
     },
     {
-      "SiemReap": {
-        "id": 2,
-        "restaurant": "https://www.tripadvisor.com/Restaurants-g297390-Siem_Reap_Siem_Reap_Province.html",
-        "accomadation": "https://www.booking.com/city/kh/siemreab.en.html?aid=373420;label=city-siemreab-NrZxhIT2hBVJrhcJbSGxQAS388464219742:pl:ta:p1:p2:ac:ap:neg:fi:tiaud-146342137030:kwd-12398762768:lp1009829:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9Ydj4ck6nIj5YRjPru0SpaEk;ws=&gad_source=1&gclid=Cj0KCQiAsvWrBhC0ARIsAO4E6f-P-MxozjfuF_XcyP6ZPQclAjUVwdQyPUt1jNvGImB2-H-B54H4GSYaAkM5EALw_wcB",
-        "cityPicture": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRNrAF0S1TAPdztzyeoJI8MZCCWkaawTaLOh_W6oEXUCSTCmxJZ6T5UIUDi6_tW6HCG-WcSXsvgBvBg7OZnolSWNG2H5JMP1lAJq1nqHQ",
-        "provinceMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d496468.39773788897!2d103.94730336032919!3d13.556476153507658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3110170b07d4a0f5%3A0x5ddbd370ce73acb9!2sSiem%20Reap%20Province!5e0!3m2!1sen!2skh!4v1702993224029!5m2!1sen!2skh",
-        "en": {
-          "city": "Siem Reap",
-          "province": "Siem Reap",
-          "description": "Siem Reap is the second-largest city of Cambodia, as well as the capital and largest city of Siem Reap Province in northwestern Cambodia. Siem Reap.",
-          "intro": "Krong Siem Reap",
-          "attraction": [
-            {
-              "id": 1,
-              "attractionPlace": "Angkor Wat Temple",
-              "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1549962209-892-angkor_wat_october_2006_001.jpg",
-              "tag": "Ancient Ruins",
-              "description": "Angkor Wat is a temple complex in Cambodia, located on a site measuring 162.6 hectares. The Guinness World Records considers it as the largest religious structure in the world."
-            },
-            {
-              "id": 2,
-              "attractionPlace": "Bayon Temple",
-              "imgSrc": "https://cdn.britannica.com/55/122155-050-56389FCC/Bayon-temple-Angkor-Thom-Cambodia.jpg",
-              "tag": "Ancient Ruins",
-              "description": "The Bayon was the state temple of King Jayavarman VII, built at the end of the 12th century. It is a mountain temple built to represent Mount Meru, the center of the universe in Hindu and Buddhist cosmology. However, unlike most Khmer temples, the Bayon is not surrounded by a moat and walls with gopura entrances."
-            },
-            {
-              "id": 3,
-              "attractionPlace": "Bakong Temple",
-              "imgSrc": "https://media.istockphoto.com/id/1294346397/photo/thommanon-temple.jpg?s=612x612&w=0&k=20&c=wwcKUz3RVV2BKnQGG1cJDiuU5Qpt1igDmKy3PrtE4EY=",
-              "tag": "Ancient Ruins",
-              "description": "Bakong is the first Khmer temple mountain of sandstone constructed by rulers of the Khmer Empire at Angkor near modern Siem Reap in Cambodia."
-            },
-            {
-              "id": 4,
-              "attractionPlace": "Neak Pean Temple",
-              "imgSrc": "https://live.staticflickr.com/4902/30968989147_e0cbcf673b_b.jpg",
-              "tag": "Ancient Ruins",
-              "description": "Neak Pean at Angkor, Cambodia is an artificial island with a Hindu temple on a circular island in Jayatataka Baray, which was associated with Preah Khan temple, built during the reign of King Jayavarman VII. It is the 'MEBON' of the Preah Khan baray."
-            },
-            {
-              "id": 5,
-              "attractionPlace": "Baray Teuk Thla (West Baray)",
-              "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WestBaray.jpg/396px-WestBaray.jpg",
-              "tag": "Water Reservoir ",
-              "description": "The West Baray or Baray Teuk Thla is a baray, or reservoir, at Angkor, Cambodia, oriented east–west and located just west of the walled city Angkor Thom."
-            },
-            {
-              "id": 6,
-              "attractionPlace": "Angkor Thom Temple",
-              "imgSrc": "https://a.cdn-hotels.com/gdcs/production48/d239/d6db5fa2-4295-4a44-93db-61a250044dc4.jpg?impolicy=fcrop&w=800&h=533&q=medium",
-              "tag": "Ancient Ruins",
-              "description": "Angkor Thom alternatively Nokor Thom located in present-day Cambodia, was the last and most enduring capital city of the Khmer Empire. It was established in the late twelfth century by King Jayavarman VII."
-            },
-            {
-              "id": 7,
-              "attractionPlace": "Kulen Mountain National Park",
-              "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/ministry-of-tourism-cambodia-2019-02-22-04-01-47am1550808108-1377.jpg",
-              "tag": "National Park",
-              "description": "Phnom Kulen is a mountain range and a part of Phnom Kulen National Park in Siem Reap Province, Cambodia."
-            },
-            {
-              "id": 8,
-              "attractionPlace": "Angkor Balloon",
-              "imgSrc": "https://avytravel.com/wp-content/uploads/2023/04/42-P1050654-scaled.jpg",
-              "tag": "Balloon Rides",
-              "description": "Angkor Balloon is a tethered helium balloon located 800m from Angkor Wat. The helium balloon is attached to a mechanical cable to the ground and ascends to approximately 120m (394 feet) for a 10 minutes ride and can carry up to 20 passengers. From sunrise to sunset, enjoy the amazing aerial views of Angkor Wat, Phnom Bakheng and West Baray. You may even observe the Tonle Sap Lake and Phnom Krom. Take amazing pictures and bring home memories that last a lifetime."
-            }
-          ]
-        },
-        "km": {
-          "province": "សៀមរាប",
-          "city": "ក្រុងសៀមរាប",
-          "description": "សៀមរាប គឺជាទីក្រុងធំទីពីររបស់ប្រទេសកម្ពុជា ក៏ដូចជារាជធានី និងជាទីក្រុងធំជាងគេរបស់ខេត្តសៀមរាប នៅភាគពាយ័ព្យនៃប្រទេសកម្ពុជា។ សៀមរាប។",
-          "intro": "ក្រុងសៀមរាប",
-          "attraction": [
-            {
-              "id": 1,
-              "attractionPlace": "ប្រាសាទ អង្គរវត្ត",
-              "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1549962209-892-angkor_wat_october_2006_001.jpg",
-              "tag": "ប្រាសាទបុរាណ",
-              "description": "ប្រាសាទអង្គរវត្តជាប្រាសាទមួយក្នុងប្រទេសកម្ពុជា ដែលមានទីតាំងនៅលើផ្ទៃដី ១៦២.៦ ហិកតា។ កំណត់ត្រាពិភពលោក Guinness ចាត់ទុកវាជារចនាសម្ព័ន្ធសាសនាដ៏ធំបំផុតនៅក្នុងពិភពលោក។"
-            },
-            {
-              "id": 2,
-              "attractionPlace": "ប្រាសាទ បាយ័ន",
-              "imgSrc": "https://cdn.britannica.com/55/122155-050-56389FCC/Bayon-temple-Angkor-Thom-Cambodia.jpg",
-              "tag": "ប្រាសាទបុរាណ",
-              "description": "ប្រាសាទបាយ័ន គឺជាប្រាសាទរដ្ឋរបស់ព្រះបាទជ័យវរ្ម័នទី៧ ដែលសាងសង់ឡើងនៅចុងសតវត្សទី១២។ វាគឺជាប្រាសាទភ្នំមួយដែលត្រូវបានសាងសង់ឡើងដើម្បីតំណាងឱ្យភ្នំព្រះសុមេរុ ដែលជាមជ្ឈមណ្ឌលនៃចក្រវាឡក្នុងព្រហ្មញ្ញសាសនា និងពុទ្ធសាសនា។ ទោះយ៉ាងណាក៏ដោយ មិនដូចប្រាសាទខ្មែរភាគច្រើនទេ ប្រាសាទបាយ័នមិនត្រូវបានហ៊ុំព័ទ្ធដោយកសិណ និងជញ្ជាំងដែលមានច្រកចូលគោបុរៈទេ។"
-            },
-            {
-              "id": 3,
-              "attractionPlace": "ប្រាសាទ បាគង",
-              "imgSrc": "https://media.istockphoto.com/id/1294346397/photo/thommanon-temple.jpg?s=612x612&w=0&k=20&c=wwcKUz3RVV2BKnQGG1cJDiuU5Qpt1igDmKy3PrtE4EY=",
-              "tag": "ប្រាសាទបុរាណ",
-              "description": "បាគង គឺជាប្រាសាទខ្មែរដំបូងបង្អស់ដែលសាងសង់ដោយថ្មភក់ ដែលត្រូវបានសាងសង់ឡើងដោយអ្នកគ្រប់គ្រងនៃអាណាចក្រខ្មែរនៅអង្គរនៅជិតខេត្តសៀមរាបទំនើបក្នុងប្រទេសកម្ពុជា។"
-            },
-            {
-              "id": 4,
-              "attractionPlace": "ប្រាសាទ នាគព័ន្ធ",
-              "imgSrc": "https://live.staticflickr.com/4902/30968989147_e0cbcf673b_b.jpg",
-              "tag": "ប្រាសាទបុរាណ",
-              "description": "នាគព័ន្ធនៅអង្គរ ប្រទេសកម្ពុជា គឺជាកោះសិប្បនិមិត្តមួយ ដែលមានប្រាសាទហិណ្ឌូនៅលើកោះរាងជារង្វង់នៅ ជយតាតក បារាយណ៍ ដែលមានទំនាក់ទំនងជាមួយប្រាសាទព្រះខ័ន ដែលសាងសង់ក្នុងរជ្ជកាលព្រះបាទជ័យវរ្ម័នទី៧។ វាជា 'មេបុណ្យ' នៃបារាយណ៍ព្រះខ័ន។"
-            },
-            {
-              "id": 5,
-              "attractionPlace": "បារាយណ៏ ទឹកថ្លា (បារាយណ៏ ខាងលិច)",
-              "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WestBaray.jpg/396px-WestBaray.jpg",
-              "tag": "អាងស្តុកទឹក",
-              "description": "បារាយណ៍ខាងលិច ឬបារាយណ៍ទឹកថ្លា គឺជាបារាយណ៍ ឬអាងស្តុកទឹកនៅអង្គរ ប្រទេសកម្ពុជា ទិសខាងកើត-លិច និងស្ថិតនៅខាងលិចនៃកំពែងក្រុងអង្គរធំ។"
-            },
-            {
-              "id": 6,
-              "attractionPlace": "ប្រាសាទ អង្គរធំ",
-              "imgSrc": "https://a.cdn-hotels.com/gdcs/production48/d239/d6db5fa2-4295-4a44-93db-61a250044dc4.jpg?impolicy=fcrop&w=800&h=533&q=medium",
-              "tag": "ប្រាសាទបុរាណ",
-              "description": "អង្គរធំ ម្យ៉ាងវិញទៀត នគរធំ ដែលមានទីតាំងនៅក្នុងប្រទេសកម្ពុជាបច្ចុប្បន្ន គឺជារាជធានីចុងក្រោយ និងយូរអង្វែងបំផុតនៃអាណាចក្រខ្មែរ។ វាត្រូវបានបង្កើតឡើងនៅចុងសតវត្សរ៍ទី១២ ដោយព្រះបាទជ័យវរ្ម័នទី៧។"
-            },
-            {
-              "id": 7,
-              "attractionPlace": "ភ្នំគូលេន (ឧទ្យានជាតិ ភ្នំគូលែន)",
-              "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/ministry-of-tourism-cambodia-2019-02-22-04-01-47am1550808108-1377.jpg",
-              "tag": "ឧទ្យានជាតិ",
-              "description": "ភ្នំគូលែន ជាជួរភ្នំ និងជាផ្នែកមួយនៃឧទ្យានជាតិភ្នំគូលែន ក្នុងខេត្តសៀមរាប ប្រទេសកម្ពុជា។"
-            },
-            {
-              "id": 8,
-              "attractionPlace": "ប៉េងប៉ោង អង្គរ",
-              "imgSrc": "https://avytravel.com/wp-content/uploads/2023/04/42-P1050654-scaled.jpg",
-              "tag": "ជិះប៉េងប៉ោង",
-              "description": "ប៉េងប៉ោង​អង្គរ​ជា​ប៉េងប៉ោង​អេលីយ៉ូម​ដែល​មាន​ភ្ជាប់​នៅ​ចម្ងាយ ៨០០ ម៉ែត្រ​ពី​ប្រាសាទ​អង្គរវត្ត។ ប៉េងប៉ោងអេលីយ៉ូមត្រូវបានភ្ជាប់ជាមួយនឹងខ្សែមេកានិចទៅនឹងដី ហើយឡើងដល់កម្ពស់ប្រហែល 120 ម៉ែត្រ (394 ហ្វីត) សម្រាប់ការជិះរយៈពេល 10 នាទី ហើយអាចផ្ទុកអ្នកដំណើរបានរហូតដល់ 20 នាក់។ ចាប់ពីថ្ងៃរះរហូតដល់ថ្ងៃលិច រីករាយនឹងទិដ្ឋភាពពីលើអាកាសដ៏អស្ចារ្យនៃប្រាសាទអង្គរវត្ត ភ្នំបាខែង និងបារាយណ៍ខាងលិច។ អ្នកក៏អាចមើលបឹងទន្លេសាប និងភ្នំក្រោមផងដែរ។ ថតរូបដ៏អស្ចារ្យ និងនាំមកនូវការចងចាំដល់ផ្ទះដែលស្ថិតស្ថេរអស់មួយជីវិត។"
-            }
-          ]
-        }
+      "id": 2,
+      "name": "Siem Reap",
+      "restaurant": "https://www.tripadvisor.com/Restaurants-g297390-Siem_Reap_Siem_Reap_Province.html",
+      "accomadation": "https://www.booking.com/city/kh/siemreab.en.html?aid=373420;label=city-siemreab-NrZxhIT2hBVJrhcJbSGxQAS388464219742:pl:ta:p1:p2:ac:ap:neg:fi:tiaud-146342137030:kwd-12398762768:lp1009829:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9Ydj4ck6nIj5YRjPru0SpaEk;ws=&gad_source=1&gclid=Cj0KCQiAsvWrBhC0ARIsAO4E6f-P-MxozjfuF_XcyP6ZPQclAjUVwdQyPUt1jNvGImB2-H-B54H4GSYaAkM5EALw_wcB",
+      "cityPicture": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRNrAF0S1TAPdztzyeoJI8MZCCWkaawTaLOh_W6oEXUCSTCmxJZ6T5UIUDi6_tW6HCG-WcSXsvgBvBg7OZnolSWNG2H5JMP1lAJq1nqHQ",
+      "provinceMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d496468.39773788897!2d103.94730336032919!3d13.556476153507658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3110170b07d4a0f5%3A0x5ddbd370ce73acb9!2sSiem%20Reap%20Province!5e0!3m2!1sen!2skh!4v1702993224029!5m2!1sen!2skh",
+      "en": {
+        "city": "Siem Reap",
+        "province": "Siem Reap",
+        "description": "Siem Reap is the second-largest city of Cambodia, as well as the capital and largest city of Siem Reap Province in northwestern Cambodia. Siem Reap.",
+        "intro": "Krong Siem Reap",
+        "attraction": [
+          {
+            "id": 1,
+            "attractionPlace": "Angkor Wat Temple",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1549962209-892-angkor_wat_october_2006_001.jpg",
+            "tag": "Ancient Ruins",
+            "description": "Angkor Wat is a temple complex in Cambodia, located on a site measuring 162.6 hectares. The Guinness World Records considers it as the largest religious structure in the world."
+          },
+          {
+            "id": 2,
+            "attractionPlace": "Bayon Temple",
+            "imgSrc": "https://cdn.britannica.com/55/122155-050-56389FCC/Bayon-temple-Angkor-Thom-Cambodia.jpg",
+            "tag": "Ancient Ruins",
+            "description": "The Bayon was the state temple of King Jayavarman VII, built at the end of the 12th century. It is a mountain temple built to represent Mount Meru, the center of the universe in Hindu and Buddhist cosmology. However, unlike most Khmer temples, the Bayon is not surrounded by a moat and walls with gopura entrances."
+          },
+          {
+            "id": 3,
+            "attractionPlace": "Bakong Temple",
+            "imgSrc": "https://media.istockphoto.com/id/1294346397/photo/thommanon-temple.jpg?s=612x612&w=0&k=20&c=wwcKUz3RVV2BKnQGG1cJDiuU5Qpt1igDmKy3PrtE4EY=",
+            "tag": "Ancient Ruins",
+            "description": "Bakong is the first Khmer temple mountain of sandstone constructed by rulers of the Khmer Empire at Angkor near modern Siem Reap in Cambodia."
+          },
+          {
+            "id": 4,
+            "attractionPlace": "Neak Pean Temple",
+            "imgSrc": "https://live.staticflickr.com/4902/30968989147_e0cbcf673b_b.jpg",
+            "tag": "Ancient Ruins",
+            "description": "Neak Pean at Angkor, Cambodia is an artificial island with a Hindu temple on a circular island in Jayatataka Baray, which was associated with Preah Khan temple, built during the reign of King Jayavarman VII. It is the 'MEBON' of the Preah Khan baray."
+          },
+          {
+            "id": 5,
+            "attractionPlace": "Baray Teuk Thla (West Baray)",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WestBaray.jpg/396px-WestBaray.jpg",
+            "tag": "Water Reservoir ",
+            "description": "The West Baray or Baray Teuk Thla is a baray, or reservoir, at Angkor, Cambodia, oriented east–west and located just west of the walled city Angkor Thom."
+          },
+          {
+            "id": 6,
+            "attractionPlace": "Angkor Thom Temple",
+            "imgSrc": "https://a.cdn-hotels.com/gdcs/production48/d239/d6db5fa2-4295-4a44-93db-61a250044dc4.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+            "tag": "Ancient Ruins",
+            "description": "Angkor Thom alternatively Nokor Thom located in present-day Cambodia, was the last and most enduring capital city of the Khmer Empire. It was established in the late twelfth century by King Jayavarman VII."
+          },
+          {
+            "id": 7,
+            "attractionPlace": "Kulen Mountain National Park",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/ministry-of-tourism-cambodia-2019-02-22-04-01-47am1550808108-1377.jpg",
+            "tag": "National Park",
+            "description": "Phnom Kulen is a mountain range and a part of Phnom Kulen National Park in Siem Reap Province, Cambodia."
+          },
+          {
+            "id": 8,
+            "attractionPlace": "Angkor Balloon",
+            "imgSrc": "https://avytravel.com/wp-content/uploads/2023/04/42-P1050654-scaled.jpg",
+            "tag": "Balloon Rides",
+            "description": "Angkor Balloon is a tethered helium balloon located 800m from Angkor Wat. The helium balloon is attached to a mechanical cable to the ground and ascends to approximately 120m (394 feet) for a 10 minutes ride and can carry up to 20 passengers. From sunrise to sunset, enjoy the amazing aerial views of Angkor Wat, Phnom Bakheng and West Baray. You may even observe the Tonle Sap Lake and Phnom Krom. Take amazing pictures and bring home memories that last a lifetime."
+          }
+        ]
+      },
+      "km": {
+        "province": "សៀមរាប",
+        "city": "ក្រុងសៀមរាប",
+        "description": "សៀមរាប គឺជាទីក្រុងធំទីពីររបស់ប្រទេសកម្ពុជា ក៏ដូចជារាជធានី និងជាទីក្រុងធំជាងគេរបស់ខេត្តសៀមរាប នៅភាគពាយ័ព្យនៃប្រទេសកម្ពុជា។ សៀមរាប។",
+        "intro": "ក្រុងសៀមរាប",
+        "attraction": [
+          {
+            "id": 1,
+            "attractionPlace": "ប្រាសាទ អង្គរវត្ត",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1549962209-892-angkor_wat_october_2006_001.jpg",
+            "tag": "ប្រាសាទបុរាណ",
+            "description": "ប្រាសាទអង្គរវត្តជាប្រាសាទមួយក្នុងប្រទេសកម្ពុជា ដែលមានទីតាំងនៅលើផ្ទៃដី ១៦២.៦ ហិកតា។ កំណត់ត្រាពិភពលោក Guinness ចាត់ទុកវាជារចនាសម្ព័ន្ធសាសនាដ៏ធំបំផុតនៅក្នុងពិភពលោក។"
+          },
+          {
+            "id": 2,
+            "attractionPlace": "ប្រាសាទ បាយ័ន",
+            "imgSrc": "https://cdn.britannica.com/55/122155-050-56389FCC/Bayon-temple-Angkor-Thom-Cambodia.jpg",
+            "tag": "ប្រាសាទបុរាណ",
+            "description": "ប្រាសាទបាយ័ន គឺជាប្រាសាទរដ្ឋរបស់ព្រះបាទជ័យវរ្ម័នទី៧ ដែលសាងសង់ឡើងនៅចុងសតវត្សទី១២។ វាគឺជាប្រាសាទភ្នំមួយដែលត្រូវបានសាងសង់ឡើងដើម្បីតំណាងឱ្យភ្នំព្រះសុមេរុ ដែលជាមជ្ឈមណ្ឌលនៃចក្រវាឡក្នុងព្រហ្មញ្ញសាសនា និងពុទ្ធសាសនា។ ទោះយ៉ាងណាក៏ដោយ មិនដូចប្រាសាទខ្មែរភាគច្រើនទេ ប្រាសាទបាយ័នមិនត្រូវបានហ៊ុំព័ទ្ធដោយកសិណ និងជញ្ជាំងដែលមានច្រកចូលគោបុរៈទេ។"
+          },
+          {
+            "id": 3,
+            "attractionPlace": "ប្រាសាទ បាគង",
+            "imgSrc": "https://media.istockphoto.com/id/1294346397/photo/thommanon-temple.jpg?s=612x612&w=0&k=20&c=wwcKUz3RVV2BKnQGG1cJDiuU5Qpt1igDmKy3PrtE4EY=",
+            "tag": "ប្រាសាទបុរាណ",
+            "description": "បាគង គឺជាប្រាសាទខ្មែរដំបូងបង្អស់ដែលសាងសង់ដោយថ្មភក់ ដែលត្រូវបានសាងសង់ឡើងដោយអ្នកគ្រប់គ្រងនៃអាណាចក្រខ្មែរនៅអង្គរនៅជិតខេត្តសៀមរាបទំនើបក្នុងប្រទេសកម្ពុជា។"
+          },
+          {
+            "id": 4,
+            "attractionPlace": "ប្រាសាទ នាគព័ន្ធ",
+            "imgSrc": "https://live.staticflickr.com/4902/30968989147_e0cbcf673b_b.jpg",
+            "tag": "ប្រាសាទបុរាណ",
+            "description": "នាគព័ន្ធនៅអង្គរ ប្រទេសកម្ពុជា គឺជាកោះសិប្បនិមិត្តមួយ ដែលមានប្រាសាទហិណ្ឌូនៅលើកោះរាងជារង្វង់នៅ ជយតាតក បារាយណ៍ ដែលមានទំនាក់ទំនងជាមួយប្រាសាទព្រះខ័ន ដែលសាងសង់ក្នុងរជ្ជកាលព្រះបាទជ័យវរ្ម័នទី៧។ វាជា 'មេបុណ្យ' នៃបារាយណ៍ព្រះខ័ន។"
+          },
+          {
+            "id": 5,
+            "attractionPlace": "បារាយណ៏ ទឹកថ្លា (បារាយណ៏ ខាងលិច)",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WestBaray.jpg/396px-WestBaray.jpg",
+            "tag": "អាងស្តុកទឹក",
+            "description": "បារាយណ៍ខាងលិច ឬបារាយណ៍ទឹកថ្លា គឺជាបារាយណ៍ ឬអាងស្តុកទឹកនៅអង្គរ ប្រទេសកម្ពុជា ទិសខាងកើត-លិច និងស្ថិតនៅខាងលិចនៃកំពែងក្រុងអង្គរធំ។"
+          },
+          {
+            "id": 6,
+            "attractionPlace": "ប្រាសាទ អង្គរធំ",
+            "imgSrc": "https://a.cdn-hotels.com/gdcs/production48/d239/d6db5fa2-4295-4a44-93db-61a250044dc4.jpg?impolicy=fcrop&w=800&h=533&q=medium",
+            "tag": "ប្រាសាទបុរាណ",
+            "description": "អង្គរធំ ម្យ៉ាងវិញទៀត នគរធំ ដែលមានទីតាំងនៅក្នុងប្រទេសកម្ពុជាបច្ចុប្បន្ន គឺជារាជធានីចុងក្រោយ និងយូរអង្វែងបំផុតនៃអាណាចក្រខ្មែរ។ វាត្រូវបានបង្កើតឡើងនៅចុងសតវត្សរ៍ទី១២ ដោយព្រះបាទជ័យវរ្ម័នទី៧។"
+          },
+          {
+            "id": 7,
+            "attractionPlace": "ភ្នំគូលេន (ឧទ្យានជាតិ ភ្នំគូលែន)",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/ministry-of-tourism-cambodia-2019-02-22-04-01-47am1550808108-1377.jpg",
+            "tag": "ឧទ្យានជាតិ",
+            "description": "ភ្នំគូលែន ជាជួរភ្នំ និងជាផ្នែកមួយនៃឧទ្យានជាតិភ្នំគូលែន ក្នុងខេត្តសៀមរាប ប្រទេសកម្ពុជា។"
+          },
+          {
+            "id": 8,
+            "attractionPlace": "ប៉េងប៉ោង អង្គរ",
+            "imgSrc": "https://avytravel.com/wp-content/uploads/2023/04/42-P1050654-scaled.jpg",
+            "tag": "ជិះប៉េងប៉ោង",
+            "description": "ប៉េងប៉ោង​អង្គរ​ជា​ប៉េងប៉ោង​អេលីយ៉ូម​ដែល​មាន​ភ្ជាប់​នៅ​ចម្ងាយ ៨០០ ម៉ែត្រ​ពី​ប្រាសាទ​អង្គរវត្ត។ ប៉េងប៉ោងអេលីយ៉ូមត្រូវបានភ្ជាប់ជាមួយនឹងខ្សែមេកានិចទៅនឹងដី ហើយឡើងដល់កម្ពស់ប្រហែល 120 ម៉ែត្រ (394 ហ្វីត) សម្រាប់ការជិះរយៈពេល 10 នាទី ហើយអាចផ្ទុកអ្នកដំណើរបានរហូតដល់ 20 នាក់។ ចាប់ពីថ្ងៃរះរហូតដល់ថ្ងៃលិច រីករាយនឹងទិដ្ឋភាពពីលើអាកាសដ៏អស្ចារ្យនៃប្រាសាទអង្គរវត្ត ភ្នំបាខែង និងបារាយណ៍ខាងលិច។ អ្នកក៏អាចមើលបឹងទន្លេសាប និងភ្នំក្រោមផងដែរ។ ថតរូបដ៏អស្ចារ្យ និងនាំមកនូវការចងចាំដល់ផ្ទះដែលស្ថិតស្ថេរអស់មួយជីវិត។"
+          }
+        ]
       }
     }
   ]
