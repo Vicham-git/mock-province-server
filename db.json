@@ -2930,5 +2930,13 @@
         ]
       }
     }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "username": "vicham",
+      "email": "vicham@gmial.com",
+      "password": "vicham1234"
+    }
   ]
 }
