@@ -3232,7 +3232,7 @@
     {
       "id": 1,
       "name": "All",
-      "en": [
+      "English": [
         {
           "id": 1,
           "attractionPlace": "Nokor Phnom",
@@ -3298,7 +3298,7 @@
         }
       ],
 
-      "kh": [
+      "Khmer": [
         {
           "id": 1,
           "attractionPlace": "នគរភ្នំ",
@@ -3367,7 +3367,7 @@
     {
       "id": 2,
       "name": "Beach",
-      "en": [
+      "English": [
         {
           "id": 1,
           "attractionPlace": "Kep Beach",
@@ -3405,7 +3405,7 @@
         }
       ],
 
-      "kh": [
+      "Khmer": [
         {
           "id": 1,
           "attractionPlace": "ឆ្នេរកែប",
@@ -3447,7 +3447,7 @@
     {
       "id": 3,
       "name": "Historical",
-      "en": [
+      "English": [
         {
           "id": 1,
           "attractionPlace": "Royal Palace",
@@ -3492,7 +3492,7 @@
         }
       ],
 
-      "kh": [
+      "Khmer": [
         {
           "id": 1,
           "attractionPlace": "ព្រះបរមរាជវាំង",
@@ -3541,7 +3541,7 @@
     {
       "id": 4,
       "name": "Nature",
-      "en": [
+      "English": [
         {
           "id": 1,
           "attractionPlace": "Nokor Phnom",
@@ -3572,7 +3572,7 @@
         }
       ],
 
-      "kh": [
+      "Khmer": [
         {
           "id": 1,
           "attractionPlace": "នគរភ្នំ",
