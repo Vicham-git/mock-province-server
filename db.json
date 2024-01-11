@@ -3443,50 +3443,52 @@
     {
       "id": 28,
       "nameEn": "Historical",
-      "English": [
-        {
-          "id": 178,
-          "attractionPlace": "Royal Palace",
-          "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Le_Palais_Royal_%28Phnom_Penh%29_%286997773481%29.jpg",
-          "tag": "Royal Palace · Historic Sites",
-          "description": "The Royal Palace of Cambodia is a complex of buildings which serves as the official royal residence of the King of Cambodia. Its full name in Khmer is the Preah Barom Reacheaveang Chaktomuk Serey Mongkol."
-        },
-        {
-          "id": 179,
-          "attractionPlace": "Wat Phnom",
-          "imgSrc": "https://image-tc.galaxy.tf/wijpeg-6lp8rr31vfvdy41ubtpqdgihd/wat-phnom-pagoda.jpg",
-          "tag": "Pagoda · Historic Sites",
-          "description": "Wat Phnom is a Buddhist temple in Doun Penh, Phnom Penh. It is a pagoda, that symbolizes the name of Phnom Penh, and a historical site that is part of the Khmer national identity. Wat Phnom has a total height of 46 meters. "
-        },
-        {
-          "id": 180,
-          "attractionPlace": "Angkor Wat Temple",
-          "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1549962209-892-angkor_wat_october_2006_001.jpg",
-          "tag": "Ancient Ruins · Historic Sites",
-          "description": "Angkor Wat is a temple complex in Cambodia, located on a site measuring 162.6 hectares. The Guinness World Records considers it as the largest religious structure in the world."
-        },
-        {
-          "id": 181,
-          "attractionPlace": "Bayon Temple",
-          "imgSrc": "https://cdn.britannica.com/55/122155-050-56389FCC/Bayon-temple-Angkor-Thom-Cambodia.jpg",
-          "tag": "Ancient Ruins · Historic Sites",
-          "description": "The Bayon was the state temple of King Jayavarman VII, built at the end of the 12th century. It is a mountain temple built to represent Mount Meru, the center of the universe in Hindu and Buddhist cosmology. However, unlike most Khmer temples, the Bayon is not surrounded by a moat and walls with gopura entrances."
-        },
-        {
-          "id": 182,
-          "attractionPlace": "Phreah Reach Traop Mountain (Phnom Oudong)",
-          "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550128420-1066-jmutzzmi.jpg",
-          "tag": "Historic Sites · Mountain",
-          "description": "Located around 40 km north of Phnom Penh in Kandal Province, Oudong became the capital of Cambodia after it shifted from nearby Longvek in 1618 and was the seat of power for over two centuries until around 1863 when it shifted to what is now Phnom Penh. The ancient capital once radiated out around the base of this mountain in all directions with major development around the busy port at Kampong Loung on the edge of the Tonle Sap River."
-        },
-        {
-          "id": 183,
-          "attractionPlace": "Preah Monivong National Park (Bokor National Park)",
-          "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipPffNJRBOE1aH9oMtAnqH59JHPMhF8eGY7KdsL3=s1360-w1360-h1020",
-          "tag": "National Park · Historic Sites",
-          "description": "Preah Monivong Bokor National Park is a national park in southern Cambodia's Kampot Province that was established in 1993 and covers 1,544.58 km². In 2003, it was designated as an ASEAN Heritage Park. It is located in the Dâmrei Mountains, forming the southeastern parts of the Cardamom Mountains."
-        }
-      ],
+      "English": {
+        "attraction": [
+          {
+            "id": 178,
+            "attractionPlace": "Royal Palace",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Le_Palais_Royal_%28Phnom_Penh%29_%286997773481%29.jpg",
+            "tag": "Royal Palace · Historic Sites",
+            "description": "The Royal Palace of Cambodia is a complex of buildings which serves as the official royal residence of the King of Cambodia. Its full name in Khmer is the Preah Barom Reacheaveang Chaktomuk Serey Mongkol."
+          },
+          {
+            "id": 179,
+            "attractionPlace": "Wat Phnom",
+            "imgSrc": "https://image-tc.galaxy.tf/wijpeg-6lp8rr31vfvdy41ubtpqdgihd/wat-phnom-pagoda.jpg",
+            "tag": "Pagoda · Historic Sites",
+            "description": "Wat Phnom is a Buddhist temple in Doun Penh, Phnom Penh. It is a pagoda, that symbolizes the name of Phnom Penh, and a historical site that is part of the Khmer national identity. Wat Phnom has a total height of 46 meters. "
+          },
+          {
+            "id": 180,
+            "attractionPlace": "Angkor Wat Temple",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1549962209-892-angkor_wat_october_2006_001.jpg",
+            "tag": "Ancient Ruins · Historic Sites",
+            "description": "Angkor Wat is a temple complex in Cambodia, located on a site measuring 162.6 hectares. The Guinness World Records considers it as the largest religious structure in the world."
+          },
+          {
+            "id": 181,
+            "attractionPlace": "Bayon Temple",
+            "imgSrc": "https://cdn.britannica.com/55/122155-050-56389FCC/Bayon-temple-Angkor-Thom-Cambodia.jpg",
+            "tag": "Ancient Ruins · Historic Sites",
+            "description": "The Bayon was the state temple of King Jayavarman VII, built at the end of the 12th century. It is a mountain temple built to represent Mount Meru, the center of the universe in Hindu and Buddhist cosmology. However, unlike most Khmer temples, the Bayon is not surrounded by a moat and walls with gopura entrances."
+          },
+          {
+            "id": 182,
+            "attractionPlace": "Phreah Reach Traop Mountain (Phnom Oudong)",
+            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550128420-1066-jmutzzmi.jpg",
+            "tag": "Historic Sites · Mountain",
+            "description": "Located around 40 km north of Phnom Penh in Kandal Province, Oudong became the capital of Cambodia after it shifted from nearby Longvek in 1618 and was the seat of power for over two centuries until around 1863 when it shifted to what is now Phnom Penh. The ancient capital once radiated out around the base of this mountain in all directions with major development around the busy port at Kampong Loung on the edge of the Tonle Sap River."
+          },
+          {
+            "id": 183,
+            "attractionPlace": "Preah Monivong National Park (Bokor National Park)",
+            "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipPffNJRBOE1aH9oMtAnqH59JHPMhF8eGY7KdsL3=s1360-w1360-h1020",
+            "tag": "National Park · Historic Sites",
+            "description": "Preah Monivong Bokor National Park is a national park in southern Cambodia's Kampot Province that was established in 1993 and covers 1,544.58 km². In 2003, it was designated as an ASEAN Heritage Park. It is located in the Dâmrei Mountains, forming the southeastern parts of the Cardamom Mountains."
+          }
+        ]
+      },
 
       "Khmer": {
         "attraction": [
