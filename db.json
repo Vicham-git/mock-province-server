@@ -63,8 +63,8 @@
           },
           {
             "id": 7,
-            "attractionPlace": "ChoeOng Ek Genocidal Center",
-            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Buddhist_Stupa_at_ChoeOng_Ek_killing_fields%2C_Cambodia.JPG/330px-Buddhist_Stupa_at_ChoeOng_Ek_killing_fields%2C_Cambodia.JPG",
+            "attractionPlace": "Choeong Ek Genocidal Center",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Buddhist_Stupa_at_Choeung_Ek_killing_fields%2C_Cambodia.JPG/640px-Buddhist_Stupa_at_Choeung_Ek_killing_fields%2C_Cambodia.JPG",
             "tag": "Historic Sites",
             "map": "https://maps.app.goo.gl/z8KHMhQvAkJfpsYU6",
             "description": "ChoeOng Ek is the site of a former orchard and mass graves of victims of the Khmer Rouge – killed between 1975 and 1979 – in Dangkao Section, Phnom Penh, Cambodia, about 17 kilometres south of the Phnom Penh city centre."
@@ -136,7 +136,7 @@
           {
             "id": 7,
             "attractionPlace": "មជ្ឈមណ្ឌលប្រល័យពូជសាសន៍ជើងឯក",
-            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Buddhist_Stupa_at_ChoeOng_Ek_killing_fields%2C_Cambodia.JPG/330px-Buddhist_Stupa_at_ChoeOng_Ek_killing_fields%2C_Cambodia.JPG",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Buddhist_Stupa_at_Choeung_Ek_killing_fields%2C_Cambodia.JPG/640px-Buddhist_Stupa_at_Choeung_Ek_killing_fields%2C_Cambodia.JPG",
             "tag": "ទីតាំងប្រវត្តិសាស្ត្រ",
             "map": "https://maps.app.goo.gl/z8KHMhQvAkJfpsYU6",
             "description": "ជើងឯក គឺជាទីតាំងអតីតចម្ការ និងផ្នូរដ៏ធំរបស់ជនរងគ្រោះក្នុងរបបខ្មែរក្រហម ដែលបានសម្លាប់ក្នុងចន្លោះឆ្នាំ 1975 និង 1979 នៅខណ្ឌដង្កោ រាជធានីភ្នំពេញ ប្រទេសកម្ពុជា ចម្ងាយប្រហែល 17 គីឡូម៉ែត្រពីភាគខាងត្បូងនៃកណ្តាលទីក្រុងភ្នំពេញ។"
@@ -337,11 +337,11 @@
           },
           {
             "id": 19,
-            "attractionPlace": "Slick Island (Kaoh dach - Kaoh Roof)",
+            "attractionPlace": "Slick Island (Koh dach - Koh Roof)",
             "imgSrc": "https://www.experiencetravelgroup.com/reposit/y495_20140306024317.jpg",
             "tag": "Island",
             "map": "https://maps.app.goo.gl/JC1UxyPrRmxVymjo7",
-            "description": "Kaoh Dach located 20 km northeast of Phnom Penh and has an area of 30 square kilometers. It can be reached by National Road No6A and by boat along the Mekong River. Kaoh Dach features a traditional silk-weaving village in which local craftsmen are skilled at spinning and weaving for their livelihood. It also has fishing villages on the bank of the river."
+            "description": "Koh Dach located 20 km northeast of Phnom Penh and has an area of 30 square kilometers. It can be reached by National Road No6A and by boat along the Mekong River. Koh Dach features a traditional silk-weaving village in which local craftsmen are skilled at spinning and weaving for their livelihood. It also has fishing villages on the bank of the river."
           },
           {
             "id": 20,
@@ -370,7 +370,7 @@
           {
             "id": 23,
             "attractionPlace": "Tum Pek Pagoda",
-            "imgSrc": "https://www.tourismcambodia.com/img/travelguides/tum-pek-pagoda.gif",
+            "imgSrc": "data:image/jpeg;base64,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",
             "tag": "Pagoda",
             "map": "https://maps.app.goo.gl/siVbxqnxSkfmunhM8",
             "description": "Located at Krang Yau Commune, Sa ang District, Kandal province. Kandal province has 8,000-hectar landarea and 12,700 people. Krang Yau is the developed region of Samdach Hun Sen having projects on development and agricultural product processing; in this region, there are vast rice fields, canal network and good red soil roads connecting from village to village."
@@ -442,7 +442,7 @@
           {
             "id": 23,
             "attractionPlace": "វត្តភ្នំពេជ្រភ្នំកែវ ឬ វត្តភ្នំទំពែក",
-            "imgSrc": "https://www.tourismcambodia.com/img/travelguides/tum-pek-pagoda.gif",
+            "imgSrc": "data:image/jpeg;base64,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",
             "tag": "Pagoda",
             "map": "https://maps.app.goo.gl/siVbxqnxSkfmunhM8",
             "description": "ស្ថិតនៅឃុំក្រាំងយ៉ូវ ស្រុកស្អាង ខេត្តកណ្តាល។ ខេត្តកណ្តាលមានផ្ទៃដី ៨.០០០ ហិកតា និងប្រជាជន ១២.៧០០ នាក់។ ក្រាំងយ៉ូវ ជាតំបន់អភិវឌ្ឍន៍របស់សម្តេច ហ៊ុន សែន ដែលមានគម្រោងអភិវឌ្ឍន៍ និងកែច្នៃផលិតផលកសិកម្ម។ នៅតំបន់នេះមានវាលស្រែធំទូលាយ បណ្តាញប្រឡាយ និងផ្លូវដីក្រហមល្អ តភ្ជាប់ពីភូមិមួយទៅភូមិមួយ។"
@@ -668,7 +668,7 @@
           {
             "id": 38,
             "attractionPlace": "Prey Chong Srok Temple",
-            "imgSrc": "https://www.tourismcambodia.com/img/travelguides/prey_chong_srok_temple.jpg",
+            "imgSrc": "https://www.greeneratravel.com/userfiles/850preychongsrok.jpg",
             "tag": "Ancient Ruins",
             "map": "https://maps.app.goo.gl/VvvDyiLFn3GvsSmp6",
             "description": "Chong Srok temple is located in Chong Srok village, Chong Srok commune, Srei Sithar Kandal district, about 38 kilometers north of Prey Veng provincial town. Chong Srok temple was built of brick and sandstone in the 7th century. It was built on a high ground in a field of palm trees near a koki tree. Although much of the temple has been destroyed, there remains a sandstone statue of a bull, once revered as a powerful Bodhisattva, or a Buddhist deity."
@@ -740,7 +740,7 @@
           {
             "id": 38,
             "attractionPlace": "ប្រាសាទ ព្រៃចុងស្រុក",
-            "imgSrc": "https://www.tourismcambodia.com/img/travelguides/prey_chong_srok_temple.jpg",
+            "imgSrc": "https://www.greeneratravel.com/userfiles/850preychongsrok.jpg",
             "tag": "ប្រាសាទបុរាណ",
             "map": "https://maps.app.goo.gl/VvvDyiLFn3GvsSmp6",
             "description": "ប្រាសាទ​ចុង​ស្រុក ស្ថិត​នៅ​ភូមិ​ចុង​ស្រុក ឃុំ​ចុង​ស្រុក ស្រុក​ស្រី​ស៊ីធរ​កណ្តាល ចម្ងាយ​ប្រមាណ​៣៨​គីឡូម៉ែត្រ​ពី​ទីរួម​ខេត្ត​ព្រៃវែង។ ប្រាសាទចុងស្រុក សាងសង់ពីឥដ្ឋ និងថ្មភក់ ក្នុងសតវត្សទី៧។ សង់​នៅ​លើ​ដី​ខ្ពស់​ក្នុង​វាល​ដើម​ត្នោត​ក្បែរ​ដើម​គគីរ។ ទោះបីជាប្រាសាទជាច្រើនត្រូវបានបំផ្លាញក៏ដោយ ក៏នៅមានរូបសំណាកថ្មភក់ ដែលធ្លាប់ត្រូវបានគោរពបូជាថាជាព្រះពោធិសត្វដ៏មានឥទ្ធិពល ឬជាអាទិទេពក្នុងព្រះពុទ្ធសាសនា។"
@@ -789,7 +789,7 @@
           {
             "id": 42,
             "attractionPlace": "Brasoth Center",
-            "imgSrc": "https://www.tourismcambodia.com/img/travelguides/brasoth-center.jpg",
+            "imgSrc": "https://angkorfocus.com/new/userfiles/thumbs/new-Bavet-International-Border.jpg",
             "tag": "Landmarks · Architectural Buildings",
             "map": "https://www.tourismcambodia.com/travelguides/provinces/svay-rieng/what-to-see/67_brasoth-center.htm",
             "description": "Brasoth Center is located in Prasout Commune, Svay Teab district, about 1.5 km (10mn) from Provincial Town. Operation of Sporting Facilities."
@@ -821,7 +821,7 @@
           {
             "id": 42,
             "attractionPlace": "មជ្ឈមណ្ឌលប្រាសុទ្ធ",
-            "imgSrc": "https://www.tourismcambodia.com/img/travelguides/brasoth-center.jpg",
+            "imgSrc": "https://angkorfocus.com/new/userfiles/thumbs/new-Bavet-International-Border.jpg",
             "tag": "កន្លែងសម្គាល់ · អគារស្ថាបត្យកម្ម",
             "map": "https://www.tourismcambodia.com/travelguides/provinces/svay-rieng/what-to-see/67_brasoth-center.htm",
             "description": "មជ្ឈមណ្ឌល ប្រាសុទ្ធ មានទីតាំងនៅឃុំប្រាសាទ ស្រុកស្វាយទាប ចម្ងាយប្រហែល 1.5 គីឡូម៉ែត្រ (10mn) ពីទីរួមខេត្ត។ ប្រតិបត្តិការនៃសម្ភារៈកីឡា។"
@@ -878,7 +878,7 @@
           {
             "id": 47,
             "attractionPlace": "Phnom Chhngok Cave",
-            "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipNkLEs6EiuomYGXIj1Y-4Io0fhZ2ygLvEOJEkeq=s1360-w1360-h1020",
+            "imgSrc": "https://www.khmertimeskh.com/wp-content/uploads/2020/10/10767.jpg",
             "tag": "Mountain · Cave",
             "map": "https://maps.app.goo.gl/7YfHym29PddDX75W7",
             "description": "Phnom Chhnork is a Hindu cave temple in Kampot Province, southern Cambodia, located about 5 miles north-east of Kampot. The temple was built in the 7th century from Funan brick, dedicated to Shiva. It is accessed via stone steps."
@@ -886,7 +886,7 @@
           {
             "id": 48,
             "attractionPlace": "Wat Sampov Pram",
-            "imgSrc": "https://lh5.googleusercontent.com/p/AF1QipOXernIHcLjELPFkmuzYje2v3nvYciSZCWpiuJa=w675-h390-n-k-no",
+            "imgSrc": "https://d13jio720g7qcs.cloudfront.net/images/destinations/origin/5feb4a6003783.jpg",
             "tag": "Pagoda · Historic Sites",
             "map": "https://maps.app.goo.gl/4iNLwficbbGBjs598",
             "description": "Wat Sampov Pram is widely known as a monastery that is situated on the top of the Bokor Mountain, a very iconic mountain range in Cambodia. The temple was previously established by the Majesty King of Cambodia that ruled out the country in the 1920s. Every year, both domestic and international tourists visit here to pray for luck and blessings because they consider Wat Sampov Pram as one of the most sacred spiritual Buddhism places in Cambodia. Another striking feature of the temple that grasps tourists' attention is Wat Sampov Pram is the highest Buddha pagodas in Cambodia."
@@ -950,7 +950,7 @@
           {
             "id": 47,
             "attractionPlace": "ល្អាងភ្នំ ឈ្ងោក",
-            "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipNkLEs6EiuomYGXIj1Y-4Io0fhZ2ygLvEOJEkeq=s1360-w1360-h1020",
+            "imgSrc": "https://www.khmertimeskh.com/wp-content/uploads/2020/10/10767.jpg",
             "tag": "ភ្នំ · ល្អាងភ្នំ",
             "map": "https://maps.app.goo.gl/7YfHym29PddDX75W7",
             "description": "ភ្នំឈ្ងោក គឺជាប្រាសាទល្អាងហិណ្ឌូមួយនៅក្នុងខេត្តកំពត ភាគខាងត្បូងនៃប្រទេសកម្ពុជា ដែលមានចំងាយប្រហែល ៨ គីឡូម៉ែត ខាងជើងឈៀងខាងកើតនៃខេត្តកំពត។ ប្រាសាទ​នេះ​ត្រូវ​បាន​សាង​សង់​ឡើង​នៅ​សតវត្ស​ទី​៧​ពី​ឥដ្ឋ​នគរភ្នំ​ឧទ្ទិស​ដល់​ព្រះ​សិវៈ។ វាត្រូវបានចូលតាមរយៈជំហានថ្ម។"
@@ -958,7 +958,7 @@
           {
             "id": 48,
             "attractionPlace": "វត្ត សំពៅប្រាំ",
-            "imgSrc": "https://lh5.googleusercontent.com/p/AF1QipOXernIHcLjELPFkmuzYje2v3nvYciSZCWpiuJa=w675-h390-n-k-no",
+            "imgSrc": "https://d13jio720g7qcs.cloudfront.net/images/destinations/origin/5feb4a6003783.jpg",
             "tag": "វត្ត · ទីតាំងប្រវត្តិសាស្ត្រ",
             "map": "https://maps.app.goo.gl/4iNLwficbbGBjs598",
             "description": "វត្តសំពៅព្រហ្ម ត្រូវបានគេស្គាល់ជាទូទៅថាជាវត្តមួយ ដែលស្ថិតនៅលើកំពូលភ្នំបូកគោ ដែលជាជួរភ្នំដ៏ល្បីមួយក្នុងប្រទេសកម្ពុជា។ ប្រាសាទ​នេះ​ត្រូវ​បាន​បង្កើត​ឡើង​ដោយ​ព្រះករុណា​ព្រះមហាក្សត្រ​នៃ​ព្រះរាជាណាចក្រ​កម្ពុជា​ដែល​បាន​គ្រប់គ្រង​ប្រទេស​ក្នុង​ទសវត្សរ៍​ឆ្នាំ 1920 ។ ជារៀងរាល់ឆ្នាំ ភ្ញៀវទេសចរណ៍ជាតិ និងអន្តរជាតិមកលេងទីនេះ ដើម្បីបួងសួងសុំលាភសំណាង ព្រោះគេចាត់ទុកវត្តសំពៅប្រម៉ោយ ជាកន្លែងព្រះពុទ្ធសាសនាដ៏ពិសិដ្ឋបំផុតមួយក្នុងប្រទេសកម្ពុជា។ ចំណុច​ពិសេស​មួយ​ទៀត​នៃ​ប្រាសាទ​ដែល​ទាក់ទាញ​ភ្ញៀវ​ទេសចរ​គឺ​វត្ត​សំពៅ​ព្រហ្ម ជា​វត្ត​ព្រះពុទ្ធ​ខ្ពស់​បំផុត​ក្នុង​ប្រទេស​កម្ពុជា។"
@@ -1329,7 +1329,7 @@
           {
             "id": 70,
             "attractionPlace": "Lam Da Beach",
-            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550115378-1033-lam-da-beach-kaoh-kong.jpg",
+            "imgSrc": "https://ndm-travel.com/images/contents/1_33.png",
             "tag": "Beach",
             "map": "https://tourismcambodia.org/provinces/54/koh-kong",
             "description": "At Lam Da Beach, you can spend some time amidst sea, sand and serenity. The long stretch of golden beach shining in the warm rays of the sun makes it a favorite tourist spot for yoOng and old alike. It takes around one hour and forty-five minutes to get to Lam Da Beach, which is ideally situated about twenty kilometers away from the provincial town. Kids as well as all adults will enjoy the calm waters of the sea and the picturesque surroundings."
@@ -1345,7 +1345,7 @@
           {
             "id": 72,
             "attractionPlace": "Botum Sakor National Park",
-            "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipNqyzKj9ExvWvF4HqgBxdap7uJjGJKTy3fGHyAN=s1360-w1360-h1020",
+            "imgSrc": "https://www.insideasiatours.com/sites/default/files/styles/metatag_default/public/2020-10/PLACE%20PAGE%20Cambodia_BotumSakorNationalPark_CardamomTentedCamp_Area-1.JPG?itok=Xr6wTC_m",
             "tag": "National Park",
             "map": "https://maps.app.goo.gl/bA9xqyWenomBWBey8",
             "description": "Botum Sakor National Park is the largest national park of Cambodia. Situated on the coast of the Gulf of Thailand, Botum Sakor is a peninsula projecting southwest from the Cardamom Mountains."
@@ -1361,7 +1361,7 @@
           {
             "id": 74,
             "attractionPlace": "Peam Krasop Wildlife Sanctuary",
-            "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipMWkL5rmhWsnVsxo2ZLUvBEurU6_z-PJyPVaBVp=s1360-w1360-h1020",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Mandrove_Trail_at_Peam_Krasop_Wildlife_Sanctuary.jpg",
             "tag": "Wildlife Park",
             "map": "https://maps.app.goo.gl/CiGZ1cQ2vVUZbEBx6",
             "description": "Peam Krasop Wildlife Sanctuary is a protected area located in southwestern Cambodia, covering 245.91 km². It was established in 1993. The area is known for its mangroves and numerous islands separated by a maze of bays and channels."
@@ -1401,7 +1401,7 @@
           {
             "id": 70,
             "attractionPlace": "ឆ្នេរឡាំដា",
-            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550115378-1033-lam-da-beach-kaoh-kong.jpg",
+            "imgSrc": "https://ndm-travel.com/images/contents/1_33.png",
             "tag": "ឆ្នេរខ្សាច់",
             "map": "https://tourismcambodia.org/provinces/54/koh-kong",
             "description": "នៅឆ្នេរ ឡាំដា អ្នកអាចចំណាយពេលខ្លះនៅកណ្តាលសមុទ្រ ខ្សាច់ និងភាពស្ងប់ស្ងាត់។ ឆ្នេរមាសដ៏វែងអន្លាយ ចាំងពន្លឺថ្ងៃយ៉ាងកក់ក្តៅ ធ្វើឱ្យវាក្លាយជាកន្លែងទេសចរណ៍ពេញនិយមសម្រាប់ក្មេង និងចាស់ដូចគ្នា។ វា​ត្រូវ​ចំណាយ​ពេល​ប្រហែល​មួយ​ម៉ោង​សែសិប​ប្រាំនាទី​ដើម្បី​ទៅ​ដល់​ឆ្នេរ ឡាំដា ដែល​មាន​ទីតាំង​ល្អ​ប្រហែល​ម្ភៃ​គីឡូម៉ែត្រ​ពី​ទីរួមខេត្ត។ កុមារ ក៏ដូចជាមនុស្សធំទាំងអស់នឹងរីករាយជាមួយនឹងទឹកដ៏ស្ងប់ស្ងាត់នៃសមុទ្រ និងទេសភាពដ៏ស្រស់ស្អាតជុំវិញ។"
@@ -1417,7 +1417,7 @@
           {
             "id": 72,
             "attractionPlace": "ឧទ្យានជាតិ បុទុមសាគរ",
-            "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipNqyzKj9ExvWvF4HqgBxdap7uJjGJKTy3fGHyAN=s1360-w1360-h1020",
+            "imgSrc": "https://www.insideasiatours.com/sites/default/files/styles/metatag_default/public/2020-10/PLACE%20PAGE%20Cambodia_BotumSakorNationalPark_CardamomTentedCamp_Area-1.JPG?itok=Xr6wTC_m",
             "tag": "ឧទ្យានជាតិ",
             "map": "https://maps.app.goo.gl/bA9xqyWenomBWBey8",
             "description": "ឧទ្យានជាតិបុទុមសាគរ គឺជាឧទ្យានជាតិដ៏ធំបំផុតរបស់កម្ពុជា។ ប្រាសាទបុទុមសាគរ ស្ថិតនៅលើឆ្នេរសមុទ្រនៃឈូងសមុទ្រថៃ បុទុមសាគរ គឺជាឧបទ្វីបមួយ ដែលព្យាករណ៍ពីភាគនិរតីពីជួរភ្នំក្រវាញ។"
@@ -1433,7 +1433,7 @@
           {
             "id": 74,
             "attractionPlace": "ដែនជម្រកសត្វព្រៃពាមក្រសោប",
-            "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipMWkL5rmhWsnVsxo2ZLUvBEurU6_z-PJyPVaBVp=s1360-w1360-h1020",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Mandrove_Trail_at_Peam_Krasop_Wildlife_Sanctuary.jpg",
             "tag": "ជម្រកសត្វព្រៃ",
             "map": "https://maps.app.goo.gl/CiGZ1cQ2vVUZbEBx6",
             "description": "ដែនជម្រកសត្វព្រៃពាមក្រសោប ជាតំបន់ការពារដែលមានទីតាំងនៅភាគនិរតីនៃប្រទេសកម្ពុជា មានផ្ទៃដី ២៤៥.៩១ គីឡូម៉ែត្រការ៉េ។ វាត្រូវបានបង្កើតឡើងក្នុងឆ្នាំ 1993 ។ តំបន់នេះត្រូវបានគេស្គាល់ដោយសារព្រៃកោងកាង និងកោះជាច្រើនដែលបំបែកដោយបឹង និងច្រកនានា។"
@@ -2087,8 +2087,8 @@
           },
           {
             "id": 109,
-            "attractionPlace": "Kaoh Pen",
-            "imgSrc": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/19/a7/92/bamboo-bridge-to-kaoh.jpg?w=1200&h=-1&s=1",
+            "attractionPlace": "Koh Pen",
+            "imgSrc": "https://www.guidetrip.info/asset/img/gallery_resort/5c381b941916d.jpg",
             "tag": "Village",
             "map": "https://maps.app.goo.gl/9As96FQVEckzPzSg8",
             "description": "Kaoh Pen Beach or it's often called Pen Island, is located in Kampong Trom Leu village, Kaoh Mit commune, Kampong Siem district, Kampong Cham province, Cambodia and far about ~3km away from Mittapheap Hotel."
@@ -2096,7 +2096,7 @@
           {
             "id": 110,
             "attractionPlace": "Preah Theat Tuk Chha Temple",
-            "imgSrc": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/19/a7/92/bamboo-bridge-to-kaoh.jpg?w=1200&h=-1&s=1",
+            "imgSrc": "https://www.guidetrip.info/asset/img/gallery_resort/5b1e2b7ee6be2.jpg",
             "tag": "Ancient Ruins · Historic Sites",
             "map": "https://maps.app.goo.gl/WgDpkC8nCi1aFbg28",
             "description": "Preah Theat Tuk Chha Temple or it's often called Prasat Preah Theat Tuk Chha, is located in Thmor Da village, Boeng Nay commune, Prey Chhor district, Kampong Cham province, Cambodia and far about ~43km away from Mittapheap Hotel."
@@ -2144,7 +2144,7 @@
           {
             "id": 109,
             "attractionPlace": "កោះប៉ែន",
-            "imgSrc": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/19/a7/92/bamboo-bridge-to-kaoh.jpg?w=1200&h=-1&s=1",
+            "imgSrc": "https://www.guidetrip.info/asset/img/gallery_resort/5c381b941916d.jpg",
             "tag": "ភូមិ",
             "map": "https://maps.app.goo.gl/9As96FQVEckzPzSg8",
             "description": "ឆ្នេរកោះប៉ែន ឬគេច្រើនហៅថា កោះប៉ែន មានទីតាំងស្ថិតនៅ ភូមិកំពង់ត្រឡាច ឃុំកោះមិត្ត ស្រុកកំពង់សៀម ខេត្តកំពង់ចាម ប្រទេសកម្ពុជា និងមានចម្ងាយប្រហែល ៣ គ.ម ពីសណ្ឋាគារមិត្តភាព។"
@@ -2152,7 +2152,7 @@
           {
             "id": 110,
             "attractionPlace": "ប្រាសាទ ​ព្រះ​ធាតុ​ទឹក​ឆា",
-            "imgSrc": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/19/a7/92/bamboo-bridge-to-kaoh.jpg?w=1200&h=-1&s=1",
+            "imgSrc": "https://www.guidetrip.info/asset/img/gallery_resort/5b1e2b7ee6be2.jpg",
             "tag": "ប្រាសាទបុរាណ · ទីតាំងប្រវត្តិសាស្ត្រ",
             "map": "https://maps.app.goo.gl/WgDpkC8nCi1aFbg28",
             "description": "ប្រាសាទព្រះធាតុទាចារ មានទីតាំងនៅភូមិថ្មដា ឃុំបឹងណាយ ស្រុកព្រៃឈរ ខេត្តកំពង់ចាម ប្រទេសកម្ពុជា និងមានចម្ងាយប្រហែល ៤៣ គ.ម ពីសណ្ឋាគារមិត្តភាព។"
@@ -2176,7 +2176,7 @@
         "attraction": [
           {
             "id": 111,
-            "attractionPlace": "CheOng Ang Temple",
+            "attractionPlace": "Cheong Ang Temple",
             "imgSrc": "https://i0.wp.com/helloangkor.com/wp-content/uploads/2021/01/IMG_20220124_102504-1-e1645002020958.jpg?resize=800%2C417&ssl=1",
             "tag": "Ancient Ruins",
             "map": "https://maps.app.goo.gl/UnHwX6smzs86MyW28",
@@ -2209,7 +2209,7 @@
           {
             "id": 115,
             "attractionPlace": "Preah Theat Toch Temple (Banteay Prei Nokor)",
-            "imgSrc": "https://helloangkor.com/attractions/preah-theat-toch-pr/",
+            "imgSrc": "https://i0.wp.com/helloangkor.com/wp-content/uploads/2021/01/IMG_20220124_082153-1-e1644986404377.jpg?fit=1149%2C660&ssl=1",
             "tag": "Ancient Ruins",
             "map": "https://maps.app.goo.gl/83egGZQt8DHVxBLe6",
             "description": "Preah Theat Toch temple was built in the 7th century from brick and sandstone. This temple is located in the same wall of Banteay Prey Nokor in Angkor village in Dauntey commune, Ponhea Krek district, Tbong Khmum province. The locals call this temple a stupa, and according to the observation on the footprints, it is a group of brick temples with more than three groups of temples."
@@ -2265,7 +2265,7 @@
           {
             "id": 115,
             "attractionPlace": "ប្រាសាទ​ព្រះធាតុ​តូច (Bបន្ទាយព្រៃនគរ)",
-            "imgSrc": "https://helloangkor.com/attractions/preah-theat-toch-pr/",
+            "imgSrc": "https://i0.wp.com/helloangkor.com/wp-content/uploads/2021/01/IMG_20220124_082153-1-e1644986404377.jpg?fit=1149%2C660&ssl=1",
             "tag": "ប្រាសាទបុរាណ",
             "map": "https://maps.app.goo.gl/83egGZQt8DHVxBLe6",
             "description": "ប្រាសាទ​ព្រះធាតុ​តូច កសាង​ឡើង​ក្នុងសតវត្សន៍​ទី ៧ ពី​ឥដ្ឋ​និង​ថ្ម​ភក់។ ​ប្រាសាទ​នេះ​ស្ថិត​ក្នុង​កំពែង​តែមួយ​នៃបន្ទាយព្រៃនគរក្នុងភូមិអង្គរក្នុង ឃុំដូនតី ស្រុកពញាក្រែក ខេត្តត្បូងឃ្មុំ។ អ្នកស្រុកហៅប្រាសាទ​នេះ​ជា​ចេតិយ ហើយ​តាមការអង្កេតទៅលើស្លាកស្នាមគ្រឹះជាក្រុមប្រាសាទឥដ្ឋ ដែល​មាន​ក្រុម​ប្រាសាទ​លើសពីបី។"
@@ -2338,7 +2338,7 @@
           {
             "id": 122,
             "attractionPlace": "Dolphin Kayaking Adventures",
-            "imgSrc": "https://i0.wp.com/helloangkor.com/wp-content/uploads/2022/02/IMG_20220124_095345-1-e1644998525594.jpg?resize=800%2C469&ssl=1",
+            "imgSrc": "https://atcambodia.com/wp-content/uploads/2023/12/2-Day-Dolphin-Twilight-Camp-and-kayaking-Nov-May-mekong-kayaking-1.webp",
             "tag": "Canoe · kayak tour agency",
             "map": "https://maps.app.goo.gl/LzXtGT7e6C7cM6pb6",
             "description": "Dolphin Kayaking Adventures brings you to see Mekong freshwater Irrawaddy dolphins at Kampi, Kratie, Cambodia which is the world best place to encounter such rare mammals. Go Kayak with Lucky, born and grew up in the area, familiar with the river currents/eddies as well as safety/rescue procedures. It'll be your best day to observe wildlife. Kayaking is the most Exo-friendly way to view freshwater Irrawaddy dolphins."
@@ -2402,7 +2402,7 @@
           {
             "id": 122,
             "attractionPlace": "Dolphin Kayaking Adventures",
-            "imgSrc": "https://i0.wp.com/helloangkor.com/wp-content/uploads/2022/02/IMG_20220124_095345-1-e1644998525594.jpg?resize=800%2C469&ssl=1",
+            "imgSrc": "https://atcambodia.com/wp-content/uploads/2023/12/2-Day-Dolphin-Twilight-Camp-and-kayaking-Nov-May-mekong-kayaking-1.webp",
             "tag": "ទូកកាយយ៉ាក",
             "map": "https://maps.app.goo.gl/LzXtGT7e6C7cM6pb6",
             "description": "Dolphin Kayaking Adventures នាំអ្នកទៅទស្សនាសត្វផ្សោតទឹកសាបនៃទន្លេមេគង្គនៅកំពី ខេត្តក្រចេះ ប្រទេសកម្ពុជា ដែលជាកន្លែងដ៏ល្អបំផុតរបស់ពិភពលោកក្នុងការជួបជាមួយថនិកសត្វកម្របែបនេះ។"
@@ -2991,7 +2991,7 @@
           {
             "id": 153,
             "attractionPlace": "O'Reussey Kandal",
-            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550029612-954-StOng-Treng-6-1-1024x681.jpg",
+            "imgSrc": "https://asia-adventures.com/wp-content/uploads/2020/06/orussey_kandal_stung_treng_cambodai-300x200.jpg",
             "tag": "Waterfall",
             "map": "https://tourismcambodia.org/provinces/49/stung-treng",
             "description": "O'Reussey Kandal is located in StOng Treng Province, situated approximately 28km south of the provincial town along National Road Number 7. It takes about 8 to 10 hours from Phnom Penh to O'Russey Kandal."
@@ -3006,7 +3006,7 @@
           },
           {
             "id": 155,
-            "attractionPlace": "Kaoh khsach",
+            "attractionPlace": "Koh khsach",
             "imgSrc": "https://www.guidetrip.info/asset/img/gallery_resort/5b21e0e1b0aa1.jpg",
             "tag": "Sand Island",
             "map": "https://tourismcambodia.org/provinces/49/stung-treng",
@@ -3023,7 +3023,7 @@
           {
             "id": 157,
             "attractionPlace": "Thalaborivat Pagoda",
-            "imgSrc": "https://helloangkor.com/attractions/thalaborivat-pagoda/",
+            "imgSrc": "https://i0.wp.com/helloangkor.com/wp-content/uploads/2023/02/IMG_20230202_114937.jpg?fit=1663%2C1247&ssl=1",
             "tag": "Pagoda",
             "map": "https://maps.app.goo.gl/3xzWL4z26U6C8GH3A",
             "description": "Located just north of the Preah Ko Temple site, Wat Thalaborivat is a contemporary monastery and pagoda located right beside the Mekong River."
@@ -3055,7 +3055,7 @@
           {
             "id": 153,
             "attractionPlace": "អូរឬស្សីកណ្តាល",
-            "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550029612-954-StOng-Treng-6-1-1024x681.jpg",
+            "imgSrc": "https://asia-adventures.com/wp-content/uploads/2020/06/orussey_kandal_stung_treng_cambodai-300x200.jpg",
             "tag": "ទឹកធ្លាក់",
             "map": "https://tourismcambodia.org/provinces/49/stung-treng",
             "description": "អូរឬស្សីកណ្តាល ស្ថិតនៅក្នុងខេត្តស្ទឹងត្រែង ដែលមានចម្ងាយប្រហែល 28km ភាគខាងត្បូងនៃទីរួមខេត្ត តាមផ្លូវជាតិលេខ 7 ហើយត្រូវចំណាយពេលប្រហែល 8 ទៅ 10 ម៉ោងពីភ្នំពេញទៅអូរឬស្សីកណ្តាល។"
@@ -3087,7 +3087,7 @@
           {
             "id": 157,
             "attractionPlace": "វត្ត ថាឡាបរិវ៉ាត់",
-            "imgSrc": "https://helloangkor.com/attractions/thalaborivat-pagoda/",
+            "imgSrc": "https://i0.wp.com/helloangkor.com/wp-content/uploads/2023/02/IMG_20230202_114937.jpg?fit=1663%2C1247&ssl=1",
             "tag": "វត្ត",
             "map": "https://maps.app.goo.gl/3xzWL4z26U6C8GH3A",
             "description": "វត្តថាឡាបរិវ៉ាត់ ស្ថិតនៅខាងជើងប្រាសាទព្រះគោ វត្តថាឡាបរិវ៉ាត់ ជាវត្តសហសម័យ និងវត្តមួយស្ថិតនៅជាប់មាត់ទន្លេមេគង្គ។"
@@ -3216,21 +3216,9 @@
           }
         ]
       }
-    }
-  ],
-
-  "user": [
+    },
     {
-      "id": 1,
-      "username": "vicham",
-      "email": "vicham@gmial.com",
-      "password": "vicham1234"
-    }
-  ],
-
-  "season": [
-    {
-      "id": 1,
+      "id": 26,
       "name": "All",
       "English": [
         {
@@ -3365,7 +3353,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 27,
       "name": "Beach",
       "English": [
         {
@@ -3445,7 +3433,7 @@
     },
 
     {
-      "id": 3,
+      "id": 28,
       "name": "Historical",
       "English": [
         {
@@ -3539,7 +3527,7 @@
     },
 
     {
-      "id": 4,
+      "id": 29,
       "name": "Nature",
       "English": [
         {
@@ -3602,6 +3590,15 @@
           "description": "ដែនជម្រកសត្វព្រៃគូលែនព្រហ្មទេព គឺជាតំបន់ការពារដ៏ធំបំផុតនៅក្នុងប្រទេសកម្ពុជា ហើយត្រូវបានបម្រុងទុកដើម្បីការពារសត្វគោព្រៃដែលជិតផុតពូជ។ វាមានទីតាំងនៅវាលទំនាបភាគខាងជើងនៃប្រទេសកម្ពុជា ជិតព្រំដែនប្រទេសថៃ។"
         }
       ]
+    }
+  ],
+
+  "user": [
+    {
+      "id": 1,
+      "username": "vicham",
+      "email": "vicham@gmial.com",
+      "password": "vicham1234"
     }
   ]
 }
