@@ -847,8 +847,8 @@
       "cityPicture": "https://lh3.googleusercontent.com/p/AF1QipPb_VBAYy_WusnWTaD0IA-Zg3XWiA8EvHODIxz5=s1360-w1360-h1020",
       "provinceMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1003340.455888255!2d104.3226014!3d10.78842255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310905ad816f8233%3A0xfcf397aabf9d3301!2sKampot%20Province!5e0!3m2!1sen!2skh!4v1704527743066!5m2!1sen!2skh",
       "English": {
-        "province": "Kompot",
-        "city": "Krong Kompot Municipality",
+        "province": "Kampot",
+        "city": "Krong Kampot Municipality",
         "description": "Kampot is a province in southwest Cambodia, edging onto the Gulf of Thailand. In the west, the jOngle of Preah Monivong (aka Bokor) National Park in the misty Elephant Mountains is home to Bokor Hill Station, a 1920s French ghost town. On the banks of the Teuk Chhou River, the province's sleepy capital, Kampot, is known for its French colonial architecture. ",
         "attraction": [
           {
@@ -1459,7 +1459,7 @@
       "cityPicture": "https://tourismcambodia.org/storage/uploads/category_banner/ministry-of-tourism-cambodia-2019-02-18-07-44-27am-Kampong-Speu-Cambodia.jpg",
       "provinceMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d125123.09925874483!2d104.51370125000001!3d11.472934750000007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31093b0dc036ba2f%3A0x31f7906da6e971fa!2sKrong%20Chbar%20Mon!5e0!3m2!1sen!2skh!4v1704527913766!5m2!1sen!2skh",
       "English": {
-        "province": "Kompong Speu",
+        "province": "Kampong Speu",
         "city": "Chbar Mon Municipality",
         "description": "Chbar Mon is the capital of Kampong Speu Province in central Cambodia. Most of the townspeople speak only Khmer, but some are conversant in Mandarin. The center of the town hosts a market, surrounded by bicycle shops, a dispensary and small restaurants. There is a guesthouse just minutes away for travelers.",
         "attraction": [
@@ -3223,63 +3223,63 @@
       "English": {
         "attraction": [
           {
-            "id": 163,
+            "id": 33,
             "attractionPlace": "Nokor Phnom",
             "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550222387-1201-new-Nokor%20Phnom.jpg",
             "tag": "Nature · Wildlife",
             "description": "Nokor Phnom is located in Roung Dam Rei Village, Cheung Phnom Commune, Bar Phnom District, about 45 km (1h:30mn) from Provincial Town. It is a Nature & Wildlife Preserves."
           },
           {
-            "id": 164,
+            "id": 81,
             "attractionPlace": "Phnum Samkos Wildlife Sanctuary",
             "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipN3LzSRvm0cU6lolk3pxQejwXwS4MSqVrH476US=s1360-w1360-h1020",
             "tag": "Nature · Wildlife Sanctuary",
             "description": "Phnom Samkos Wildlife Sanctuary is a wildlife sanctuary in western Cambodia, bordering Thailand. The sanctuary was established in 1993 and covers 3,307.56 km². It is also designated as an Important Bird Area."
           },
           {
-            "id": 165,
+            "id": 155,
             "attractionPlace": "Borey O'Svay",
             "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550028709-952-DoOjxVjU0AEVxkp.jpg",
             "tag": "Nature · Wildlife",
             "description": "Borey O'Svay is located in O'Savy commune of Thala Borivath district and is one of the most popular ecotourism destinations for both local Cambodians and foreign tourists wishing to experience an authentic Khmer community."
           },
           {
-            "id": 166,
+            "id": 162,
             "attractionPlace": "Kulen Promtep Wildlife Sanctuary",
             "imgSrc": "https://www.insideasiatours.com/sites/default/files/2020-10/PLACE%20PAGE%20Cambodia_BotumSakorNationalPark_CardamomTentedCamp_Area-1.JPG",
             "tag": "Nature · Wildlife",
             "description": "The Kulen Promtep Wildlife Sanctuary (Daen Chomrok Satprey Kulen Promtep) is the largest protected area in Cambodia and was set aside to protect the critically endangered, possibly extinct Kouprey. It is located in the northern plains of Cambodia, near the border to Thailand."
           },
           {
-            "id": 167,
+            "id": 52,
             "attractionPlace": "Kep Beach",
             "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipPffNJRBOE1aH9oMtAnqH59JHPMhF8eGY7KdsL3=s1360-w1360-h1020",
             "tag": "Beach",
             "description": "A small white-sand beach with local seafood restaurants & traveler accommodations nearby. "
           },
           {
-            "id": 167,
+            "id": 63,
             "attractionPlace": "Serendipity Beach (Ochheuteal Beach)",
             "imgSrc": "https://lp-cms-production.imgix.net/2019-06/98c4f520773fb839bc719b7b3c742582-occheuteal-beach.jpg?auto=format&w=1920&h=640&fit=crop&crop=faces,edges&q=75",
             "tag": "Beach",
             "description": "Ochheuteal Beach is a 3.5 km beach located to the south of Sihanoukville Town in Cambodia. The beach runs east until reaching a river mouth and headland which separates it from Otres beach which starts after the headland."
           },
           {
-            "id": 169,
+            "id": 64,
             "attractionPlace": "Otres Beach",
             "imgSrc": "https://www.ourglobetrotters.com/wp-content/uploads/2021/01/Destinations-Cambodia-Otres-Beach-1024x683.jpg",
             "tag": "Beach",
             "description": "Midway between Independence and Serendipity Beaches lies Sihanoukville's prettiest stretch of sand, 1.5km-long Sokha Beach."
           },
           {
-            "id": 170,
+            "id": 65,
             "attractionPlace": "Independence Beach",
             "imgSrc": "https://www.greeneratravel.com/userfiles/850beachinde.jpg",
             "tag": "Beach",
             "description": "The Independence Beach in Sihanoukville is a calm and quiet sea side destination in the city of numerous beaches. It is just the place for you to spend some quiet moments with your loved ones while taking pleasure in the untamed beauties of nature. With no interruption at all, you can spend time in this Sihanoukville sightseeing spot just the way you want to."
           },
           {
-            "id": 171,
+            "id": 66,
             "attractionPlace": "Sokha Beach Resort",
             "imgSrc": "https://evivatour.com/wp-content/uploads/2021/09/Sokha-Beach-Resort-Sihanoukville-Cambodia.jpg",
             "tag": "Resort · Beach",
@@ -3291,63 +3291,63 @@
       "Khmer": {
         "attraction": [
           {
-            "id": 163,
+            "id": 33,
             "attractionPlace": "នគរភ្នំ",
             "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550222387-1201-new-Nokor%20Phnom.jpg",
             "tag": "ប្រាសាទបុរាណ · ភ្នំ",
             "description": "នគរភ្នំ ស្ថិតនៅភូមិរូងដំរី ឃុំជើងភ្នំ ស្រុកបាភ្នំ ចម្ងាយប្រហែល ៤៥ គីឡូម៉ែត្រ (១ ម៉ោង និង ៣០ នាទី) ពីទីរួមខេត្ត។ វាជាឧទ្យានធម្មជាតិ & អភិរក្សសត្វព្រៃ។"
           },
           {
-            "id": 164,
+            "id": 81,
             "attractionPlace": "ដែនជម្រកសត្វព្រៃ ភ្នំសំកុស",
             "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipN3LzSRvm0cU6lolk3pxQejwXwS4MSqVrH476US=s1360-w1360-h1020",
             "tag": "ធម្មជាតិ · ដែនជម្រកសត្វព្រៃ",
             "description": "ដែនជម្រកសត្វព្រៃភ្នំសំកុស ជាដែនជម្រកសត្វព្រៃនៅភាគខាងលិចប្រទេសកម្ពុជា ជាប់ព្រំដែនប្រទេសថៃ។ ជម្រកនេះត្រូវបានបង្កើតឡើងក្នុងឆ្នាំ 1993 និងគ្របដណ្តប់ 3,307.56 គីឡូម៉ែត្រការ៉េ។ វាក៏ត្រូវបានកំណត់ថាជាតំបន់បក្សីដ៏សំខាន់ផងដែរ។"
           },
           {
-            "id": 165,
+            "id": 155,
             "attractionPlace": "បុរីអូរស្វាយ",
             "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550028709-952-DoOjxVjU0AEVxkp.jpg",
             "tag": "ធម្មជាតិ · ដែនជម្រកសត្វព្រៃ",
             "description": "បុរីអូរស្វាយ ស្ថិតនៅក្នុងឃុំអូរសាវី ស្រុកថាឡាបរិវ៉ាត់ និងជាតំបន់ទេសចរណ៍ធម្មជាតិដ៏ពេញនិយមបំផុតមួយសម្រាប់ទាំងប្រជាជនកម្ពុជាក្នុងស្រុក និងភ្ញៀវទេសចរណ៍បរទេសដែលមានបំណងចង់ជួបសហគមន៍ខ្មែរពិតប្រាកដ។"
           },
           {
-            "id": 166,
+            "id": 162,
             "attractionPlace": "ដែនជម្រកសត្វព្រៃគូលែនព្រហ្មទេព",
             "imgSrc": "https://www.insideasiatours.com/sites/default/files/2020-10/PLACE%20PAGE%20Cambodia_BotumSakorNationalPark_CardamomTentedCamp_Area-1.JPG",
             "tag": "ធម្មជាតិ · ដែនជម្រកសត្វព្រៃ",
             "description": "ដែនជម្រកសត្វព្រៃគូលែនព្រហ្មទេព គឺជាតំបន់ការពារដ៏ធំបំផុតនៅក្នុងប្រទេសកម្ពុជា ហើយត្រូវបានបម្រុងទុកដើម្បីការពារសត្វគោព្រៃដែលជិតផុតពូជ។ វាមានទីតាំងនៅវាលទំនាបភាគខាងជើងនៃប្រទេសកម្ពុជា ជិតព្រំដែនប្រទេសថៃ។"
           },
           {
-            "id": 167,
+            "id": 52,
             "attractionPlace": "ឆ្នេរកែប",
             "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipPffNJRBOE1aH9oMtAnqH59JHPMhF8eGY7KdsL3=s1360-w1360-h1020",
             "tag": "ឆ្នេរខ្សាច់",
             "description": "ឆ្នេរខ្សាច់ស មានភោជនីយដ្ឋានគ្រឿងសមុទ្រក្នុងស្រុក និងកន្លែងស្នាក់នៅសម្រាប់អ្នកដំណើរនៅក្បែរនោះ។"
           },
           {
-            "id": 168,
+            "id": 63,
             "attractionPlace": "ឆ្នេរអូរឈើទាល",
             "imgSrc": "https://lp-cms-production.imgix.net/2019-06/98c4f520773fb839bc719b7b3c742582-occheuteal-beach.jpg?auto=format&w=1920&h=640&fit=crop&crop=faces,edges&q=75",
             "tag": "ឆ្នេរខ្សាច់",
             "description": "ឆ្នេរអូរឈើទាល គឺជាឆ្នេរមួយដែលមានចម្ងាយ ៣.៥ គីឡូម៉ែត្រ ស្ថិតនៅភាគខាងត្បូងនៃក្រុងព្រះសីហនុ ក្នុងប្រទេសកម្ពុជា។ ឆ្នេរ​នេះ​រត់​ទៅ​ទិស​ខាង​កើត​រហូត​ដល់​មាត់​ទន្លេ និង​ក្បាល​ទឹក ដែល​បំបែក​វា​ពី​ឆ្នេរ​អូរត្រេះ ដែល​ចាប់​ផ្តើម​បន្ទាប់​ពី​ក្បាល​ដី។"
           },
           {
-            "id": 169,
+            "id": 64,
             "attractionPlace": "ឆ្នេរអូត្រេស",
             "imgSrc": "https://www.ourglobetrotters.com/wp-content/uploads/2021/01/Destinations-Cambodia-Otres-Beach-1024x683.jpg",
             "tag": "ឆ្នេរខ្សាច់",
             "description": "ពាក់កណ្តាលផ្លូវរវាងឆ្នេរឯករាជ្យ និងឆ្នេរអូរឈើទាល គឺជាឆ្នេរខ្សាច់ដ៏ស្រស់ស្អាតបំផុតរបស់ក្រុងព្រះសីហនុ ឆ្នេរសុខាប្រវែង 1.5 គីឡូម៉ែត្រ។"
           },
           {
-            "id": 170,
+            "id": 65,
             "attractionPlace": "ឆ្នេរឯករាជ្យ",
             "imgSrc": "https://www.greeneratravel.com/userfiles/850beachinde.jpg",
             "tag": "ឆ្នេរខ្សាច់",
             "description": "ឆ្នេរឯករាជ្យក្នុងក្រុងព្រះសីហនុ គឺជាគោលដៅឆ្នេរដ៏ស្ងប់ស្ងាត់ និងស្ងប់ស្ងាត់នៅក្នុងទីក្រុងដែលមានឆ្នេរជាច្រើន។ វាគ្រាន់តែជាកន្លែងសម្រាប់អ្នកដើម្បីចំណាយពេលដ៏ស្ងប់ស្ងាត់ខ្លះជាមួយមនុស្សជាទីស្រលាញ់របស់អ្នក ខណៈពេលដែលរីករាយជាមួយនឹងសម្រស់ធម្មជាតិដែលមិនអាចបំភ្លេចបាន។ ដោយ​គ្មាន​ការ​រំខាន​អ្វី​ទាំងអស់ អ្នក​អាច​ចំណាយ​ពេល​នៅ​កន្លែង​កម្សាន្ត​នៅ​ខេត្ត​ព្រះសីហនុ​តាម​របៀប​ដែល​អ្នក​ចង់​ទៅ។"
           },
           {
-            "id": 171,
+            "id": 66,
             "attractionPlace": "ឆ្នេរសុខា",
             "imgSrc": "https://evivatour.com/wp-content/uploads/2021/09/Sokha-Beach-Resort-Sihanoukville-Cambodia.jpg",
             "tag": "រមណីដ្ឋាន · ឆ្នេរខ្សាច់",
@@ -3362,35 +3362,35 @@
       "English": {
         "attraction": [
           {
-            "id": 172,
+            "id": 52,
             "attractionPlace": "Kep Beach",
             "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipPffNJRBOE1aH9oMtAnqH59JHPMhF8eGY7KdsL3=s1360-w1360-h1020",
             "tag": "Beach",
             "description": "A small white-sand beach with local seafood restaurants & traveler accommodations nearby. "
           },
           {
-            "id": 173,
+            "id": 63,
             "attractionPlace": "Serendipity Beach (Ochheuteal Beach)",
             "imgSrc": "https://lp-cms-production.imgix.net/2019-06/98c4f520773fb839bc719b7b3c742582-occheuteal-beach.jpg?auto=format&w=1920&h=640&fit=crop&crop=faces,edges&q=75",
             "tag": "Beach",
             "description": "Ochheuteal Beach is a 3.5 km beach located to the south of Sihanoukville Town in Cambodia. The beach runs east until reaching a river mouth and headland which separates it from Otres beach which starts after the headland."
           },
           {
-            "id": 174,
+            "id": 64,
             "attractionPlace": "Otres Beach",
             "imgSrc": "https://www.ourglobetrotters.com/wp-content/uploads/2021/01/Destinations-Cambodia-Otres-Beach-1024x683.jpg",
             "tag": "Beach",
             "description": "Midway between Independence and Serendipity Beaches lies Sihanoukville's prettiest stretch of sand, 1.5km-long Sokha Beach."
           },
           {
-            "id": 175,
+            "id": 65,
             "attractionPlace": "Independence Beach",
             "imgSrc": "https://www.greeneratravel.com/userfiles/850beachinde.jpg",
             "tag": "Beach",
             "description": "The Independence Beach in Sihanoukville is a calm and quiet sea side destination in the city of numerous beaches. It is just the place for you to spend some quiet moments with your loved ones while taking pleasure in the untamed beauties of nature. With no interruption at all, you can spend time in this Sihanoukville sightseeing spot just the way you want to."
           },
           {
-            "id": 176,
+            "id": 66,
             "attractionPlace": "Sokha Beach Resort",
             "imgSrc": "https://evivatour.com/wp-content/uploads/2021/09/Sokha-Beach-Resort-Sihanoukville-Cambodia.jpg",
             "tag": "Resort · Beach",
@@ -3402,35 +3402,35 @@
       "Khmer": {
         "attraction": [
           {
-            "id": 172,
+            "id": 52,
             "attractionPlace": "ឆ្នេរកែប",
             "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipPffNJRBOE1aH9oMtAnqH59JHPMhF8eGY7KdsL3=s1360-w1360-h1020",
             "tag": "ឆ្នេរខ្សាច់",
             "description": "ឆ្នេរខ្សាច់ស មានភោជនីយដ្ឋានគ្រឿងសមុទ្រក្នុងស្រុក និងកន្លែងស្នាក់នៅសម្រាប់អ្នកដំណើរនៅក្បែរនោះ។"
           },
           {
-            "id": 173,
+            "id": 63,
             "attractionPlace": "ឆ្នេរអូរឈើទាល",
             "imgSrc": "https://lp-cms-production.imgix.net/2019-06/98c4f520773fb839bc719b7b3c742582-occheuteal-beach.jpg?auto=format&w=1920&h=640&fit=crop&crop=faces,edges&q=75",
             "tag": "ឆ្នេរខ្សាច់",
             "description": "ឆ្នេរអូរឈើទាល គឺជាឆ្នេរមួយដែលមានចម្ងាយ ៣.៥ គីឡូម៉ែត្រ ស្ថិតនៅភាគខាងត្បូងនៃក្រុងព្រះសីហនុ ក្នុងប្រទេសកម្ពុជា។ ឆ្នេរ​នេះ​រត់​ទៅ​ទិស​ខាង​កើត​រហូត​ដល់​មាត់​ទន្លេ និង​ក្បាល​ទឹក ដែល​បំបែក​វា​ពី​ឆ្នេរ​អូរត្រេះ ដែល​ចាប់​ផ្តើម​បន្ទាប់​ពី​ក្បាល​ដី។"
           },
           {
-            "id": 174,
+            "id": 64,
             "attractionPlace": "ឆ្នេរអូត្រេស",
             "imgSrc": "https://www.ourglobetrotters.com/wp-content/uploads/2021/01/Destinations-Cambodia-Otres-Beach-1024x683.jpg",
             "tag": "ឆ្នេរខ្សាច់",
             "description": "ពាក់កណ្តាលផ្លូវរវាងឆ្នេរឯករាជ្យ និងឆ្នេរអូរឈើទាល គឺជាឆ្នេរខ្សាច់ដ៏ស្រស់ស្អាតបំផុតរបស់ក្រុងព្រះសីហនុ ឆ្នេរសុខាប្រវែង 1.5 គីឡូម៉ែត្រ។"
           },
           {
-            "id": 175,
+            "id": 65,
             "attractionPlace": "ឆ្នេរឯករាជ្យ",
             "imgSrc": "https://www.greeneratravel.com/userfiles/850beachinde.jpg",
             "tag": "ឆ្នេរខ្សាច់",
             "description": "ឆ្នេរឯករាជ្យក្នុងក្រុងព្រះសីហនុ គឺជាគោលដៅឆ្នេរដ៏ស្ងប់ស្ងាត់ និងស្ងប់ស្ងាត់នៅក្នុងទីក្រុងដែលមានឆ្នេរជាច្រើន។ វាគ្រាន់តែជាកន្លែងសម្រាប់អ្នកដើម្បីចំណាយពេលដ៏ស្ងប់ស្ងាត់ខ្លះជាមួយមនុស្សជាទីស្រលាញ់របស់អ្នក ខណៈពេលដែលរីករាយជាមួយនឹងសម្រស់ធម្មជាតិដែលមិនអាចបំភ្លេចបាន។ ដោយ​គ្មាន​ការ​រំខាន​អ្វី​ទាំងអស់ អ្នក​អាច​ចំណាយ​ពេល​នៅ​កន្លែង​កម្សាន្ត​នៅ​ខេត្ត​ព្រះសីហនុ​តាម​របៀប​ដែល​អ្នក​ចង់​ទៅ។"
           },
           {
-            "id": 176,
+            "id": 66,
             "attractionPlace": "ឆ្នេរសុខា",
             "imgSrc": "https://evivatour.com/wp-content/uploads/2021/09/Sokha-Beach-Resort-Sihanoukville-Cambodia.jpg",
             "tag": "រមណីដ្ឋាន · ឆ្នេរខ្សាច់",
@@ -3446,42 +3446,42 @@
       "English": {
         "attraction": [
           {
-            "id": 178,
+            "id": 1,
             "attractionPlace": "Royal Palace",
             "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Le_Palais_Royal_%28Phnom_Penh%29_%286997773481%29.jpg",
             "tag": "Royal Palace · Historic Sites",
             "description": "The Royal Palace of Cambodia is a complex of buildings which serves as the official royal residence of the King of Cambodia. Its full name in Khmer is the Preah Barom Reacheaveang Chaktomuk Serey Mongkol."
           },
           {
-            "id": 179,
+            "id": 2,
             "attractionPlace": "Wat Phnom",
             "imgSrc": "https://image-tc.galaxy.tf/wijpeg-6lp8rr31vfvdy41ubtpqdgihd/wat-phnom-pagoda.jpg",
             "tag": "Pagoda · Historic Sites",
             "description": "Wat Phnom is a Buddhist temple in Doun Penh, Phnom Penh. It is a pagoda, that symbolizes the name of Phnom Penh, and a historical site that is part of the Khmer national identity. Wat Phnom has a total height of 46 meters. "
           },
           {
-            "id": 180,
+            "id": 9,
             "attractionPlace": "Angkor Wat Temple",
             "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1549962209-892-angkor_wat_october_2006_001.jpg",
             "tag": "Ancient Ruins · Historic Sites",
             "description": "Angkor Wat is a temple complex in Cambodia, located on a site measuring 162.6 hectares. The Guinness World Records considers it as the largest religious structure in the world."
           },
           {
-            "id": 181,
+            "id": 10,
             "attractionPlace": "Bayon Temple",
             "imgSrc": "https://cdn.britannica.com/55/122155-050-56389FCC/Bayon-temple-Angkor-Thom-Cambodia.jpg",
             "tag": "Ancient Ruins · Historic Sites",
             "description": "The Bayon was the state temple of King Jayavarman VII, built at the end of the 12th century. It is a mountain temple built to represent Mount Meru, the center of the universe in Hindu and Buddhist cosmology. However, unlike most Khmer temples, the Bayon is not surrounded by a moat and walls with gopura entrances."
           },
           {
-            "id": 182,
+            "id": 17,
             "attractionPlace": "Phreah Reach Traop Mountain (Phnom Oudong)",
             "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550128420-1066-jmutzzmi.jpg",
             "tag": "Historic Sites · Mountain",
             "description": "Located around 40 km north of Phnom Penh in Kandal Province, Oudong became the capital of Cambodia after it shifted from nearby Longvek in 1618 and was the seat of power for over two centuries until around 1863 when it shifted to what is now Phnom Penh. The ancient capital once radiated out around the base of this mountain in all directions with major development around the busy port at Kampong Loung on the edge of the Tonle Sap River."
           },
           {
-            "id": 183,
+            "id": 44,
             "attractionPlace": "Preah Monivong National Park (Bokor National Park)",
             "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipPffNJRBOE1aH9oMtAnqH59JHPMhF8eGY7KdsL3=s1360-w1360-h1020",
             "tag": "National Park · Historic Sites",
@@ -3493,42 +3493,42 @@
       "Khmer": {
         "attraction": [
           {
-            "id": 178,
+            "id": 1,
             "attractionPlace": "ព្រះបរមរាជវាំង",
             "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Le_Palais_Royal_%28Phnom_Penh%29_%286997773481%29.jpg",
             "tag": "ព្រះបរមរាជវាំង · ទីតាំងប្រវត្តិសាស្ត្រ",
             "description": "ព្រះបរមរាជវាំងនៃព្រះរាជាណាចក្រកម្ពុជា គឺជាអគារដ៏ស្មុគ្រស្មាញ ដែលបម្រើជាព្រះរាជដំណាក់ផ្លូវការរបស់ព្រះមហាក្សត្រកម្ពុជា។ ឈ្មោះពេញជាភាសាខ្មែរគឺ ព្រះបារមីរាជសីហ៍ ចតុមុខសិរីមង្គល។"
           },
           {
-            "id": 179,
+            "id": 2,
             "attractionPlace": "វត្តភ្នំ",
             "imgSrc": "https://image-tc.galaxy.tf/wijpeg-6lp8rr31vfvdy41ubtpqdgihd/wat-phnom-pagoda.jpg",
             "tag": "វត្ត · ទីតាំងប្រវត្តិសាស្ត្រ",
             "description": "វត្តភ្នំ ជា​វត្ត​ពុទ្ធសាសនបណ្ឌិត្យ ក្នុង​ក្រុង​ដូនពេញ រាជធានី​ភ្នំពេញ។ ជា​វត្ត​ដែល​តំណាង​ឲ្យ​ឈ្មោះ​ទីក្រុង​ភ្នំពេញ និង​ជា​រមណីយដ្ឋាន​ប្រវត្តិសាស្ត្រ​មួយ​ផ្នែក​នៃ​អត្តសញ្ញាណ​ជាតិ​ខ្មែរ។ វត្តភ្នំមានកម្ពស់សរុប ៤៦ ម៉ែត្រ។"
           },
           {
-            "id": 180,
+            "id": 9,
             "attractionPlace": "ប្រាសាទ អង្គរវត្ត",
             "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1549962209-892-angkor_wat_october_2006_001.jpg",
             "tag": "ប្រាសាទបុរាណ · ទីតាំងប្រវត្តិសាស្ត្រ",
             "description": "ប្រាសាទអង្គរវត្តជាប្រាសាទមួយក្នុងប្រទេសកម្ពុជា ដែលមានទីតាំងនៅលើផ្ទៃដី ១៦២.៦ ហិកតា។ កំណត់ត្រាពិភពលោក Guinness ចាត់ទុកវាជារចនាសម្ព័ន្ធសាសនាដ៏ធំបំផុតនៅក្នុងពិភពលោក។"
           },
           {
-            "id": 181,
+            "id": 10,
             "attractionPlace": "ប្រាសាទ បាយ័ន",
             "imgSrc": "https://cdn.britannica.com/55/122155-050-56389FCC/Bayon-temple-Angkor-Thom-Cambodia.jpg",
             "tag": "ប្រាសាទបុរាណ · ទីតាំងប្រវត្តិសាស្ត្រ",
             "description": "ប្រាសាទបាយ័ន គឺជាប្រាសាទរដ្ឋរបស់ព្រះបាទជ័យវរ្ម័នទី៧ ដែលសាងសង់ឡើងនៅចុងសតវត្សទី១២។ វាគឺជាប្រាសាទភ្នំមួយដែលត្រូវបានសាងសង់ឡើងដើម្បីតំណាងឱ្យភ្នំព្រះសុមេរុ ដែលជាមជ្ឈមណ្ឌលនៃចក្រវាឡក្នុងព្រហ្មញ្ញសាសនា និងពុទ្ធសាសនា។ ទោះយ៉ាងណាក៏ដោយ មិនដូចប្រាសាទខ្មែរភាគច្រើនទេ ប្រាសាទបាយ័នមិនត្រូវបានហ៊ុំព័ទ្ធដោយកសិណ និងជញ្ជាំងដែលមានច្រកចូលគោបុរៈទេ។"
           },
           {
-            "id": 182,
+            "id": 17,
             "attractionPlace": "ភ្នំព្រះរាជទ្រព្យ (ភ្នំឧត្តុង្គ)",
             "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550128420-1066-jmutzzmi.jpg",
             "tag": "ភ្នំ · ទីតាំងប្រវត្តិសាស្ត",
             "description": "ស្ថិតនៅចម្ងាយប្រហែល 40 គីឡូម៉ែត្រភាគខាងជើងនៃរាជធានីភ្នំពេញក្នុងខេត្តកណ្តាល ឧដុង្គបានក្លាយជារាជធានីនៃប្រទេសកម្ពុជាបន្ទាប់ពីវាបានផ្លាស់ប្តូរពីក្បែរនោះ លុងវែកក្នុងឆ្នាំ 1618 និងជាកន្លែងកាន់អំណាចអស់រយៈពេលជាងពីរសតវត្សរហូតដល់ប្រហែលឆ្នាំ 1863 នៅពេលដែលវាបានផ្លាស់ប្តូរមកទីក្រុងភ្នំពេញឥឡូវនេះ។ រាជធានីបុរាណធ្លាប់បញ្ចេញពន្លឺជុំវិញជើងភ្នំនេះគ្រប់ទិសទី ជាមួយនឹងការអភិវឌ្ឍន៍ធំៗជុំវិញកំពង់ផែដ៏មមាញឹកនៅកំពង់លួងនៅមាត់ទន្លេសាប។"
           },
           {
-            "id": 183,
+            "id": 44,
             "attractionPlace": "ឧទ្យានជាតិ មុនីវង្យបូកគោ",
             "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipPffNJRBOE1aH9oMtAnqH59JHPMhF8eGY7KdsL3=s1360-w1360-h1020",
             "tag": "ឧទ្យានជាតិ · ទីកន្លែងប្រវត្តិសាស្ត្រ",
@@ -3544,28 +3544,28 @@
       "English": {
         "attraction": [
           {
-            "id": 184,
+            "id": 33,
             "attractionPlace": "Nokor Phnom",
             "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550222387-1201-new-Nokor%20Phnom.jpg",
             "tag": "Nature · Wildlife",
             "description": "Nokor Phnom is located in Roung Dam Rei Village, Cheung Phnom Commune, Bar Phnom District, about 45 km (1h:30mn) from Provincial Town. It is a Nature & Wildlife Preserves."
           },
           {
-            "id": 185,
+            "id": 81,
             "attractionPlace": "Phnum Samkos Wildlife Sanctuary",
             "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipN3LzSRvm0cU6lolk3pxQejwXwS4MSqVrH476US=s1360-w1360-h1020",
             "tag": "Nature · Wildlife Sanctuary",
             "description": "Phnom Samkos Wildlife Sanctuary is a wildlife sanctuary in western Cambodia, bordering Thailand. The sanctuary was established in 1993 and covers 3,307.56 km². It is also designated as an Important Bird Area."
           },
           {
-            "id": 186,
+            "id": 155,
             "attractionPlace": "Borey O'Svay",
             "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550028709-952-DoOjxVjU0AEVxkp.jpg",
             "tag": "Nature · Wildlife",
             "description": "Borey O'Svay is located in O'Savy commune of Thala Borivath district and is one of the most popular ecotourism destinations for both local Cambodians and foreign tourists wishing to experience an authentic Khmer community."
           },
           {
-            "id": 187,
+            "id": 162,
             "attractionPlace": "Kulen Promtep Wildlife Sanctuary",
             "imgSrc": "https://www.insideasiatours.com/sites/default/files/2020-10/PLACE%20PAGE%20Cambodia_BotumSakorNationalPark_CardamomTentedCamp_Area-1.JPG",
             "tag": "Nature · Wildlife",
@@ -3577,28 +3577,28 @@
       "Khmer": {
         "attraction": [
           {
-            "id": 1,
+            "id": 33,
             "attractionPlace": "នគរភ្នំ",
             "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550222387-1201-new-Nokor%20Phnom.jpg",
             "tag": "ប្រាសាទបុរាណ · ភ្នំ",
             "description": "នគរភ្នំ ស្ថិតនៅភូមិរូងដំរី ឃុំជើងភ្នំ ស្រុកបាភ្នំ ចម្ងាយប្រហែល ៤៥ គីឡូម៉ែត្រ (១ ម៉ោង និង ៣០ នាទី) ពីទីរួមខេត្ត។ វាជាឧទ្យានធម្មជាតិ & អភិរក្សសត្វព្រៃ។"
           },
           {
-            "id": 2,
+            "id": 81,
             "attractionPlace": "ដែនជម្រកសត្វព្រៃ ភ្នំសំកុស",
             "imgSrc": "https://lh3.googleusercontent.com/p/AF1QipN3LzSRvm0cU6lolk3pxQejwXwS4MSqVrH476US=s1360-w1360-h1020",
             "tag": "ធម្មជាតិ · ដែនជម្រកសត្វព្រៃ",
             "description": "ដែនជម្រកសត្វព្រៃភ្នំសំកុស ជាដែនជម្រកសត្វព្រៃនៅភាគខាងលិចប្រទេសកម្ពុជា ជាប់ព្រំដែនប្រទេសថៃ។ ជម្រកនេះត្រូវបានបង្កើតឡើងក្នុងឆ្នាំ 1993 និងគ្របដណ្តប់ 3,307.56 គីឡូម៉ែត្រការ៉េ។ វាក៏ត្រូវបានកំណត់ថាជាតំបន់បក្សីដ៏សំខាន់ផងដែរ។"
           },
           {
-            "id": 3,
+            "id": 155,
             "attractionPlace": "បុរីអូរស្វាយ",
             "imgSrc": "https://tourismcambodia.org/storage/uploads/contents/entryform/1550028709-952-DoOjxVjU0AEVxkp.jpg",
             "tag": "ធម្មជាតិ · ដែនជម្រកសត្វព្រៃ",
             "description": "បុរីអូរស្វាយ ស្ថិតនៅក្នុងឃុំអូរសាវី ស្រុកថាឡាបរិវ៉ាត់ និងជាតំបន់ទេសចរណ៍ធម្មជាតិដ៏ពេញនិយមបំផុតមួយសម្រាប់ទាំងប្រជាជនកម្ពុជាក្នុងស្រុក និងភ្ញៀវទេសចរណ៍បរទេសដែលមានបំណងចង់ជួបសហគមន៍ខ្មែរពិតប្រាកដ។"
           },
           {
-            "id": 4,
+            "id": 162,
             "attractionPlace": "ដែនជម្រកសត្វព្រៃគូលែនព្រហ្មទេព",
             "imgSrc": "https://www.insideasiatours.com/sites/default/files/2020-10/PLACE%20PAGE%20Cambodia_BotumSakorNationalPark_CardamomTentedCamp_Area-1.JPG",
             "tag": "ធម្មជាតិ · ដែនជម្រកសត្វព្រៃ",
