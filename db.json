@@ -79,7 +79,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "ភ្នំពេញ",
         "city": "រាជធានីនៃប្រទេសកម្ពុជា",
@@ -152,7 +151,6 @@
         ]
       }
     },
-
     {
       "id": 2,
       "nameEn": "Siem Reap",
@@ -232,7 +230,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "សៀមរាប",
         "city": "ក្រុងសៀមរាប",
@@ -305,7 +302,6 @@
         ]
       }
     },
-
     {
       "id": 3,
       "nameEn": "Kandal",
@@ -385,7 +381,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "កណ្តាល",
         "city": "ក្រុងតាខ្មៅ",
@@ -458,7 +453,6 @@
         ]
       }
     },
-
     {
       "id": 4,
       "nameEn": "Takeo",
@@ -538,7 +532,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "តាកែវ",
         "city": "ក្រុងដូនកែវ",
@@ -611,7 +604,6 @@
         ]
       }
     },
-
     {
       "id": 5,
       "nameEn": "Prey Veng",
@@ -691,7 +683,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "ព្រៃវែង",
         "city": "ក្រុងព្រៃវែង",
@@ -764,7 +755,6 @@
         ]
       }
     },
-
     {
       "id": 6,
       "nameEn": "Svay Rieng",
@@ -804,7 +794,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "ស្វាយរៀង",
         "city": "ក្រុងស្វាយរៀង",
@@ -837,7 +826,6 @@
         ]
       }
     },
-
     {
       "id": 7,
       "nameEn": "Kampot",
@@ -847,8 +835,8 @@
       "cityPicture": "https://lh3.googleusercontent.com/p/AF1QipPb_VBAYy_WusnWTaD0IA-Zg3XWiA8EvHODIxz5=s1360-w1360-h1020",
       "provinceMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1003340.455888255!2d104.3226014!3d10.78842255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x310905ad816f8233%3A0xfcf397aabf9d3301!2sKampot%20Province!5e0!3m2!1sen!2skh!4v1704527743066!5m2!1sen!2skh",
       "English": {
-        "province": "Kampot",
-        "city": "Krong Kampot Municipality",
+        "province": "Kompot",
+        "city": "Krong Kompot Municipality",
         "description": "Kampot is a province in southwest Cambodia, edging onto the Gulf of Thailand. In the west, the jOngle of Preah Monivong (aka Bokor) National Park in the misty Elephant Mountains is home to Bokor Hill Station, a 1920s French ghost town. On the banks of the Teuk Chhou River, the province's sleepy capital, Kampot, is known for its French colonial architecture. ",
         "attraction": [
           {
@@ -917,7 +905,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "កំពត",
         "city": "ក្រុងកំពត",
@@ -990,7 +977,6 @@
         ]
       }
     },
-
     {
       "id": 8,
       "nameEn": "Kep",
@@ -1070,7 +1056,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "កែប",
         "city": "ក្រុងកែប",
@@ -1143,7 +1128,6 @@
         ]
       }
     },
-
     {
       "id": 9,
       "nameEn": "Sihanoukville",
@@ -1223,7 +1207,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "ព្រះសីហនុ",
         "city": "ក្រុងព្រះសីហនុ",
@@ -1296,7 +1279,6 @@
         ]
       }
     },
-
     {
       "id": 10,
       "nameEn": "Koh Kong",
@@ -1376,7 +1358,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "កោះកុង",
         "city": "ក្រុងខេមរភូមិន្ទ",
@@ -1449,7 +1430,6 @@
         ]
       }
     },
-
     {
       "id": 11,
       "nameEn": "Kampong Speu",
@@ -1459,7 +1439,7 @@
       "cityPicture": "https://tourismcambodia.org/storage/uploads/category_banner/ministry-of-tourism-cambodia-2019-02-18-07-44-27am-Kampong-Speu-Cambodia.jpg",
       "provinceMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d125123.09925874483!2d104.51370125000001!3d11.472934750000007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31093b0dc036ba2f%3A0x31f7906da6e971fa!2sKrong%20Chbar%20Mon!5e0!3m2!1sen!2skh!4v1704527913766!5m2!1sen!2skh",
       "English": {
-        "province": "Kampong Speu",
+        "province": "Kompong Speu",
         "city": "Chbar Mon Municipality",
         "description": "Chbar Mon is the capital of Kampong Speu Province in central Cambodia. Most of the townspeople speak only Khmer, but some are conversant in Mandarin. The center of the town hosts a market, surrounded by bicycle shops, a dispensary and small restaurants. There is a guesthouse just minutes away for travelers.",
         "attraction": [
@@ -1497,7 +1477,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "កំពង់ស្ពឺ",
         "city": "ក្រុងច្បារមន",
@@ -1538,7 +1517,6 @@
         ]
       }
     },
-
     {
       "id": 12,
       "nameEn": "Pursat",
@@ -1610,7 +1588,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "ពោធិ៍សាត់",
         "city": "ក្រុងកពោធិ៍សាត់",
@@ -1675,7 +1652,6 @@
         ]
       }
     },
-
     {
       "id": 13,
       "nameEn": "Battambang",
@@ -1755,7 +1731,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "បាត់ដំបង",
         "city": "ក្រុងបាត់ដំបង",
@@ -1828,7 +1803,6 @@
         ]
       }
     },
-
     {
       "id": 14,
       "nameEn": "Pailin",
@@ -1884,7 +1858,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "ខេត្តប៉ៃលិន",
         "city": "ក្រុងប៉ៃលិន",
@@ -1934,7 +1907,6 @@
         ]
       }
     },
-
     {
       "id": 15,
       "nameEn": "Kampong Chnang",
@@ -1990,7 +1962,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "កំពង់ឆ្នាំង",
         "city": "ក្រុងកំពង់ឆ្នាំង",
@@ -2039,7 +2010,6 @@
         ]
       }
     },
-
     {
       "id": 16,
       "nameEn": "Kampong Cham",
@@ -2103,7 +2073,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "កំពង់ចាម",
         "city": "ក្រុងកំពង់ចាម",
@@ -2160,7 +2129,6 @@
         ]
       }
     },
-
     {
       "id": 17,
       "nameEn": "Tbong Khmum",
@@ -2224,7 +2192,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "ត្បូងឃ្មំ",
         "city": "ក្រុងសួង",
@@ -2281,7 +2248,6 @@
         ]
       }
     },
-
     {
       "id": 18,
       "nameEn": "Kratie",
@@ -2353,7 +2319,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "ក្រចេះ",
         "city": "ក្រុងក្រចេះ",
@@ -2418,7 +2383,6 @@
         ]
       }
     },
-
     {
       "id": 19,
       "nameEn": "Kampong Thom",
@@ -2482,7 +2446,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "កំពង់ធំ",
         "city": "ក្រុងកំពង់ធំ",
@@ -2539,7 +2502,6 @@
         ]
       }
     },
-
     {
       "id": 20,
       "nameEn": "Mondulkiri",
@@ -2619,7 +2581,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "មណ្ឌលគិរី",
         "city": "ក្រុងសែនមនោរម្យ",
@@ -2692,7 +2653,6 @@
         ]
       }
     },
-
     {
       "id": 21,
       "nameEn": "Ratanakiri",
@@ -2772,7 +2732,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "រតនគិរី",
         "city": "ក្រុងបានលុង",
@@ -2845,7 +2804,6 @@
         ]
       }
     },
-
     {
       "id": 22,
       "nameEn": "Preah Vihear",
@@ -2909,7 +2867,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "ព្រះវិហារ",
         "city": "ក្រុងព្រះវិហារ",
@@ -2966,7 +2923,6 @@
         ]
       }
     },
-
     {
       "id": 23,
       "nameEn": "Steung Treng",
@@ -3038,7 +2994,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "ស្ទឹងត្រែង",
         "city": "ក្រុងស្ទឹងត្រែង",
@@ -3103,7 +3058,6 @@
         ]
       }
     },
-
     {
       "id": 24,
       "nameEn": "Oddar Meanchey",
@@ -3143,7 +3097,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "ឧត្តរមានជ័យ",
         "city": "ក្រុងសំរោង",
@@ -3176,7 +3129,6 @@
         ]
       }
     },
-
     {
       "id": 25,
       "nameEn": "Banteay Meanchey",
@@ -3200,7 +3152,6 @@
           }
         ]
       },
-
       "Khmer": {
         "province": "បន្ទាយមានជ័យ",
         "city": "ក្រុងសិរីសោភ័ណ",
